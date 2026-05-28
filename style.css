@@ -1,0 +1,159 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #000;
+  color: #f5f1e8;
+
+  font-family: 'Inter', sans-serif;
+
+  overflow: hidden;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.hero {
+  position: relative;
+
+  min-height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 40px 24px;
+}
+
+.content {
+  position: relative;
+  z-index: 2;
+
+  width: 100%;
+
+  text-align: center;
+}
+
+.logo {
+  width: 92vw;
+
+  max-width: 1400px;
+
+  display: block;
+
+  margin: 0 auto;
+
+  opacity: 0.98;
+}
+
+.statement {
+  max-width: 720px;
+
+  margin: 20px auto 0 auto;
+
+  font-size: 0.95rem;
+
+  line-height: 1.9;
+
+  letter-spacing: 0.04em;
+
+  color: rgba(255,255,255,0.58);
+}
+
+.contact {
+  margin-top: 18px;
+
+  font-size: 0.82rem;
+
+  letter-spacing: 0.04em;
+
+  line-height: 1.8;
+
+  color: rgba(255,255,255,0.50);
+}
+
+.contact a {
+  color: #c8a56a;
+
+  text-decoration: none;
+
+  transition: opacity 0.25s ease;
+}
+
+.contact a:hover {
+  opacity: 0.75;
+}
+
+.footer {
+  margin-top: 52px;
+
+  font-size: 0.72rem;
+
+  letter-spacing: 0.08em;
+
+  text-transform: uppercase;
+
+  color: rgba(255,255,255,0.28);
+}
+
+.grain {
+  position: fixed;
+
+  inset: 0;
+
+  opacity: 0.03;
+
+  pointer-events: none;
+
+  background-image:
+    url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+}
+
+/* Mobile */
+
+@media (max-width: 768px) {
+
+  .hero {
+    padding: 24px 16px;
+  }
+
+  .logo {
+    width: 96vw;
+
+    max-width: none;
+  }
+
+  .statement {
+    margin-top: 28px;
+
+    padding: 0 8px;
+
+    font-size: 0.88rem;
+
+    line-height: 1.8;
+  }
+
+  .contact {
+    margin-top: 14px;
+
+    padding: 0 8px;
+
+    font-size: 0.76rem;
+
+    line-height: 1.7;
+  }
+
+  .footer {
+    margin-top: 42px;
+
+    font-size: 0.66rem;
+  }
+
+}

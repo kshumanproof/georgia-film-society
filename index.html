@@ -5,11 +5,10 @@
   <!-- Basic -->
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
 
   <!-- Primary SEO -->
-  <title>Georgia Film Society</title>
-  <link rel="icon" type="image/png" href="/gfs-logos/GFS.png">
-  <link rel="apple-touch-icon" href="/gfs-logos/GFS.png">
+  <title>Georgia Film Society | Nonprofit Film & Cinematic Arts Organization</title>
 
   <meta
     name="description"
@@ -22,68 +21,55 @@
   />
 
   <meta name="author" content="Georgia Film Society" />
-
-  <meta name="robots" content="index, follow" />
+  <meta name="robots" content="index,follow,max-image-preview:large" />
+  <meta name="theme-color" content="#050505" />
 
   <!-- Canonical -->
-  <link
-    rel="canonical"
-    href="https://georgiafilmsociety.com/"
-  />
+  <link rel="canonical" href="https://georgiafilmsociety.com/" />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="192x192" href="/gfs-logos/GFS.png" />
+  <link rel="apple-touch-icon" href="/gfs-logos/GFS.png" />
 
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
-
-  <meta
-    property="og:title"
-    content="Georgia Film Society"
-  />
-
+  <meta property="og:title" content="Georgia Film Society" />
   <meta
     property="og:description"
     content="A nonprofit cinematic cultural institution dedicated to filmmakers, storytelling, and cinematic excellence."
   />
-
   <meta
     property="og:image"
     content="https://georgiafilmsociety.com/gfs-logos/georgia-film-society.png"
   />
-
   <meta
-    property="og:url"
-    content="https://georgiafilmsociety.com/"
+    property="og:image:alt"
+    content="Georgia Film Society Logo"
   />
-
-  <meta
-    property="og:site_name"
-    content="Georgia Film Society"
-  />
+  <meta property="og:url" content="https://georgiafilmsociety.com/" />
+  <meta property="og:site_name" content="Georgia Film Society" />
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
-
-  <meta
-    name="twitter:title"
-    content="Georgia Film Society"
-  />
-
+  <meta name="twitter:title" content="Georgia Film Society" />
   <meta
     name="twitter:description"
     content="A nonprofit cinematic cultural institution dedicated to filmmakers, storytelling, and cinematic excellence."
   />
-
   <meta
     name="twitter:image"
     content="https://georgiafilmsociety.com/gfs-logos/georgia-film-society.png"
   />
+  <meta
+    name="twitter:image:alt"
+    content="Georgia Film Society Logo"
+  />
 
-  <!-- Theme -->
-  <meta name="theme-color" content="#050505" />
+  <!-- Performance -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
   <!-- Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
   <link
     href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600&family=Inter:wght@300;400;500&display=swap"
     rel="stylesheet"
@@ -91,15 +77,54 @@
 
   <!-- Styles -->
   <link rel="stylesheet" href="style.css" />
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-SM8VTXRTMF"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-SM8VTXRTMF');
-</script>
+  <!-- Organization Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Georgia Film Society",
+    "url": "https://georgiafilmsociety.com",
+    "logo": "https://georgiafilmsociety.com/gfs-logos/GFS.png",
+    "email": "hello@georgiafilmsociety.com",
+    "description": "Georgia Film Society is a nonprofit cinematic cultural institution dedicated to filmmakers, storytelling, cinematic culture, and the future of film in Georgia and the Southeast.",
+    "sameAs": [
+      "https://www.instagram.com/georgiafilmsociety/"
+    ]
+  }
+  </script>
+
+  <!-- Website Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Georgia Film Society",
+    "url": "https://georgiafilmsociety.com",
+    "description": "A nonprofit cinematic cultural institution dedicated to filmmakers, storytelling, and cinematic excellence."
+  }
+  </script>
+
+  <!-- WebPage Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Georgia Film Society",
+    "url": "https://georgiafilmsociety.com/",
+    "description": "A nonprofit cinematic cultural institution dedicated to filmmakers, storytelling, and cinematic excellence."
+  }
+  </script>
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-SM8VTXRTMF"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-SM8VTXRTMF');
+  </script>
 
 </head>
 
@@ -112,7 +137,7 @@
     <div class="content">
 
       <img
-        src="gfs-logos/georgia-film-society.png"
+        src="/gfs-logos/georgia-film-society.png"
         alt="Georgia Film Society"
         class="logo"
       />
@@ -131,9 +156,8 @@
       </p>
 
       <footer class="footer">
-  © 2026 Georgia Film Society. All rights reserved.
-</footer>
-      
+        © 2026 Georgia Film Society. All rights reserved.
+      </footer>
 
     </div>
 

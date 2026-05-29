@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.georgiafilmsociety.com/sitemap.xml
+Sitemap: https://georgiafilmsociety.com/sitemap.xml

@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
+
+  <title>Programs | Georgia Film Society</title>
+
+  <meta
+    name="description"
+    content="Georgia Film Society is developing year-round programming for cinema culture, including curated screenings, member salons, education initiatives, filmmaker support, Cardennes Film Festival, and future-of-storytelling events."
+  />
+
+  <meta
+    name="keywords"
+    content="Georgia Film Society, Georgia film, nonprofit film organization, cinematic culture, independent film, filmmakers, storytelling, Southeast film, Cardennes Film Festival, film membership, film patrons"
+  />
+
+  <meta name="author" content="Georgia Film Society" />
+  <meta name="robots" content="index,follow,max-image-preview:large" />
+  <meta name="theme-color" content="#080807" />
+
+  <link rel="canonical" href="https://georgiafilmsociety.com/" />
+
+  <link rel="icon" type="image/png" sizes="192x192" href="assets/img/icon-gfs.png" />
+  <link rel="apple-touch-icon" href="assets/img/icon-gfs.png" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Georgia Film Society" />
+  <meta
+    property="og:description"
+    content="A nonprofit cinematic cultural institution for Georgia and the Southeast."
+  />
+  <meta property="og:image" content="https://georgiafilmsociety.com/assets/img/social-preview.jpg" />
+  <meta property="og:image:alt" content="Georgia Film Society Logo" />
+  <meta property="og:url" content="https://georgiafilmsociety.com/" />
+  <meta property="og:site_name" content="Georgia Film Society" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Georgia Film Society" />
+  <meta
+    name="twitter:description"
+    content="A nonprofit cinematic cultural institution for Georgia and the Southeast."
+  />
+  <meta name="twitter:image" content="https://georgiafilmsociety.com/assets/img/social-preview.jpg" />
+  <meta name="twitter:image:alt" content="Georgia Film Society Logo" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            obsidian: '#080807',
+            charcoal: '#171513',
+            ivory: '#F4F0E6',
+            limestone: '#D8D0C2',
+            laurel: '#1E3329',
+            brass: '#B89A5E',
+            oxblood: '#4A1F20',
+            signal: '#185CFF'
+          },
+          fontFamily: {
+            serif: ['Cormorant Garamond', 'Georgia', 'serif'],
+            sans: ['Inter', 'Arial', 'sans-serif']
+          }
+        }
+      }
+    }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Georgia Film Society",
+    "url": "https://georgiafilmsociety.com",
+    "logo": "https://georgiafilmsociety.com/assets/img/icon-gfs.png",
+    "email": "hello@georgiafilmsociety.com",
+    "description": "Georgia Film Society is a nonprofit cinematic cultural institution dedicated to filmmakers, storytelling, cinematic culture, and the future of film in Georgia and the Southeast.",
+    "sameAs": [
+      "https://www.instagram.com/georgiafilmsociety/"
+    ]
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Georgia Film Society",
+    "url": "https://georgiafilmsociety.com",
+    "description": "A nonprofit cinematic cultural institution for Georgia and the Southeast."
+  }
+  </script>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-SM8VTXRTMF"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-SM8VTXRTMF');
+  </script>
+</head>
+
+<body class="bg-ivory font-sans text-charcoal antialiased">
+
+  <header class="fixed inset-x-0 top-0 z-50 border-b border-white/10 bg-obsidian/95 text-ivory backdrop-blur">
+  <div class="mx-auto flex max-w-7xl items-center justify-between px-5 py-4 lg:px-8">
+    <a href="index.html" class="flex items-center gap-3" aria-label="Georgia Film Society home">
+      <img src="assets/img/icon-gfs.png" alt="" class="h-8 w-8 object-contain" />
+      <div class="leading-none">
+        <div class="font-serif text-xl font-semibold tracking-[0.18em]">GEORGIA</div>
+        <div class="mt-1 text-[10px] font-semibold uppercase tracking-[0.32em] text-brass">Film Society</div>
+      </div>
+    </a>
+
+    <nav class="hidden items-center gap-8 text-sm text-ivory/75 lg:flex" aria-label="Main navigation">
+      <a href="about.html" class="transition hover:text-brass">About</a>
+      <a href="programs.html" class="transition hover:text-brass">Programs</a>
+      <a href="membership.html" class="transition hover:text-brass">Membership</a>
+      <a href="cardennes.html" class="transition hover:text-brass">Cardennes</a>
+      <a href="support.html" class="transition hover:text-brass">Support</a>
+      <a href="partner.html" class="transition hover:text-brass">Partner</a>
+    </nav>
+
+    <div class="hidden lg:block">
+      <a href="contact.html" class="rounded-full border border-brass/70 px-5 py-2 text-[11px] font-bold uppercase tracking-[0.24em] text-brass transition hover:bg-brass hover:text-obsidian">
+        Stay Connected
+      </a>
+    </div>
+
+    <button
+      id="menu-toggle"
+      type="button"
+      class="inline-flex h-11 w-11 items-center justify-center rounded-full border border-brass/60 text-brass lg:hidden"
+      aria-label="Open menu"
+      aria-controls="mobile-menu"
+      aria-expanded="false"
+    >
+      <span class="sr-only">Open menu</span>
+      <svg id="menu-open-icon" xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.8">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M4 7h16M4 12h16M4 17h16" />
+      </svg>
+      <svg id="menu-close-icon" xmlns="http://www.w3.org/2000/svg" class="hidden h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.8">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M6 6l12 12M18 6L6 18" />
+      </svg>
+    </button>
+  </div>
+
+  <div id="mobile-menu" class="hidden border-t border-white/10 bg-obsidian lg:hidden">
+    <nav class="mx-auto grid max-w-7xl gap-1 px-5 py-5 text-sm text-ivory/80" aria-label="Mobile navigation">
+      <a href="about.html" class="border-b border-white/10 py-4 hover:text-brass">About</a>
+      <a href="programs.html" class="border-b border-white/10 py-4 hover:text-brass">Programs</a>
+      <a href="membership.html" class="border-b border-white/10 py-4 hover:text-brass">Membership</a>
+      <a href="cardennes.html" class="border-b border-white/10 py-4 hover:text-brass">Cardennes</a>
+      <a href="support.html" class="border-b border-white/10 py-4 hover:text-brass">Support</a>
+      <a href="partner.html" class="border-b border-white/10 py-4 hover:text-brass">Partner</a>
+      <a href="contact.html" class="mt-5 inline-flex items-center justify-center rounded-full bg-brass px-6 py-3 text-xs font-bold uppercase tracking-[0.22em] text-obsidian">
+        Stay Connected
+      </a>
+    </nav>
+  </div>
+</header>
+
+  <main>
+
+  <section id="programs-hero" class="relative overflow-hidden bg-obsidian pt-24 text-ivory">
+    <div class="absolute inset-0">
+      <div class="absolute left-[-10%] top-[10%] h-80 w-80 rounded-full bg-brass/10 blur-3xl sm:h-[34rem] sm:w-[34rem]"></div>
+      <div class="absolute bottom-[-15%] right-[-5%] h-96 w-96 rounded-full bg-laurel/20 blur-3xl sm:h-[36rem] sm:w-[36rem]"></div>
+    </div>
+
+    <div class="relative mx-auto max-w-7xl px-5 py-20 lg:px-8 lg:py-28">
+      <div class="max-w-5xl">
+        <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+          Programs
+        </p>
+
+        <h1 class="mt-8 max-w-5xl font-serif text-5xl font-semibold leading-[0.92] tracking-[-0.055em] text-ivory sm:text-6xl md:text-7xl">
+          A year-round ecosystem for cinema culture.
+        </h1>
+
+        <p class="mt-8 max-w-3xl text-lg leading-8 text-ivory/72">
+          Georgia Film Society is designed as more than a festival. Future programming may include curated screenings, member salons, writer retreats, education initiatives, filmmaker conversations, student support, and future-of-storytelling events.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section id="programs-thesis" class="border-b border-limestone bg-ivory px-5 py-20 lg:px-8">
+    <div class="mx-auto grid max-w-7xl gap-10 lg:grid-cols-12">
+      <div class="lg:col-span-4">
+        <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+          Built with restraint
+        </p>
+      </div>
+
+      <div class="lg:col-span-8">
+        <p class="font-serif text-3xl font-medium leading-tight tracking-[-0.035em] text-charcoal sm:text-4xl lg:text-5xl">
+          The first public version of GFS should imply a larger cultural ecosystem without pretending every program is already operating. Ambition matters. So does honesty.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section id="featured-programs" class="bg-[#eee8dc] px-5 py-20 lg:px-8">
+    <div class="mx-auto max-w-7xl">
+      <div class="mb-12 max-w-4xl">
+        <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+          Program architecture
+        </p>
+
+        <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+          Designed to support the work, the artists, and the culture around them.
+        </h2>
+      </div>
+
+      <div class="grid gap-6 lg:grid-cols-2">
+
+        <article class="group overflow-hidden border border-limestone bg-ivory">
+          <div class="relative h-64 overflow-hidden bg-obsidian">
+            <div class="absolute inset-0 bg-[radial-gradient(circle_at_30%_20%,rgba(184,154,94,0.28),transparent_32%),linear-gradient(135deg,rgba(8,8,7,0.25),rgba(30,51,41,0.7))]"></div>
+            <div class="absolute inset-x-0 bottom-0 h-24 bg-gradient-to-t from-obsidian to-transparent"></div>
+            <div class="absolute bottom-6 left-6">
+              <span class="text-xs font-bold uppercase tracking-[0.24em] text-brass">In Development</span>
+            </div>
+          </div>
+
+          <div class="p-8">
+            <h3 class="font-serif text-4xl font-semibold tracking-[-0.045em]">Curated Screenings</h3>
+            <p class="mt-5 leading-7 text-charcoal/70">
+              Seasonal film gatherings designed around context, conversation, hospitality, and cinematic seriousness.
+            </p>
+            <a href="contact.html" class="mt-8 inline-flex text-sm font-bold uppercase tracking-[0.18em] text-laurel hover:text-brass">
+              Join updates
+            </a>
+          </div>
+        </article>
+
+        <article class="group overflow-hidden border border-limestone bg-ivory">
+          <div class="relative h-64 overflow-hidden bg-obsidian">
+            <div class="absolute inset-0 bg-[radial-gradient(circle_at_70%_25%,rgba(244,240,230,0.18),transparent_30%),linear-gradient(135deg,rgba(74,31,32,0.55),rgba(8,8,7,0.85))]"></div>
+            <div class="absolute inset-x-0 bottom-0 h-24 bg-gradient-to-t from-obsidian to-transparent"></div>
+            <div class="absolute bottom-6 left-6">
+              <span class="text-xs font-bold uppercase tracking-[0.24em] text-brass">Planned</span>
+            </div>
+          </div>
+
+          <div class="p-8">
+            <h3 class="font-serif text-4xl font-semibold tracking-[-0.045em]">Member Salons</h3>
+            <p class="mt-5 leading-7 text-charcoal/70">
+              Private gatherings for members, patrons, filmmakers, and invited guests around cinema, conversation, and cultural belonging.
+            </p>
+            <a href="membership.html" class="mt-8 inline-flex text-sm font-bold uppercase tracking-[0.18em] text-laurel hover:text-brass">
+              Explore membership
+            </a>
+          </div>
+        </article>
+
+        <article class="group overflow-hidden border border-limestone bg-ivory">
+          <div class="relative h-64 overflow-hidden bg-obsidian">
+            <div class="absolute inset-0 bg-[radial-gradient(circle_at_40%_35%,rgba(216,208,194,0.2),transparent_28%),linear-gradient(135deg,rgba(23,21,19,0.2),rgba(8,8,7,0.9))]"></div>
+            <div class="absolute inset-x-0 bottom-0 h-24 bg-gradient-to-t from-obsidian to-transparent"></div>
+            <div class="absolute bottom-6 left-6">
+              <span class="text-xs font-bold uppercase tracking-[0.24em] text-brass">Future Initiative</span>
+            </div>
+          </div>
+
+          <div class="p-8">
+            <h3 class="font-serif text-4xl font-semibold tracking-[-0.045em]">Writer Retreats</h3>
+            <p class="mt-5 leading-7 text-charcoal/70">
+              Focused environments for serious storytellers developing original work with time, space, community, and intention.
+            </p>
+            <a href="contact.html" class="mt-8 inline-flex text-sm font-bold uppercase tracking-[0.18em] text-laurel hover:text-brass">
+              Follow development
+            </a>
+          </div>
+        </article>
+
+        <article class="group overflow-hidden border border-limestone bg-ivory">
+          <div class="relative h-64 overflow-hidden bg-obsidian">
+            <div class="absolute inset-0 bg-[radial-gradient(circle_at_65%_35%,rgba(184,154,94,0.22),transparent_30%),linear-gradient(135deg,rgba(30,51,41,0.76),rgba(8,8,7,0.88))]"></div>
+            <div class="absolute inset-x-0 bottom-0 h-24 bg-gradient-to-t from-obsidian to-transparent"></div>
+            <div class="absolute bottom-6 left-6">
+              <span class="text-xs font-bold uppercase tracking-[0.24em] text-brass">Future Initiative</span>
+            </div>
+          </div>
+
+          <div class="p-8">
+            <h3 class="font-serif text-4xl font-semibold tracking-[-0.045em]">Student Support</h3>
+            <p class="mt-5 leading-7 text-charcoal/70">
+              Future access pathways for students, educators, interns, young filmmakers, university partners, and emerging creative leaders.
+            </p>
+            <a href="contact.html" class="mt-8 inline-flex text-sm font-bold uppercase tracking-[0.18em] text-laurel hover:text-brass">
+              Join student updates
+            </a>
+          </div>
+        </article>
+
+        <article class="group overflow-hidden border border-limestone bg-ivory">
+          <div class="relative h-64 overflow-hidden bg-obsidian">
+            <div class="absolute inset-0 bg-[radial-gradient(circle_at_30%_30%,rgba(184,154,94,0.24),transparent_30%),linear-gradient(135deg,rgba(74,31,32,0.62),rgba(30,51,41,0.62),rgba(8,8,7,0.92))]"></div>
+            <div class="absolute inset-x-0 bottom-0 h-24 bg-gradient-to-t from-obsidian to-transparent"></div>
+            <div class="absolute bottom-6 left-6">
+              <span class="text-xs font-bold uppercase tracking-[0.24em] text-brass">Planned</span>
+            </div>
+          </div>
+
+          <div class="p-8">
+            <h3 class="font-serif text-4xl font-semibold tracking-[-0.045em]">Georgia Story Summit</h3>
+            <p class="mt-5 leading-7 text-charcoal/70">
+              A future gathering around storytelling, Southern creative identity, craft, culture, hospitality, and regional leadership.
+            </p>
+            <a href="partner.html" class="mt-8 inline-flex text-sm font-bold uppercase tracking-[0.18em] text-laurel hover:text-brass">
+              Discuss partnership
+            </a>
+          </div>
+        </article>
+
+        <article class="group overflow-hidden border border-limestone bg-ivory">
+          <div class="relative h-64 overflow-hidden bg-obsidian">
+            <div class="absolute inset-0 bg-[radial-gradient(circle_at_72%_28%,rgba(24,92,255,0.35),transparent_28%),linear-gradient(135deg,rgba(8,8,7,0.45),rgba(23,21,19,0.92))]"></div>
+            <div class="absolute inset-x-0 bottom-0 h-24 bg-gradient-to-t from-obsidian to-transparent"></div>
+            <div class="absolute bottom-6 left-6">
+              <span class="text-xs font-bold uppercase tracking-[0.24em] text-signal">Future-Facing</span>
+            </div>
+          </div>
+
+          <div class="p-8">
+            <h3 class="font-serif text-4xl font-semibold tracking-[-0.045em]">AI & Future of Story</h3>
+            <p class="mt-5 leading-7 text-charcoal/70">
+              Thoughtful programming around cinema, technology, ethics, authorship, artistic innovation, and the future of creative culture.
+            </p>
+            <a href="partner.html" class="mt-8 inline-flex text-sm font-bold uppercase tracking-[0.18em] text-laurel hover:text-brass">
+              Explore alignment
+            </a>
+          </div>
+        </article>
+
+      </div>
+    </div>
+  </section>
+
+  <section id="future-initiatives" class="bg-ivory px-5 py-20 lg:px-8">
+    <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12">
+      <div class="lg:col-span-5">
+        <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+          Future initiatives
+        </p>
+
+        <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+          Additional programs can emerge as the institution earns the right to grow.
+        </h2>
+      </div>
+
+      <div class="lg:col-span-7">
+        <div class="grid gap-5 sm:grid-cols-2">
+          <div class="border-t border-charcoal/25 pt-5">
+            <h3 class="font-serif text-2xl font-semibold">Honors</h3>
+            <p class="mt-3 leading-7 text-charcoal/70">
+              Recognition for serious artistic contribution, cultural leadership, and cinematic excellence.
+            </p>
+          </div>
+
+          <div class="border-t border-charcoal/25 pt-5">
+            <h3 class="font-serif text-2xl font-semibold">Industry Mixers</h3>
+            <p class="mt-3 leading-7 text-charcoal/70">
+              Select gatherings for filmmakers, patrons, producers, executives, civic leaders, and creative collaborators.
+            </p>
+          </div>
+
+          <div class="border-t border-charcoal/25 pt-5">
+            <h3 class="font-serif text-2xl font-semibold">Education</h3>
+            <p class="mt-3 leading-7 text-charcoal/70">
+              Future university partnerships, mentorship, student access, internships, and youth programming.
+            </p>
+          </div>
+
+          <div class="border-t border-charcoal/25 pt-5">
+            <h3 class="font-serif text-2xl font-semibold">Preservation</h3>
+            <p class="mt-3 leading-7 text-charcoal/70">
+              Long-term possibilities around archives, regional cinema history, preservation, and cultural memory.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="program-cardennes" class="bg-obsidian px-5 py-20 text-ivory lg:px-8">
+    <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12 lg:items-center">
+      <div class="lg:col-span-6">
+        <div class="border border-brass/30 bg-white/[0.03] p-8">
+          <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+            Flagship festival
+          </p>
+
+          <h2 class="mt-8 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+            Cardennes Film Festival is the flagship festival of Georgia Film Society.
+          </h2>
+
+          <p class="mt-6 text-lg leading-8 text-ivory/68">
+            Cardennes is a prestige discovery platform centered on merit, curation, hospitality, and serious cinematic work.
+          </p>
+
+          <a href="cardennes.html" class="mt-9 inline-flex rounded-full border border-brass px-7 py-3 text-sm font-bold uppercase tracking-[0.18em] text-brass transition hover:bg-brass hover:text-obsidian">
+            Explore Cardennes
+          </a>
+        </div>
+      </div>
+
+      <div class="lg:col-span-6">
+        <p class="font-serif text-3xl font-semibold leading-tight tracking-[-0.035em] text-ivory sm:text-4xl">
+          Cardennes is part of the ecosystem, not a replacement for it.
+        </p>
+
+        <p class="mt-7 leading-8 text-ivory/60">
+          Festival-specific submissions, tickets, schedule, passes, festival press, and festival news should live with Cardennes. Georgia Film Society remains the larger cultural institution.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section id="calendar-state" class="border-y border-limestone bg-[#eee8dc] px-5 py-20 lg:px-8">
+    <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12">
+      <div class="lg:col-span-4">
+        <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+          Calendar
+        </p>
+      </div>
+
+      <div class="lg:col-span-8">
+        <h2 class="font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+          Programming calendar in development.
+        </h2>
+
+        <p class="mt-7 max-w-3xl text-lg leading-8 text-charcoal/70">
+          GFS is currently building the institutional foundation for future screenings, salons, member events, education initiatives, and cultural gatherings. Receive updates as programming develops.
+        </p>
+
+        <div class="mt-9 flex flex-col gap-4 sm:flex-row">
+          <a href="contact.html" class="inline-flex items-center justify-center rounded-full bg-charcoal px-7 py-3 text-sm font-bold uppercase tracking-[0.18em] text-ivory transition hover:bg-laurel">
+            Receive updates
+          </a>
+
+          <a href="membership.html" class="inline-flex items-center justify-center rounded-full border border-charcoal/30 px-7 py-3 text-sm font-bold uppercase tracking-[0.18em] text-charcoal transition hover:bg-charcoal hover:text-ivory">
+            Explore membership
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="programs-cta" class="bg-obsidian px-5 py-24 text-ivory lg:px-8">
+    <div class="mx-auto max-w-5xl text-center">
+      <p class="text-xs font-bold uppercase tracking-[0.34em] text-brass">
+        Build the ecosystem
+      </p>
+
+      <h2 class="mt-8 font-serif text-5xl font-semibold leading-none tracking-[-0.055em] sm:text-7xl">
+        Cinema culture needs places to gather.
+      </h2>
+
+      <p class="mx-auto mt-8 max-w-3xl text-lg leading-8 text-ivory/68">
+        Georgia Film Society is developing year-round programming for filmmakers, members, patrons, students, partners, and audiences across Georgia and the Southeast.
+      </p>
+
+      <div class="mt-10 flex flex-col justify-center gap-4 sm:flex-row">
+        <a href="contact.html" class="inline-flex items-center justify-center rounded-full bg-brass px-7 py-3 text-sm font-bold uppercase tracking-[0.18em] text-obsidian transition hover:bg-ivory">
+          Stay Connected
+        </a>
+
+        <a href="partner.html" class="inline-flex items-center justify-center rounded-full border border-ivory/30 px-7 py-3 text-sm font-bold uppercase tracking-[0.18em] text-ivory transition hover:border-brass hover:text-brass">
+          Partner with GFS
+        </a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+  <footer class="bg-charcoal px-5 py-12 text-ivory lg:px-8">
+    <div class="mx-auto grid max-w-7xl gap-10 md:grid-cols-2 lg:grid-cols-4">
+      <div>
+        <img src="assets/img/icon-gfs.png" alt="" class="h-9 w-9 object-contain" />
+        <p class="mt-5 max-w-xs text-sm leading-6 text-ivory/62">
+          A nonprofit cinematic cultural institution for Georgia and the Southeast.
+        </p>
+      </div>
+
+      <div>
+        <h3 class="text-xs font-bold uppercase tracking-[0.28em] text-brass">Institution</h3>
+        <div class="mt-5 grid gap-3 text-sm text-ivory/65">
+          <a href="about.html" class="hover:text-brass">About</a>
+          <a href="programs.html" class="hover:text-brass">Programs</a>
+          <a href="membership.html" class="hover:text-brass">Membership</a>
+          <a href="cardennes.html" class="hover:text-brass">Cardennes</a>
+        </div>
+      </div>
+
+      <div>
+        <h3 class="text-xs font-bold uppercase tracking-[0.28em] text-brass">Build With Us</h3>
+        <div class="mt-5 grid gap-3 text-sm text-ivory/65">
+          <a href="support.html" class="hover:text-brass">Support</a>
+          <a href="partner.html" class="hover:text-brass">Partner</a>
+          <a href="contact.html" class="hover:text-brass">Contact</a>
+        </div>
+      </div>
+
+      <div>
+        <h3 class="text-xs font-bold uppercase tracking-[0.28em] text-brass">Contact</h3>
+        <div class="mt-5 grid gap-3 text-sm text-ivory/65">
+          <a href="mailto:hello@georgiafilmsociety.com" class="hover:text-brass">hello@georgiafilmsociety.com</a>
+          <a href="https://www.instagram.com/georgiafilmsociety/" class="hover:text-brass">Instagram @georgiafilmsociety</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="mx-auto mt-12 flex max-w-7xl flex-col gap-4 border-t border-white/10 pt-6 text-xs text-ivory/42 sm:flex-row sm:items-center sm:justify-between">
+      <p>© 2026 Georgia Film Society. All rights reserved.</p>
+      <p>Georgia Film Society</p>
+    </div>
+  </footer>
+<button
+  id="to-top"
+  type="button"
+  class="fixed bottom-5 right-5 z-50 hidden h-12 w-12 items-center justify-center rounded-full border border-brass/70 bg-obsidian/90 text-brass shadow-xl backdrop-blur transition hover:bg-brass hover:text-obsidian"
+  aria-label="Back to top"
+>
+  <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.8">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M5 15l7-7 7 7" />
+  </svg>
+</button>
+
+<script>
+  const menuToggle = document.getElementById('menu-toggle');
+  const mobileMenu = document.getElementById('mobile-menu');
+  const menuOpenIcon = document.getElementById('menu-open-icon');
+  const menuCloseIcon = document.getElementById('menu-close-icon');
+  const toTopButton = document.getElementById('to-top');
+
+  menuToggle.addEventListener('click', () => {
+    const isOpen = !mobileMenu.classList.contains('hidden');
+
+    mobileMenu.classList.toggle('hidden');
+    menuOpenIcon.classList.toggle('hidden');
+    menuCloseIcon.classList.toggle('hidden');
+
+    menuToggle.setAttribute('aria-expanded', String(!isOpen));
+    menuToggle.setAttribute('aria-label', isOpen ? 'Open menu' : 'Close menu');
+  });
+
+  mobileMenu.querySelectorAll('a').forEach((link) => {
+    link.addEventListener('click', () => {
+      mobileMenu.classList.add('hidden');
+      menuOpenIcon.classList.remove('hidden');
+      menuCloseIcon.classList.add('hidden');
+      menuToggle.setAttribute('aria-expanded', 'false');
+      menuToggle.setAttribute('aria-label', 'Open menu');
+    });
+  });
+
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 500) {
+      toTopButton.classList.remove('hidden');
+      toTopButton.classList.add('flex');
+    } else {
+      toTopButton.classList.add('hidden');
+      toTopButton.classList.remove('flex');
+    }
+  });
+
+  toTopButton.addEventListener('click', () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
+  });
+</script>
+</body>
+</html>

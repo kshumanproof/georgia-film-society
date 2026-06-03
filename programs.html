@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Programs | Georgia Film Society</title>
+  <meta name="description" content="Georgia Film Society is designed as a year-round ecosystem for screenings, salons, education, retreats, summits, and future storytelling initiatives.">
+  <script>tailwind={config:{theme:{extend:{colors:{obsidian:"#080807",charcoal:"#171513",ivory:"#F4F0E6",limestone:"#D8D0C2",laurel:"#1E3329",brass:"#B89A5E",signal:"#185CFF"},fontFamily:{serif:["Georgia","serif"],sans:["Inter","Arial","sans-serif"]}}}}}</script>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-ivory text-charcoal font-sans antialiased">
+<header class="sticky top-0 z-50 border-b border-limestone bg-ivory/95 backdrop-blur"><div class="mx-auto flex max-w-7xl items-center justify-between px-5 py-4 lg:px-8"><a href="index.html" class="font-serif text-xl tracking-[0.22em] uppercase">Georgia Film Society</a><nav class="hidden items-center gap-7 text-sm lg:flex"><a href="about.html">About</a><a href="programs.html">Programs</a><a href="membership.html">Membership</a><a href="cardennes.html">Cardennes</a><a href="support.html">Support</a><a href="partner.html">Partner</a><a href="contact.html" class="rounded-full bg-charcoal px-5 py-2.5 text-ivory">Stay Connected</a></nav><button id="menuButton" class="lg:hidden rounded-full border border-charcoal/25 px-4 py-2 text-sm">Menu</button></div><div id="mobileMenu" class="hidden border-t border-limestone px-5 py-5 lg:hidden"><nav class="grid gap-4"><a href="about.html">About</a><a href="programs.html">Programs</a><a href="membership.html">Membership</a><a href="cardennes.html">Cardennes</a><a href="support.html">Support</a><a href="partner.html">Partner</a><a href="contact.html">Contact</a></nav></div></header>
+
+<main>
+<section class="px-5 py-24 lg:px-8 lg:py-32"><div class="mx-auto max-w-7xl"><p class="mb-8 text-xs uppercase tracking-[0.22em] text-laurel">Programs</p><h1 class="max-w-5xl font-serif text-5xl leading-tight tracking-[-0.04em] md:text-7xl">A year-round ecosystem for cinema culture.</h1><p class="mt-8 max-w-3xl text-xl leading-9 text-charcoal/75">Future programming may include curated screenings, member salons, writer retreats, education initiatives, filmmaker conversations, student support, and future-of-storytelling events.</p></div></section>
+<section class="px-5 pb-24 lg:px-8"><div class="mx-auto grid max-w-7xl gap-5 md:grid-cols-2 lg:grid-cols-3">
+<article class="border border-limestone p-7"><p class="mb-4 text-xs uppercase tracking-[0.18em] text-brass">Developing</p><h2 class="font-serif text-3xl">Screenings</h2><p class="mt-4 leading-7 text-charcoal/70">Curated film presentations with context, conversation, and hospitality.</p></article>
+<article class="border border-limestone p-7"><p class="mb-4 text-xs uppercase tracking-[0.18em] text-brass">Developing</p><h2 class="font-serif text-3xl">Member Salons</h2><p class="mt-4 leading-7 text-charcoal/70">Small-format gatherings for members, patrons, filmmakers, and guests.</p></article>
+<article class="border border-limestone p-7"><p class="mb-4 text-xs uppercase tracking-[0.18em] text-brass">Future</p><h2 class="font-serif text-3xl">Writer Retreats</h2><p class="mt-4 leading-7 text-charcoal/70">Focused environments for screenwriters and serious story development.</p></article>
+<article class="border border-limestone p-7"><p class="mb-4 text-xs uppercase tracking-[0.18em] text-brass">Future</p><h2 class="font-serif text-3xl">Student Support</h2><p class="mt-4 leading-7 text-charcoal/70">Student passes, mentorship, internships, and future tuition-support pathways.</p></article>
+<article class="border border-limestone p-7"><p class="mb-4 text-xs uppercase tracking-[0.18em] text-brass">Future</p><h2 class="font-serif text-3xl">Honors</h2><p class="mt-4 leading-7 text-charcoal/70">Recognition for meaningful cinematic work, cultural contribution, and craft.</p></article>
+<article class="border border-limestone p-7"><p class="mb-4 text-xs uppercase tracking-[0.18em] text-signal">Future</p><h2 class="font-serif text-3xl">Future Storytelling</h2><p class="mt-4 leading-7 text-charcoal/70">Thoughtful conversations around cinema, technology, ethics, and creative innovation.</p></article>
+</div></section>
+<section class="bg-obsidian px-5 py-20 text-ivory lg:px-8"><div class="mx-auto max-w-7xl"><h2 class="font-serif text-4xl md:text-5xl">Programming calendar in development.</h2><p class="mt-5 max-w-2xl leading-7 text-ivory/70">Receive updates as screenings, member events, salons, and public programs are announced.</p><a href="contact.html" class="mt-8 inline-flex rounded-full bg-ivory px-7 py-3 text-sm font-semibold text-obsidian">Join Updates</a></div></section>
+</main>
+
+<footer class="bg-obsidian px-5 py-14 text-ivory lg:px-8"><div class="mx-auto max-w-7xl"><p class="font-serif text-2xl tracking-[0.18em] uppercase">Georgia Film Society</p><div class="mt-8 border-t border-ivory/15 pt-6 text-xs leading-6 text-ivory/50"><p>© 2026 Bad Bella Films, LLC. All rights reserved.</p><p>Programs and initiatives are subject to development, funding, venue availability, partnership alignment, and final approval.</p></div></div></footer>
+<button id="toTop" class="fixed bottom-5 right-5 hidden rounded-full bg-charcoal px-4 py-3 text-xs font-semibold text-ivory">Top</button>
+<script>const b=document.getElementById("menuButton"),m=document.getElementById("mobileMenu");b.addEventListener("click",()=>m.classList.toggle("hidden"));const t=document.getElementById("toTop");window.addEventListener("scroll",()=>t.classList.toggle("hidden",window.scrollY<600));t.addEventListener("click",()=>window.scrollTo({top:0,behavior:"smooth"}));</script>
+</body>
+</html>

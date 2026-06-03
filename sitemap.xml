@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://georgiafilmsociety.com/</loc>
-    <priority>1.0</priority>
-  </url>
-
+  <url><loc>https://georgiafilmsociety.com/</loc></url>
+  <url><loc>https://georgiafilmsociety.com/about.html</loc></url>
+  <url><loc>https://georgiafilmsociety.com/programs.html</loc></url>
+  <url><loc>https://georgiafilmsociety.com/membership.html</loc></url>
+  <url><loc>https://georgiafilmsociety.com/support.html</loc></url>
+  <url><loc>https://georgiafilmsociety.com/partner.html</loc></url>
+  <url><loc>https://georgiafilmsociety.com/cardennes.html</loc></url>
+  <url><loc>https://georgiafilmsociety.com/contact.html</loc></url>
 </urlset>

@@ -1,5 +1,6 @@
 ---
 import "../styles/global.css";
+import Header from "../components/global/Header.astro";
 
 const {
   title = "Georgia Film Society",
@@ -23,6 +24,7 @@ const {
 
   <body>
     <div class="site-shell">
+    <Header />
       <slot />
     </div>
   </body>

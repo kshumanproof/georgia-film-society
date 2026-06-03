@@ -1,1 +1,47 @@
-/* Design tokens placeholder */
+:root {
+  /* Canon color system */
+  --color-obsidian: #080807;
+  --color-charcoal: #171513;
+  --color-ivory: #F4F0E6;
+  --color-limestone: #D8D0C2;
+  --color-laurel: #1E3329;
+  --color-brass: #B89A5E;
+  --color-oxblood: #4A1F20;
+  --color-signal-blue: #185CFF;
+
+  /* Functional colors */
+  --color-page: var(--color-ivory);
+  --color-text: var(--color-charcoal);
+  --color-muted: rgba(23, 21, 19, 0.68);
+  --color-border: rgba(23, 21, 19, 0.16);
+
+  /* Typography */
+  --font-serif: Georgia, "Times New Roman", serif;
+  --font-sans: Inter, Arial, Helvetica, sans-serif;
+
+  /* Type scale */
+  --text-xs: clamp(0.74rem, 0.72rem + 0.1vw, 0.8rem);
+  --text-sm: clamp(0.86rem, 0.83rem + 0.16vw, 0.96rem);
+  --text-base: clamp(1rem, 0.96rem + 0.2vw, 1.12rem);
+  --text-md: clamp(1.16rem, 1.08rem + 0.38vw, 1.38rem);
+  --text-lg: clamp(1.42rem, 1.25rem + 0.8vw, 1.9rem);
+  --text-xl: clamp(2rem, 1.45rem + 2.4vw, 3.8rem);
+  --text-hero: clamp(3rem, 10vw, 7.6rem);
+
+  /* Layout */
+  --container: 1180px;
+  --container-wide: 1440px;
+  --gutter: clamp(1rem, 3vw, 2rem);
+  --section-sm: clamp(3rem, 7vw, 5rem);
+  --section-md: clamp(4.5rem, 10vw, 8rem);
+  --section-lg: clamp(6rem, 14vw, 11rem);
+
+  /* Shape */
+  --radius-sm: 0.35rem;
+  --radius-md: 0.75rem;
+  --radius-lg: 1.25rem;
+
+  /* Motion */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --duration: 220ms;
+}

@@ -1,16 +1,24 @@
 ---
+import BaseLayout from "../layouts/BaseLayout.astro";
 ---
 
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>Georgia Film Society</title>
-  </head>
-  <body>
-    <main>
-      <h1>Georgia Film Society</h1>
-      <p>Astro foundation installed on the institutional-site branch.</p>
-    </main>
-  </body>
-</html>
+<BaseLayout
+  title="Georgia Film Society | Nonprofit Cinematic Cultural Institution"
+  description="Georgia Film Society is building a year-round home for cinema, filmmakers, patrons, students, and audiences across Georgia and the Southeast."
+>
+  <main>
+    <section class="section-lg">
+      <div class="container">
+        <p class="eyebrow">Georgia Film Society</p>
+
+        <h1 class="serif hero-test-title">
+          A cinematic cultural institution for Georgia and the future of story.
+        </h1>
+
+        <p class="lede measure hero-test-lede">
+          Georgia Film Society is building a year-round home for cinema, filmmakers, patrons, students, and audiences across Georgia and the Southeast.
+        </p>
+      </div>
+    </section>
+  </main>
+</BaseLayout>

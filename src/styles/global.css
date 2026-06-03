@@ -132,6 +132,18 @@ button {
   color: rgba(244, 240, 230, 0.72);
 }
 
+.hero-test-title {
+  max-width: 11ch;
+  margin: 0;
+  font-size: var(--text-hero);
+  line-height: 0.95;
+  letter-spacing: -0.055em;
+}
+
+.hero-test-lede {
+  margin-top: 2rem;
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,

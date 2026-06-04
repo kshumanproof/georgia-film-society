@@ -121,18 +121,19 @@
     <a href="index.html" class="flex items-center gap-3" aria-label="Georgia Film Society home">
       <img src="assets/img/icon-gfs.png" alt="" class="h-8 w-8 object-contain" />
       <div class="leading-none">
-        <div class="font-serif text-xl font-semibold tracking-[0.18em]">GEORGIA</div>
-        <div class="mt-1 text-[10px] font-semibold uppercase tracking-[0.32em] text-brass">Film Society</div>
+        <div class="font-serif text-xl font-semibold leading-[0.85] tracking-[0.18em]">GEORGIA</div>
+        <div class="mt-0.5 text-[10px] font-semibold uppercase leading-none tracking-[0.34em] text-brass">Film Society</div>
       </div>
     </a>
 
-    <nav class="hidden items-center gap-8 text-sm text-ivory/75 lg:flex" aria-label="Main navigation">
+    <nav class="hidden items-center gap-7 text-sm text-ivory/75 lg:flex xl:gap-8" aria-label="Main navigation">
       <a href="about.html" class="transition hover:text-brass">About</a>
       <a href="programs.html" class="transition hover:text-brass">Programs</a>
+      <a href="cardennes.html" class="transition hover:text-brass">Cardenne</a>
       <a href="membership.html" class="transition hover:text-brass">Membership</a>
-      <a href="cardennes.html" class="transition hover:text-brass">Cardennes</a>
       <a href="support.html" class="transition hover:text-brass">Support</a>
       <a href="partner.html" class="transition hover:text-brass">Partner</a>
+      <a href="volunteer.html" class="transition hover:text-brass">Volunteer</a>
     </nav>
 
     <div class="hidden lg:block">
@@ -163,13 +164,13 @@
     <nav class="mx-auto grid max-w-7xl gap-1 px-5 py-5 text-sm text-ivory/80" aria-label="Mobile navigation">
       <a href="about.html" class="border-b border-white/10 py-4 hover:text-brass">About</a>
       <a href="programs.html" class="border-b border-white/10 py-4 hover:text-brass">Programs</a>
+      <a href="cardennes.html" class="border-b border-white/10 py-4 hover:text-brass">Cardenne</a>
       <a href="membership.html" class="border-b border-white/10 py-4 hover:text-brass">Membership</a>
-      <a href="cardennes.html" class="border-b border-white/10 py-4 hover:text-brass">Cardennes</a>
       <a href="support.html" class="border-b border-white/10 py-4 hover:text-brass">Support</a>
       <a href="partner.html" class="border-b border-white/10 py-4 hover:text-brass">Partner</a>
+      <a href="volunteer.html" class="border-b border-white/10 py-4 hover:text-brass">Volunteer</a>
       <a href="events.html" class="border-b border-white/10 py-4 hover:text-brass">Events</a>
       <a href="students.html" class="border-b border-white/10 py-4 hover:text-brass">Students</a>
-      <a href="volunteer.html" class="border-b border-white/10 py-4 hover:text-brass">Volunteer</a>
       <a href="press.html" class="border-b border-white/10 py-4 hover:text-brass">Press</a>
       <a href="contact.html" class="mt-5 inline-flex items-center justify-center rounded-full bg-brass px-6 py-3 text-xs font-bold uppercase tracking-[0.22em] text-obsidian">
         Stay Connected
@@ -181,304 +182,365 @@
   <main>
 
     <section id="hero" class="relative overflow-hidden bg-obsidian pt-24 text-ivory">
-      <div class="absolute inset-0">
-        <div class="absolute left-[-10%] top-[10%] h-80 w-80 rounded-full bg-brass/10 blur-3xl sm:h-[34rem] sm:w-[34rem]"></div>
-        <div class="absolute bottom-[-10%] right-[-5%] h-96 w-96 rounded-full bg-laurel/20 blur-3xl sm:h-[36rem] sm:w-[36rem]"></div>
-      </div>
+  <div class="absolute inset-0">
+    <div class="absolute left-[-10%] top-[10%] h-80 w-80 rounded-full bg-brass/10 blur-3xl sm:h-[34rem] sm:w-[34rem]"></div>
+    <div class="absolute bottom-[-10%] right-[-5%] h-96 w-96 rounded-full bg-laurel/20 blur-3xl sm:h-[36rem] sm:w-[36rem]"></div>
+  </div>
 
-      <div class="relative mx-auto max-w-7xl px-5 py-10 sm:py-12 lg:min-h-[92vh] lg:px-8 lg:py-12">
+  <div class="relative mx-auto max-w-7xl px-5 py-10 sm:py-12 lg:min-h-[92vh] lg:px-8 lg:py-12">
 
-        <div class="mx-auto flex max-w-5xl justify-center border-b border-brass/20 pb-8 pt-2 sm:pb-10 lg:pb-12">
-          <img
-            src="assets/img/logo-gfs.png"
-            alt="Georgia Film Society"
-            class="w-full max-w-[22rem] object-contain sm:max-w-xl md:max-w-2xl lg:max-w-4xl"
-          />
-        </div>
+    <div class="mx-auto flex max-w-5xl justify-center border-b border-brass/20 pb-8 pt-2 sm:pb-10 lg:pb-12">
+      <img
+        src="assets/img/logo-gfs.png"
+        alt="Georgia Film Society"
+        class="w-full max-w-[22rem] object-contain sm:max-w-xl md:max-w-2xl lg:max-w-4xl"
+      />
+    </div>
 
-        <div class="grid gap-12 pt-12 md:pt-14 lg:grid-cols-12 lg:items-start lg:gap-14">
-          <div class="lg:col-span-7">
-            <p class="text-xs font-bold uppercase tracking-[0.28em] text-brass sm:tracking-[0.34em]">
-              A nonprofit cinematic cultural institution
-            </p>
-
-            <h1 class="mt-6 max-w-4xl font-serif text-5xl font-semibold leading-[0.9] tracking-[-0.055em] text-ivory sm:text-6xl md:text-7xl lg:text-8xl">
-              Stories matter.
-            </h1>
-
-            <p class="mt-6 max-w-3xl font-serif text-3xl leading-tight tracking-[-0.035em] text-ivory/90 sm:text-4xl md:text-5xl">
-              Georgia is ready for a cinematic institution built with the long view in mind.
-            </p>
-
-            <p class="mt-7 max-w-2xl text-base leading-7 text-ivory/72 sm:text-lg sm:leading-8">
-              Georgia Film Society is building a year-round home for cinema, filmmakers, patrons, students, and audiences across Georgia and the Southeast.
-            </p>
-
-            <div class="mt-9 flex flex-col gap-4 sm:flex-row">
-              <a href="contact.html" class="inline-flex items-center justify-center rounded-full bg-brass px-7 py-3 text-sm font-bold uppercase tracking-[0.18em] text-obsidian transition hover:bg-ivory">
-                Stay Connected
-              </a>
-              <a href="support.html" class="inline-flex items-center justify-center rounded-full border border-ivory/30 px-7 py-3 text-sm font-bold uppercase tracking-[0.18em] text-ivory transition hover:border-brass hover:text-brass">
-                Support the Society
-              </a>
-            </div>
-          </div>
-
-          <aside class="border-t border-brass/30 pt-8 md:grid md:grid-cols-2 md:gap-6 lg:col-span-5 lg:block lg:border-l lg:border-t-0 lg:pl-8 lg:pt-0">
-            <p class="font-serif text-3xl font-semibold leading-tight tracking-[-0.035em] text-ivory sm:text-4xl md:col-span-2">
-              An institution for the people who make, support, study, preserve, and gather around film.
-            </p>
-
-            <div class="mt-8 grid gap-4 md:col-span-2 lg:mt-10">
-              <a href="membership.html" class="group border border-white/10 bg-white/[0.03] p-5 transition hover:border-brass/60">
-                <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">Members</p>
-                <p class="mt-3 text-sm leading-6 text-ivory/65">
-                  Screenings, salons, early access, conversations, and cultural belonging.
-                </p>
-              </a>
-
-              <a href="support.html" class="group border border-white/10 bg-white/[0.03] p-5 transition hover:border-brass/60">
-                <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">Patrons</p>
-                <p class="mt-3 text-sm leading-6 text-ivory/65">
-                  Founding support for a long-term cinematic institution.
-                </p>
-              </a>
-
-              <a href="partner.html" class="group border border-white/10 bg-white/[0.03] p-5 transition hover:border-brass/60">
-                <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">Partners</p>
-                <p class="mt-3 text-sm leading-6 text-ivory/65">
-                  Civic, sponsor, hospitality, education, and cultural alignment.
-                </p>
-              </a>
-            </div>
-          </aside>
-        </div>
-      </div>
-    </section>
-
-    <section id="institutional-thesis" class="border-b border-limestone bg-ivory px-5 py-20 lg:px-8">
-      <div class="mx-auto grid max-w-7xl gap-10 lg:grid-cols-12">
-        <div class="lg:col-span-4">
-          <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">Institutional thesis</p>
-        </div>
-
-        <div class="lg:col-span-8">
-          <p class="font-serif text-3xl font-medium leading-tight tracking-[-0.035em] text-charcoal sm:text-4xl lg:text-5xl">
-            Production infrastructure alone does not create cultural leadership. Great artistic regions are strengthened through institutions, through hospitality, through curation, and through places that still believe the work matters.
-          </p>
-        </div>
-      </div>
-    </section>
-
-    <section id="why-georgia" class="bg-[#eee8dc] px-5 py-20 lg:px-8">
-      <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12">
-        <div class="lg:col-span-5">
-          <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">Why Georgia. Why now.</p>
-          <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-            Georgia has become a production center. GFS exists to help build the culture around it.
-          </h2>
-        </div>
-
-        <div class="space-y-7 text-lg leading-8 text-charcoal/75 lg:col-span-7">
-          <p>
-            Georgia and the South are entering a defining creative era. The state already supports filmmakers, writers, producers, craftspeople, entrepreneurs, technologists, and creative leaders whose influence extends far beyond production logistics.
-          </p>
-
-          <p>
-            Georgia Film Society is being built to cultivate the deeper ecosystem: screenings, salons, education, memberships, patronage, filmmaker support, cultural conversation, future storytelling, and a flagship festival worthy of serious attention.
-          </p>
-        </div>
-      </div>
-    </section>
-
-    <section id="foundation" class="bg-ivory px-5 py-20 lg:px-8">
-      <div class="mx-auto max-w-7xl">
-        <div class="mb-12 max-w-3xl">
-          <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">The foundation</p>
-          <h2 class="mt-6 font-serif text-4xl font-semibold tracking-[-0.045em] sm:text-5xl">
-            Built around taste, curation, hospitality, and cinematic excellence.
-          </h2>
-        </div>
-
-        <div class="grid gap-px overflow-hidden border border-limestone bg-limestone md:grid-cols-3">
-          <article class="bg-ivory p-8">
-            <p class="text-xs font-bold uppercase tracking-[0.26em] text-brass">01</p>
-            <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Cinema Culture</h3>
-            <p class="mt-5 leading-7 text-charcoal/70">
-              A year-round cultural home where cinema is treated as art, craft, community, memory, conversation, and civic life.
-            </p>
-          </article>
-
-          <article class="bg-ivory p-8">
-            <p class="text-xs font-bold uppercase tracking-[0.26em] text-brass">02</p>
-            <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Filmmaker Respect</h3>
-            <p class="mt-5 leading-7 text-charcoal/70">
-              A filmmaker-first institution centered on merit, seriousness, hospitality, discovery, and meaningful creative support.
-            </p>
-          </article>
-
-          <article class="bg-ivory p-8">
-            <p class="text-xs font-bold uppercase tracking-[0.26em] text-brass">03</p>
-            <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Future Storytelling</h3>
-            <p class="mt-5 leading-7 text-charcoal/70">
-              A thoughtful space for the future of cinema, technology, ethics, artistic innovation, and human creative culture.
-            </p>
-          </article>
-        </div>
-      </div>
-    </section>
-
-    <section id="ecosystem" class="bg-charcoal px-5 py-20 text-ivory lg:px-8">
-      <div class="mx-auto max-w-7xl">
-        <div class="grid gap-12 lg:grid-cols-12 lg:items-end">
-          <div class="lg:col-span-7">
-            <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">Year-round ecosystem</p>
-            <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-              The festival is one expression. The institution is the larger cultural engine.
-            </h2>
-          </div>
-
-          <p class="text-lg leading-8 text-ivory/65 lg:col-span-5">
-            The launch site should imply a larger world without pretending every program already exists. GFS can be ambitious and honest at the same time.
-          </p>
-        </div>
-
-        <div class="mt-14 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-          <article class="border border-white/10 bg-white/[0.03] p-6">
-            <span class="text-xs font-bold uppercase tracking-[0.2em] text-brass">In Development</span>
-            <h3 class="mt-6 font-serif text-2xl font-semibold">Curated Screenings</h3>
-            <p class="mt-4 leading-7 text-ivory/65">Seasonal film gatherings with conversation, context, and hospitality.</p>
-          </article>
-
-          <article class="border border-white/10 bg-white/[0.03] p-6">
-            <span class="text-xs font-bold uppercase tracking-[0.2em] text-brass">Planned</span>
-            <h3 class="mt-6 font-serif text-2xl font-semibold">Member Salons</h3>
-            <p class="mt-4 leading-7 text-ivory/65">Private gatherings for members, patrons, filmmakers, and cultural guests.</p>
-          </article>
-
-          <article class="border border-white/10 bg-white/[0.03] p-6">
-            <span class="text-xs font-bold uppercase tracking-[0.2em] text-brass">Future Initiative</span>
-            <h3 class="mt-6 font-serif text-2xl font-semibold">Writer Retreats</h3>
-            <p class="mt-4 leading-7 text-ivory/65">Focused environments for serious storytellers developing original work.</p>
-          </article>
-
-          <article class="border border-white/10 bg-white/[0.03] p-6">
-            <span class="text-xs font-bold uppercase tracking-[0.2em] text-brass">Future Initiative</span>
-            <h3 class="mt-6 font-serif text-2xl font-semibold">Student Support</h3>
-            <p class="mt-4 leading-7 text-ivory/65">Access pathways for students, educators, interns, and future filmmakers.</p>
-          </article>
-
-          <article class="border border-white/10 bg-white/[0.03] p-6">
-            <span class="text-xs font-bold uppercase tracking-[0.2em] text-brass">Planned</span>
-            <h3 class="mt-6 font-serif text-2xl font-semibold">Georgia Story Summit</h3>
-            <p class="mt-4 leading-7 text-ivory/65">A gathering around storytelling, regional identity, craft, and cultural leadership.</p>
-          </article>
-
-          <article class="border border-signal/35 bg-signal/10 p-6">
-            <span class="text-xs font-bold uppercase tracking-[0.2em] text-signal">Future-Facing</span>
-            <h3 class="mt-6 font-serif text-2xl font-semibold">AI & Future of Story</h3>
-            <p class="mt-4 leading-7 text-ivory/65">Thoughtful conversation on creativity, technology, ethics, and cinematic innovation.</p>
-          </article>
-        </div>
-      </div>
-    </section>
-
-    <section id="cardennes" class="bg-obsidian px-5 py-20 text-ivory lg:px-8">
-      <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12 lg:items-center">
-        <div class="lg:col-span-6">
-          <div class="border border-brass/30 bg-white/[0.03] p-8">
-            <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">Cardennes Film Festival</p>
-            <h2 class="mt-8 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-              The flagship festival of Georgia Film Society.
-            </h2>
-            <p class="mt-6 text-lg leading-8 text-ivory/68">
-              Cardennes is a prestige discovery festival centered on merit, curation, hospitality, and serious cinematic work.
-            </p>
-            <a href="cardennes.html" class="mt-9 inline-flex rounded-full border border-brass px-7 py-3 text-sm font-bold uppercase tracking-[0.18em] text-brass transition hover:bg-brass hover:text-obsidian">
-              Explore Cardennes
-            </a>
-          </div>
-        </div>
-
-        <div class="lg:col-span-6">
-          <p class="font-serif text-3xl font-semibold leading-tight tracking-[-0.035em] text-ivory sm:text-4xl">
-            Cardennes is the crown jewel, not the whole crown.
-          </p>
-          <p class="mt-7 leading-8 text-ivory/60">
-            Georgia Film Society should make the relationship clear without becoming the festival site. Festival-specific submissions, tickets, schedule, passes, press, and festival news belong with Cardennes.
-          </p>
-        </div>
-      </div>
-    </section>
-
-    <section id="paths" class="bg-ivory px-5 py-20 lg:px-8">
-      <div class="mx-auto max-w-7xl">
-        <div class="mb-12 max-w-4xl">
-          <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">Paths into the institution</p>
-          <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-            Membership, patronage, and partnership are the core public pathways.
-          </h2>
-        </div>
-
-        <div class="grid gap-6 lg:grid-cols-3">
-          <article class="border border-limestone p-8">
-            <p class="text-xs font-bold uppercase tracking-[0.28em] text-laurel">Members</p>
-            <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Belonging, access, and cultural proximity.</h3>
-            <p class="mt-5 leading-7 text-charcoal/70">
-              Membership is the doorway into screenings, conversations, member events, early announcements, and the cultural life being built around cinema in Georgia.
-            </p>
-            <a href="membership.html" class="mt-8 inline-flex text-sm font-bold uppercase tracking-[0.18em] text-laurel hover:text-brass">Membership opens soon</a>
-          </article>
-
-          <article class="border border-limestone bg-charcoal p-8 text-ivory">
-            <p class="text-xs font-bold uppercase tracking-[0.28em] text-brass">Patrons</p>
-            <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Founding builders of cultural infrastructure.</h3>
-            <p class="mt-5 leading-7 text-ivory/68">
-              Founding patrons do more than fund programming. They help establish what this institution can become for filmmakers, students, audiences, and future storytellers.
-            </p>
-            <a href="support.html" class="mt-8 inline-flex text-sm font-bold uppercase tracking-[0.18em] text-brass hover:text-ivory">Support the Society</a>
-          </article>
-
-          <article class="border border-limestone p-8">
-            <p class="text-xs font-bold uppercase tracking-[0.28em] text-laurel">Partners</p>
-            <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Civic, sponsor, hospitality, and education alignment.</h3>
-            <p class="mt-5 leading-7 text-charcoal/70">
-              GFS is developing partnership pathways around prestige, regional identity, innovation, education, storytelling, hospitality, and cultural impact.
-            </p>
-            <a href="partner.html" class="mt-8 inline-flex text-sm font-bold uppercase tracking-[0.18em] text-laurel hover:text-brass">Partner with GFS</a>
-          </article>
-        </div>
-      </div>
-    </section>
-
-    <section id="closing" class="bg-obsidian px-5 py-24 text-ivory lg:px-8">
-      <div class="mx-auto max-w-5xl text-center">
-        <p class="text-xs font-bold uppercase tracking-[0.34em] text-brass">The conviction</p>
-        <h2 class="mt-8 font-serif text-5xl font-semibold leading-none tracking-[-0.055em] sm:text-7xl">
-          Human stories still matter.
-        </h2>
-        <p class="mx-auto mt-8 max-w-3xl text-lg leading-8 text-ivory/68">
-          Georgia Film Society is being built with the long view in mind: a cultural institution rooted in storytelling, artistic ambition, hospitality, creative discovery, and the enduring belief that great work still deserves serious support.
+    <div class="grid gap-12 pt-12 md:pt-14 lg:grid-cols-12 lg:items-start lg:gap-14">
+      <div class="lg:col-span-7">
+        <p class="text-xs font-bold uppercase tracking-[0.28em] text-brass sm:tracking-[0.34em]">
+          A nonprofit cinematic cultural institution
         </p>
-        <div class="mt-10 flex flex-col justify-center gap-4 sm:flex-row">
+
+        <h1 class="mt-6 max-w-4xl font-serif text-5xl font-semibold leading-[0.9] tracking-[-0.055em] text-ivory sm:text-6xl md:text-7xl lg:text-8xl">
+          Stories matter.
+        </h1>
+
+        <p class="mt-6 max-w-3xl font-serif text-3xl leading-tight tracking-[-0.035em] text-ivory/90 sm:text-4xl md:text-5xl">
+          Georgia is ready for a serious home for cinema, culture, and the future of story.
+        </p>
+
+        <p class="mt-7 max-w-2xl text-base leading-7 text-ivory/72 sm:text-lg sm:leading-8">
+          Georgia Film Society is building a year-round institution for filmmakers, patrons, students, members, partners, and audiences across Georgia and the Southeast.
+        </p>
+
+        <div class="mt-9 flex flex-col gap-4 sm:flex-row">
           <a href="contact.html" class="inline-flex items-center justify-center rounded-full bg-brass px-7 py-3 text-sm font-bold uppercase tracking-[0.18em] text-obsidian transition hover:bg-ivory">
-            Receive Updates
+            Stay Connected
           </a>
-          <a href="partner.html" class="inline-flex items-center justify-center rounded-full border border-ivory/30 px-7 py-3 text-sm font-bold uppercase tracking-[0.18em] text-ivory transition hover:border-brass hover:text-brass">
-            Start a Conversation
+          <a href="support.html" class="inline-flex items-center justify-center rounded-full border border-ivory/30 px-7 py-3 text-sm font-bold uppercase tracking-[0.18em] text-ivory transition hover:border-brass hover:text-brass">
+            Support the Society
           </a>
         </div>
       </div>
-    </section>
 
-  </main>
+      <aside class="border-t border-brass/30 pt-8 md:grid md:grid-cols-2 md:gap-6 lg:col-span-5 lg:block lg:border-l lg:border-t-0 lg:pl-8 lg:pt-0">
+        <p class="font-serif text-3xl font-semibold leading-tight tracking-[-0.035em] text-ivory sm:text-4xl md:col-span-2">
+          A place for the people who make films, support artists, gather around stories, and believe the work still matters.
+        </p>
 
-  <footer class="bg-charcoal px-5 py-12 text-ivory lg:px-8">
+        <div class="mt-8 grid gap-4 md:col-span-2 lg:mt-10">
+          <a href="membership.html" class="group border border-white/10 bg-white/[0.03] p-5 transition hover:border-brass/60">
+            <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">Members</p>
+            <p class="mt-3 text-sm leading-6 text-ivory/65">
+              Screenings, salons, early access, conversations, and cultural belonging.
+            </p>
+          </a>
+
+          <a href="support.html" class="group border border-white/10 bg-white/[0.03] p-5 transition hover:border-brass/60">
+            <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">Patrons</p>
+            <p class="mt-3 text-sm leading-6 text-ivory/65">
+              Founding support for a long-term cinematic institution.
+            </p>
+          </a>
+
+          <a href="partner.html" class="group border border-white/10 bg-white/[0.03] p-5 transition hover:border-brass/60">
+            <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">Partners</p>
+            <p class="mt-3 text-sm leading-6 text-ivory/65">
+              Civic, sponsor, hospitality, education, and cultural alignment.
+            </p>
+          </a>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+
+    <section id="institutional-thesis" class="border-b border-limestone bg-ivory px-5 py-24 lg:px-8">
+  <div class="mx-auto grid max-w-7xl gap-10 lg:grid-cols-12">
+    <div class="lg:col-span-4">
+      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">Institutional thesis</p>
+    </div>
+
+    <div class="lg:col-span-8">
+      <p class="font-serif text-3xl font-medium leading-tight tracking-[-0.035em] text-charcoal sm:text-4xl lg:text-5xl">
+        Production infrastructure can bring work to a region. Institutions help make that work matter. Great artistic places are shaped by taste, hospitality, curation, and a shared belief that culture deserves to be built with care.
+      </p>
+    </div>
+  </div>
+</section>
+
+<section id="why-georgia" class="bg-[#eee8dc] px-5 py-24 lg:px-8">
+  <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12">
+    <div class="lg:col-span-5">
+      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">Why Georgia. Why now.</p>
+      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+        Georgia has become a production center. Now it needs deeper cultural infrastructure.
+      </h2>
+    </div>
+
+    <div class="space-y-7 text-lg leading-8 text-charcoal/75 lg:col-span-7">
+      <p>
+        Georgia and the South are entering a defining creative era. The state already supports filmmakers, writers, producers, craftspeople, entrepreneurs, technologists, and creative leaders whose influence extends far beyond tax incentives or production logistics.
+      </p>
+
+      <p>
+        Georgia Film Society is being built to support what comes next: curated screenings, salons, education, memberships, patronage, filmmaker support, cultural conversation, future storytelling, and a flagship festival worthy of serious attention.
+      </p>
+    </div>
+  </div>
+</section>
+
+<section id="foundation" class="bg-ivory px-5 py-24 lg:px-8">
+  <div class="mx-auto max-w-7xl">
+    <div class="mb-12 max-w-3xl">
+      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">The foundation</p>
+      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+        Built around taste, curation, hospitality, and cinematic excellence.
+      </h2>
+    </div>
+
+    <div class="grid gap-px overflow-hidden border border-limestone bg-limestone md:grid-cols-3">
+      <article class="bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.26em] text-brass">01</p>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Cinema Culture</h3>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          A year-round home where cinema is treated as art, craft, memory, conversation, and civic life.
+        </p>
+      </article>
+
+      <article class="bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.26em] text-brass">02</p>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Filmmaker Respect</h3>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          A filmmaker-first institution centered on merit, seriousness, hospitality, discovery, and meaningful creative support.
+        </p>
+      </article>
+
+      <article class="bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.26em] text-brass">03</p>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Future Storytelling</h3>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          A thoughtful space for the future of cinema, technology, ethics, artistic innovation, and human creative culture.
+        </p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section id="ecosystem" class="bg-charcoal px-5 py-24 text-ivory lg:px-8">
+  <div class="mx-auto max-w-7xl">
+    <div class="max-w-4xl">
+      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+        Year-round ecosystem
+      </p>
+
+      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+        Screenings, salons, education, and future-facing programs give the Society its year-round life.
+      </h2>
+
+      <p class="mt-8 max-w-3xl text-lg leading-8 text-ivory/65">
+        Some programs are active priorities. Others are being developed with care. Together, they create the cultural infrastructure around Cardenne Film Festival and the broader future of cinema in Georgia.
+      </p>
+    </div>
+
+    <div id="cardennes" class="mt-14 grid overflow-hidden border border-brass/30 bg-white/[0.03] lg:grid-cols-12">
+      <div class="flex flex-col justify-between p-8 sm:p-10 lg:col-span-5 lg:p-12">
+        <div>
+          <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+            Cardenne Film Festival
+          </p>
+
+          <h3 class="mt-8 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+            The flagship festival of Georgia Film Society.
+          </h3>
+
+          <p class="mt-6 text-lg leading-8 text-ivory/68">
+            Cardenne is a prestige discovery festival centered on merit, curation, hospitality, and serious cinematic work.
+          </p>
+        </div>
+
+        <div class="mt-10">
+          <a href="cardennes.html" class="inline-flex rounded-full border border-brass px-7 py-3 text-sm font-bold uppercase tracking-[0.18em] text-brass transition hover:bg-brass hover:text-obsidian">
+            Explore Cardenne
+          </a>
+        </div>
+      </div>
+
+      <div class="relative min-h-[18rem] border-t border-brass/20 lg:col-span-7 lg:min-h-[30rem] lg:border-l lg:border-t-0">
+        <img
+          src="assets/img/cardenne.png"
+          alt="An elegant evening cinema gathering representing Cardenne Film Festival"
+          class="absolute inset-0 h-full w-full object-cover"
+        />
+
+        <div class="absolute inset-0 bg-obsidian/35"></div>
+        <div class="absolute inset-0 bg-gradient-to-t from-obsidian via-obsidian/45 to-transparent lg:bg-gradient-to-r lg:from-obsidian/75 lg:via-obsidian/35 lg:to-obsidian/10"></div>
+
+        <div class="absolute bottom-0 left-0 max-w-2xl p-8 sm:p-10">
+          <p class="text-xs font-bold uppercase tracking-[0.28em] text-brass">
+            Merit. Curation. Hospitality.
+          </p>
+
+          <p class="mt-4 font-serif text-2xl font-semibold leading-tight tracking-[-0.035em] text-ivory sm:text-3xl">
+            A festival built to make selection feel earned, meaningful, and culturally serious.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-14 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+      <article class="border border-white/10 bg-white/[0.03] p-6">
+        <span class="text-xs font-bold uppercase tracking-[0.2em] text-brass">In Development</span>
+        <h3 class="mt-6 font-serif text-2xl font-semibold">Curated Screenings</h3>
+        <p class="mt-4 leading-7 text-ivory/65">
+          Seasonal film gatherings shaped by context, conversation, hospitality, and a serious respect for the work.
+        </p>
+      </article>
+
+      <article class="border border-white/10 bg-white/[0.03] p-6">
+        <span class="text-xs font-bold uppercase tracking-[0.2em] text-brass">Planned</span>
+        <h3 class="mt-6 font-serif text-2xl font-semibold">Member Salons</h3>
+        <p class="mt-4 leading-7 text-ivory/65">
+          Private gatherings for members, patrons, filmmakers, and cultural guests around cinema, craft, and ideas.
+        </p>
+      </article>
+
+      <article class="border border-white/10 bg-white/[0.03] p-6">
+        <span class="text-xs font-bold uppercase tracking-[0.2em] text-brass">Future Initiative</span>
+        <h3 class="mt-6 font-serif text-2xl font-semibold">Writer Retreats</h3>
+        <p class="mt-4 leading-7 text-ivory/65">
+          Focused environments for serious storytellers developing original work with discipline and intention.
+        </p>
+      </article>
+
+      <article class="border border-white/10 bg-white/[0.03] p-6">
+        <span class="text-xs font-bold uppercase tracking-[0.2em] text-brass">Future Initiative</span>
+        <h3 class="mt-6 font-serif text-2xl font-semibold">Student Access</h3>
+        <p class="mt-4 leading-7 text-ivory/65">
+          Future pathways for students, educators, interns, and young filmmakers seeking access to cinema culture.
+        </p>
+      </article>
+
+      <article class="border border-white/10 bg-white/[0.03] p-6">
+        <span class="text-xs font-bold uppercase tracking-[0.2em] text-brass">Planned</span>
+        <h3 class="mt-6 font-serif text-2xl font-semibold">Georgia Story Summit</h3>
+        <p class="mt-4 leading-7 text-ivory/65">
+          A gathering around storytelling, regional identity, craft, cultural leadership, and the future of Southern creative work.
+        </p>
+      </article>
+
+      <article class="border border-white/10 bg-white/[0.03] p-6">
+        <span class="text-xs font-bold uppercase tracking-[0.2em] text-brass">Future-Facing</span>
+        <h3 class="mt-6 font-serif text-2xl font-semibold">AI & Future of Story</h3>
+        <p class="mt-4 leading-7 text-ivory/65">
+          Thoughtful conversation on creativity, technology, ethics, artistic innovation, and the human future of cinema.
+        </p>
+      </article>
+    </div>
+  </div>
+</section>
+
+
+
+<section id="paths" class="bg-ivory px-5 py-24 lg:px-8">
+  <div class="mx-auto max-w-7xl">
+    <div class="mb-12 max-w-4xl">
+      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">Paths into the institution</p>
+      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+        Membership, patronage, and partnership are the core public pathways.
+      </h2>
+    </div>
+
+    <div class="grid gap-6 lg:grid-cols-3">
+  <article class="flex min-h-[25rem] flex-col border border-limestone p-8">
+    <p class="text-xs font-bold uppercase tracking-[0.28em] text-laurel">Members</p>
+    <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">
+      Belonging, access, and cultural proximity.
+    </h3>
+    <p class="mt-5 leading-7 text-charcoal/70">
+      Membership is the doorway into screenings, conversations, member events, early announcements, and the cultural life being built around cinema in Georgia.
+    </p>
+    <div class="mt-auto pt-8">
+      <a href="membership.html" class="inline-flex items-center justify-center rounded-full border border-laurel/70 px-5 py-3 text-xs font-bold uppercase tracking-[0.18em] text-laurel transition hover:bg-laurel hover:text-ivory">
+        Membership Opens Soon
+      </a>
+    </div>
+  </article>
+
+  <article class="flex min-h-[25rem] flex-col border border-charcoal bg-charcoal p-8 text-ivory">
+    <p class="text-xs font-bold uppercase tracking-[0.28em] text-brass">Patrons</p>
+    <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">
+      Founding builders of cultural infrastructure.
+    </h3>
+    <p class="mt-5 leading-7 text-ivory/68">
+      Founding patrons do more than fund programming. They help establish what this institution can become for filmmakers, students, audiences, and future storytellers.
+    </p>
+    <div class="mt-auto pt-8">
+      <a href="support.html" class="inline-flex items-center justify-center rounded-full border border-brass/80 px-5 py-3 text-xs font-bold uppercase tracking-[0.18em] text-brass transition hover:bg-brass hover:text-obsidian">
+        Support the Society
+      </a>
+    </div>
+  </article>
+
+  <article class="flex min-h-[25rem] flex-col border border-limestone p-8">
+    <p class="text-xs font-bold uppercase tracking-[0.28em] text-laurel">Partners</p>
+    <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">
+      Civic, sponsor, hospitality, and education alignment.
+    </h3>
+    <p class="mt-5 leading-7 text-charcoal/70">
+      GFS is developing partnership pathways around prestige, regional identity, innovation, education, storytelling, hospitality, and cultural impact.
+    </p>
+    <div class="mt-auto pt-8">
+      <a href="partner.html" class="inline-flex items-center justify-center rounded-full border border-laurel/70 px-5 py-3 text-xs font-bold uppercase tracking-[0.18em] text-laurel transition hover:bg-laurel hover:text-ivory">
+        Partner With GFS
+      </a>
+    </div>
+  </article>
+</div>
+  </div>
+</section>
+
+<section id="closing" class="bg-obsidian px-5 py-24 text-ivory lg:px-8">
+  <div class="mx-auto max-w-5xl text-center">
+    <p class="text-xs font-bold uppercase tracking-[0.34em] text-brass">The conviction</p>
+    <h2 class="mt-8 font-serif text-5xl font-semibold leading-none tracking-[-0.055em] sm:text-7xl">
+      Human stories still matter.
+    </h2>
+    <p class="mx-auto mt-8 max-w-3xl text-lg leading-8 text-ivory/68">
+      Georgia Film Society is being built with the long view in mind: rooted in storytelling, artistic ambition, hospitality, creative discovery, and the belief that great work still deserves serious support.
+    </p>
+    <div class="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
+  <a href="contact.html" class="inline-flex w-full max-w-[18rem] items-center justify-center rounded-full bg-brass px-7 py-3 text-center text-sm font-bold uppercase tracking-[0.18em] text-obsidian transition hover:bg-ivory sm:w-[18rem]">
+    Receive Updates
+  </a>
+  <a href="partner.html" class="inline-flex w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 py-3 text-center text-sm font-bold uppercase tracking-[0.18em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
+    Start a Conversation
+  </a>
+</div>
+  </div>
+</section>
+
+</main>
+
+<footer class="bg-charcoal px-5 py-12 text-ivory lg:px-8">
   <div class="mx-auto grid max-w-7xl gap-10 md:grid-cols-2 lg:grid-cols-4">
     <div>
-      <img src="assets/img/icon-gfs.png" alt="" class="h-9 w-9 object-contain" />
-      <p class="mt-5 max-w-xs text-sm leading-6 text-ivory/62">
+      <a href="index.html" class="flex items-center gap-3" aria-label="Georgia Film Society home">
+        <img src="assets/img/icon-gfs.png" alt="" class="h-9 w-9 object-contain" />
+        <div class="leading-none">
+          <div class="font-serif text-xl font-semibold leading-[0.85] tracking-[0.18em]">GEORGIA</div>
+          <div class="mt-0.5 text-[10px] font-semibold uppercase leading-none tracking-[0.34em] text-brass">Film Society</div>
+        </div>
+      </a>
+
+      <p class="mt-6 max-w-xs text-sm leading-6 text-ivory/62">
         A nonprofit cinematic cultural institution for Georgia and the Southeast.
+      </p>
+
+      <p class="mt-5 max-w-xs text-xs leading-6 text-ivory/42">
+        Programs, memberships, events, and initiatives are subject to development, availability, and change.
       </p>
     </div>
 
@@ -489,7 +551,7 @@
         <a href="programs.html" class="hover:text-brass">Programs</a>
         <a href="events.html" class="hover:text-brass">Events</a>
         <a href="membership.html" class="hover:text-brass">Membership</a>
-        <a href="cardennes.html" class="hover:text-brass">Cardennes</a>
+        <a href="cardennes.html" class="hover:text-brass">Cardenne</a>
       </div>
     </div>
 
@@ -504,19 +566,25 @@
     </div>
 
     <div>
-      <h3 class="text-xs font-bold uppercase tracking-[0.28em] text-brass">Contact</h3>
+      <h3 class="text-xs font-bold uppercase tracking-[0.28em] text-brass">Connect</h3>
       <div class="mt-5 grid gap-3 text-sm text-ivory/65">
-        <a href="contact.html" class="hover:text-brass">Contact</a>
+        <a href="contact.html" class="hover:text-brass">General Inquiries</a>
         <a href="press.html" class="hover:text-brass">Press</a>
-        <a href="mailto:hello@georgiafilmsociety.com" class="hover:text-brass">hello@georgiafilmsociety.com</a>
-        <a href="https://www.instagram.com/georgiafilmsociety/" target="_blank" rel="noopener noreferrer" class="hover:text-brass">Instagram @georgiafilmsociety</a>
+        <a href="mailto:hello@georgiafilmsociety.com" class="hover:text-brass">Email</a>
+        <a href="https://www.instagram.com/georgiafilmsociety/" target="_blank" rel="noopener noreferrer" class="hover:text-brass">Instagram</a>
       </div>
     </div>
   </div>
 
-  <div class="mx-auto mt-12 flex max-w-7xl flex-col gap-4 border-t border-white/10 pt-6 text-xs text-ivory/42 sm:flex-row sm:items-center sm:justify-between">
-    <p>© 2026 Georgia Film Society. All rights reserved.</p>
-    <p>Georgia Film Society</p>
+  <div class="mx-auto mt-12 max-w-7xl border-t border-white/10 pt-6">
+    <div class="flex flex-col gap-4 text-xs text-ivory/42 sm:flex-row sm:items-center sm:justify-between">
+      <p>© 2026 Georgia Film Society. All rights reserved.</p>
+      <p>hello@georgiafilmsociety.com</p>
+    </div>
+
+    <p class="mt-5 max-w-4xl text-xs leading-6 text-ivory/38">
+      Georgia Film Society is organized as a nonprofit cultural institution. Donation, membership, sponsorship, and program details may be updated as the organization develops. Nothing on this website should be interpreted as legal, financial, or tax advice. Tax treatment, if applicable, depends on current law and the donor’s individual circumstances.
+    </p>
   </div>
 </footer>
 <button

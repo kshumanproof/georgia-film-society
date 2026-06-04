@@ -29,7 +29,7 @@ Do not merge into `main` until the full site is reviewed and approved.
 - `membership.html` — Membership tiers and Stripe links
 - `support.html` — Donation and support page
 - `partner.html` — Sponsorship and partnership page
-- `cardennes.html` — Cardennes Film Festival bridge page
+- `cardenne.html` — Cardenne Film Festival bridge page
 - `students.html` — Student access and education
 - `volunteer.html` — Volunteer interest and future form placeholder
 - `press.html` — Press resources and approved language
@@ -55,10 +55,10 @@ Sponsor logos live in:
 assets/img/sponsors/
 ```
 
-Cardennes images live in:
+Cardenne images live in:
 
 ```txt
-assets/img/cardennes/
+assets/img/Cardenne/
 ```
 
 ## Important Image Names
@@ -71,14 +71,14 @@ assets/img/logo-gfs.png
 assets/img/social-preview.jpg
 ```
 
-Cardennes:
+Cardenne:
 
 ```txt
-assets/img/cardennes/cardennes-hero.jpg
-assets/img/cardennes/cinema-seats.jpg
-assets/img/cardennes/filmmaker.jpg
-assets/img/cardennes/hospitality.jpg
-assets/img/cardennes/venue.jpg
+assets/img/Cardenne/Cardenne-hero.jpg
+assets/img/Cardenne/cinema-seats.jpg
+assets/img/Cardenne/filmmaker.jpg
+assets/img/Cardenne/hospitality.jpg
+assets/img/Cardenne/venue.jpg
 ```
 
 Sponsors:

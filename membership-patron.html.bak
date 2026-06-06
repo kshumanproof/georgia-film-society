@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ï»¿<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -126,13 +126,12 @@
       </div>
     </a>
 
-    <nav class="hidden items-center gap-5 text-sm text-ivory/75 lg:flex xl:gap-7" aria-label="Main navigation">
+    <nav class="hidden items-center gap-7 text-sm text-ivory/75 lg:flex xl:gap-8" aria-label="Main navigation">
       <a href="about.html" class="transition hover:text-brass">About</a>
       <a href="programs.html" class="transition hover:text-brass">Programs</a>
       <a href="aster.html" class="transition hover:text-brass">The Aster</a>
       <a href="membership.html" class="transition hover:text-brass">Membership</a>
       <a href="support.html" class="transition hover:text-brass">Support</a>
-      <a href="students.html" class="transition hover:text-brass">Students</a>
       <a href="partner.html" class="transition hover:text-brass">Partner</a>
       <a href="volunteer.html" class="transition hover:text-brass">Volunteer</a>
     </nav>
@@ -168,10 +167,10 @@
       <a href="aster.html" class="border-b border-white/10 py-4 hover:text-brass">The Aster</a>
       <a href="membership.html" class="border-b border-white/10 py-4 hover:text-brass">Membership</a>
       <a href="support.html" class="border-b border-white/10 py-4 hover:text-brass">Support</a>
-      <a href="students.html" class="border-b border-white/10 py-4 hover:text-brass">Students</a>
       <a href="partner.html" class="border-b border-white/10 py-4 hover:text-brass">Partner</a>
       <a href="volunteer.html" class="border-b border-white/10 py-4 hover:text-brass">Volunteer</a>
       <a href="events.html" class="border-b border-white/10 py-4 hover:text-brass">Events</a>
+      <a href="students.html" class="border-b border-white/10 py-4 hover:text-brass">Students</a>
       <a href="press.html" class="border-b border-white/10 py-4 hover:text-brass">Press</a>
       <a href="contact.html" class="mt-5 inline-flex items-center justify-center rounded-full bg-brass px-6 py-3 text-xs font-bold uppercase tracking-[0.22em] text-obsidian">
         Stay Connected
@@ -199,7 +198,7 @@
       </h1>
 
       <p class="mt-8 max-w-3xl text-lg leading-8 text-ivory/72">
-        For supporters who want to help strengthen Georgia Film Society’s long-term work in cinema culture, student access, and filmmaker-centered programming.
+        For supporters who want to help strengthen Georgia Film Societyâ€™s long-term work in cinema culture, student access, and filmmaker-centered programming.
       </p>
 
       <div class="mt-10 flex flex-col items-start gap-4 sm:flex-row">
@@ -223,7 +222,7 @@
       </p>
 
       <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] text-charcoal sm:text-5xl">
-        Patron-level support for Georgia’s film culture.
+        Patron-level support for Georgiaâ€™s film culture.
       </h2>
 
       <div class="mt-8 space-y-6 text-lg leading-8 text-charcoal/72">
@@ -250,7 +249,7 @@
         </p>
 
         <p class="mt-6 text-lg leading-8 text-charcoal/72">
-          Patron Membership strengthens Georgia Film Society’s work in student access, filmmaker-centered programming, cultural events, workshops, retreats, community screenings, The Aster, and long-term institutional growth.
+          Patron Membership strengthens Georgia Film Societyâ€™s work in student access, filmmaker-centered programming, cultural events, workshops, retreats, community screenings, The Aster, and long-term institutional growth.
         </p>
 
         <div class="mt-10 border-t border-limestone pt-8">

@@ -1,16 +1,16 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="referrer" content="strict-origin-when-cross-origin" />
 
-  <title>Volunteer | Georgia Film Society</title>
+  <title>Programs | Georgia Film Society</title>
 
   <meta
-    name="description"
-    content="Volunteer with Georgia Film Society to support screenings, salons, hospitality, student access, The Aster-related programs, and cinema culture in Georgia and the Southeast."
-  />
+  name="description"
+  content="Georgia Film Society supports year-round cinema culture through curated screenings, member salons, education initiatives, filmmaker support, The Aster Film Festival, and story and technology programs."
+/>
 
   <meta
     name="keywords"
@@ -21,29 +21,29 @@
   <meta name="robots" content="index,follow,max-image-preview:large" />
   <meta name="theme-color" content="#080807" />
 
-  <link rel="canonical" href="https://georgiafilmsociety.com/volunteer.html" />
+  <link rel="canonical" href="https://georgiafilmsociety.com/programs.html" />
 
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/icon-gfs.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="/assets/img/icon-gfs.png" />
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/icon-gfs.png" />
 
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Volunteer | Georgia Film Society" />
+  <meta property="og:title" content="Programs | Georgia Film Society" />
   <meta
-  property="og:description"
-  content="Volunteer with Georgia Film Society to support screenings, salons, hospitality, student access, The Aster-related programs, and cinema culture in Georgia and the Southeast."
-/>
+    property="og:description"
+    content="A nonprofit cinematic cultural institution for Georgia and the Southeast."
+  />
   <meta property="og:image" content="https://georgiafilmsociety.com/assets/img/social-preview.jpg" />
   <meta property="og:image:alt" content="Georgia Film Society Logo" />
-  <meta property="og:url" content="https://georgiafilmsociety.com/volunteer.html" />
+  <meta property="og:url" content="https://georgiafilmsociety.com/programs.html" />
   <meta property="og:site_name" content="Georgia Film Society" />
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Volunteer | Georgia Film Society" />
+  <meta name="twitter:title" content="Programs | Georgia Film Society" />
   <meta
-  name="twitter:description"
-  content="Volunteer with Georgia Film Society to support screenings, salons, hospitality, student access, The Aster-related programs, and cinema culture in Georgia and the Southeast."
-/>
+    name="twitter:description"
+    content="A nonprofit cinematic cultural institution for Georgia and the Southeast."
+  />
   <meta name="twitter:image" content="https://georgiafilmsociety.com/assets/img/social-preview.jpg" />
   <meta name="twitter:image:alt" content="Georgia Film Society Logo" />
 
@@ -126,13 +126,12 @@
       </div>
     </a>
 
-    <nav class="hidden items-center gap-5 text-sm text-ivory/75 lg:flex xl:gap-7" aria-label="Main navigation">
+    <nav class="hidden items-center gap-7 text-sm text-ivory/75 lg:flex xl:gap-8" aria-label="Main navigation">
       <a href="about.html" class="transition hover:text-brass">About</a>
       <a href="programs.html" class="transition hover:text-brass">Programs</a>
       <a href="aster.html" class="transition hover:text-brass">The Aster</a>
       <a href="membership.html" class="transition hover:text-brass">Membership</a>
       <a href="support.html" class="transition hover:text-brass">Support</a>
-      <a href="students.html" class="transition hover:text-brass">Students</a>
       <a href="partner.html" class="transition hover:text-brass">Partner</a>
       <a href="volunteer.html" class="transition hover:text-brass">Volunteer</a>
     </nav>
@@ -168,10 +167,10 @@
       <a href="aster.html" class="border-b border-white/10 py-4 hover:text-brass">The Aster</a>
       <a href="membership.html" class="border-b border-white/10 py-4 hover:text-brass">Membership</a>
       <a href="support.html" class="border-b border-white/10 py-4 hover:text-brass">Support</a>
-      <a href="students.html" class="border-b border-white/10 py-4 hover:text-brass">Students</a>
       <a href="partner.html" class="border-b border-white/10 py-4 hover:text-brass">Partner</a>
       <a href="volunteer.html" class="border-b border-white/10 py-4 hover:text-brass">Volunteer</a>
       <a href="events.html" class="border-b border-white/10 py-4 hover:text-brass">Events</a>
+      <a href="students.html" class="border-b border-white/10 py-4 hover:text-brass">Students</a>
       <a href="press.html" class="border-b border-white/10 py-4 hover:text-brass">Press</a>
       <a href="contact.html" class="mt-5 inline-flex items-center justify-center rounded-full bg-brass px-6 py-3 text-xs font-bold uppercase tracking-[0.22em] text-obsidian">
         Stay Connected
@@ -180,297 +179,373 @@
   </div>
 </header>
 
- <main>
+  <main>
 
-  <section id="volunteer-hero" class="relative overflow-hidden bg-obsidian pt-24 text-ivory">
-  <div class="absolute inset-0">
-    <div class="absolute left-[-10%] top-[10%] h-80 w-80 rounded-full bg-brass/10 blur-3xl sm:h-[34rem] sm:w-[34rem]"></div>
-    <div class="absolute bottom-[-15%] right-[-5%] h-96 w-96 rounded-full bg-laurel/20 blur-3xl sm:h-[36rem] sm:w-[36rem]"></div>
-  </div>
-
-  <div class="relative mx-auto max-w-7xl px-5 py-20 lg:px-8 lg:py-28">
-    <div class="max-w-5xl">
-      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-        Volunteer
-      </p>
-
-      <h1 class="mt-8 max-w-5xl font-serif text-5xl font-semibold leading-[0.92] tracking-[-0.055em] text-ivory sm:text-6xl md:text-7xl">
-        Help shape the atmosphere around cinema.
-      </h1>
-
-      <p class="mt-8 max-w-3xl text-lg leading-8 text-ivory/72">
-        Georgia Film Society relies on thoughtful, reliable volunteers to support screenings, salons, member gatherings, hospitality, student access, The Aster-related programs, and cultural events.
-      </p>
-
-      <div class="mt-10 flex flex-col items-start gap-4 sm:flex-row">
-  <a href="https://form.jotform.com/261543865784066" target="_blank" rel="noopener noreferrer" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-obsidian transition hover:bg-ivory sm:w-[18rem]">
-    Apply to Volunteer
-  </a>
-
-  <a href="students.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
-    Student Access
-  </a>
-</div>
+  <section id="programs-hero" class="relative overflow-hidden bg-obsidian pt-24 text-ivory">
+    <div class="absolute inset-0">
+      <div class="absolute left-[-10%] top-[10%] h-80 w-80 rounded-full bg-brass/10 blur-3xl sm:h-[34rem] sm:w-[34rem]"></div>
+      <div class="absolute bottom-[-15%] right-[-5%] h-96 w-96 rounded-full bg-laurel/20 blur-3xl sm:h-[36rem] sm:w-[36rem]"></div>
     </div>
-  </div>
-</section>
 
-<section id="volunteer-thesis" class="border-b border-limestone bg-ivory px-5 py-20 lg:px-8">
-  <div class="mx-auto max-w-7xl">
-    <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-      Volunteer philosophy
-    </p>
+    <div class="relative mx-auto max-w-7xl px-5 py-20 lg:px-8 lg:py-28">
+      <div class="max-w-5xl">
+        <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+          Programs
+        </p>
 
-    <p class="mt-8 max-w-5xl font-serif text-3xl font-medium leading-tight tracking-[-0.035em] text-charcoal sm:text-4xl lg:text-5xl">
-      Volunteers help create the tone, care, welcome, and operational seriousness people feel when they encounter the institution.
-    </p>
-  </div>
-</section>
+        <h1 class="mt-8 max-w-5xl font-serif text-5xl font-semibold leading-[0.92] tracking-[-0.055em] text-ivory sm:text-6xl md:text-7xl">
+          A year-round ecosystem for cinema culture.
+        </h1>
 
-<section id="volunteer-roles" class="bg-[#eee8dc] px-5 py-20 lg:px-8">
+        <p class="mt-8 max-w-3xl text-lg leading-8 text-ivory/72">
+          Georgia Film Society brings people together through curated screenings, member salons, filmmaker conversations, student access, writer-centered programs, The Aster, and conversations around the evolving language of cinema.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section id="programs-thesis" class="border-b border-limestone bg-ivory px-5 py-20 lg:px-8">
+    <div class="mx-auto max-w-7xl">
+      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+        Built with restraint
+      </p>
+
+      <p class="mt-8 max-w-5xl font-serif text-3xl font-medium leading-tight tracking-[-0.035em] text-charcoal sm:text-4xl lg:text-5xl">
+        The Society’s programs are shaped around cultural purpose, filmmaker respect, hospitality, education, and meaningful gathering — not noise, speed, or empty scale.
+      </p>
+    </div>
+  </section>
+
+  <section id="program-areas" class="bg-[#eee8dc] px-5 py-20 lg:px-8">
   <div class="mx-auto max-w-7xl">
     <div class="mb-12 max-w-4xl">
       <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-        Volunteer areas
+        Program areas
       </p>
 
       <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-        Support the experiences that make cinema culture feel alive.
+        The Society’s work extends beyond a single event.
       </h2>
+
+      <p class="mt-6 max-w-3xl text-lg leading-8 text-charcoal/70">
+        Georgia Film Society supports a year-round cultural life through screenings, salons, education, filmmaker-centered programs, student access, member gatherings, and conversations around the evolving language of cinema.
+      </p>
     </div>
 
     <div class="grid gap-px overflow-hidden border border-limestone bg-limestone sm:grid-cols-2 lg:grid-cols-3">
-
       <article class="bg-ivory p-8">
         <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">01</p>
-        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Event Support</h3>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Curated Screenings</h3>
         <p class="mt-5 leading-7 text-charcoal/70">
-          Help with guest flow, check-in, seating, wayfinding, event readiness, and the details that keep gatherings calm and polished.
+          Film gatherings shaped by context, conversation, hospitality, and a serious respect for the work.
         </p>
       </article>
 
       <article class="bg-ivory p-8">
         <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">02</p>
-        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Hospitality</h3>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Member Salons</h3>
         <p class="mt-5 leading-7 text-charcoal/70">
-          Support filmmaker, member, guest, patron, and partner experiences with care, discretion, warmth, and professionalism.
+          Private and member-centered gatherings around cinema, craft, cultural conversation, and shared civic life.
         </p>
       </article>
 
       <article class="bg-ivory p-8">
         <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">03</p>
-        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">The Aster Support</h3>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Filmmaker Conversations</h3>
         <p class="mt-5 leading-7 text-charcoal/70">
-          Festival support includes guest services, filmmaker hospitality, venue support, line management, and festival operations.
+          Thoughtful conversations with filmmakers, writers, artists, patrons, civic leaders, and creative guests.
         </p>
       </article>
 
       <article class="bg-ivory p-8">
         <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">04</p>
-        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Student Volunteers</h3>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Student Access</h3>
         <p class="mt-5 leading-7 text-charcoal/70">
-          Students can support GFS while gaining exposure to event operations, cultural programming, film culture, and nonprofit arts leadership.
+          Pathways for students, interns, educators, and emerging filmmakers seeking meaningful access to film culture.
         </p>
       </article>
 
       <article class="bg-ivory p-8">
         <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">05</p>
-        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Community Ambassadors</h3>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Writer Programs</h3>
         <p class="mt-5 leading-7 text-charcoal/70">
-          Help introduce aligned audiences, local communities, educators, civic contacts, and cultural supporters to GFS.
+          Focused environments for writers developing original work with discipline, intention, and institutional support.
         </p>
       </article>
 
       <article class="bg-ivory p-8">
         <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">06</p>
-        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Operations</h3>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Story &amp; Technology</h3>
         <p class="mt-5 leading-7 text-charcoal/70">
-          Support behind-the-scenes needs such as preparation, materials, guest lists, communications, and event follow-up.
+          Conversations around cinema, authorship, ethics, AI, innovation, and the evolving relationship between human creativity and the moving image.
         </p>
       </article>
-
     </div>
   </div>
 </section>
 
-<section id="volunteer-fit" class="bg-charcoal px-5 py-20 text-ivory lg:px-8">
-  <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12">
-    <div class="lg:col-span-5">
-      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-        Who we are looking for
-      </p>
-
-      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-        Reliable, thoughtful people who understand the value of atmosphere.
-      </h2>
-    </div>
-
-    <div class="lg:col-span-7">
-      <div class="grid gap-5 sm:grid-cols-2">
-        <div class="border-t border-white/20 pt-5">
-          <h3 class="font-serif text-2xl font-semibold">Calm under pressure</h3>
-          <p class="mt-3 leading-7 text-ivory/65">
-            Events move quickly. Volunteers help make the room feel easier, not louder.
-          </p>
-        </div>
-
-        <div class="border-t border-white/20 pt-5">
-          <h3 class="font-serif text-2xl font-semibold">Guest-minded</h3>
-          <p class="mt-3 leading-7 text-ivory/65">
-            GFS values hospitality, clear communication, and respect for members, artists, partners, and audiences.
-          </p>
-        </div>
-
-        <div class="border-t border-white/20 pt-5">
-          <h3 class="font-serif text-2xl font-semibold">Dependable</h3>
-          <p class="mt-3 leading-7 text-ivory/65">
-            Showing up, following instructions, and communicating clearly matter. Volunteers help carry the standard of the institution.
-          </p>
-        </div>
-
-        <div class="border-t border-white/20 pt-5">
-  <h3 class="font-serif text-2xl font-semibold">Aligned</h3>
-  <p class="mt-3 leading-7 text-ivory/65">
-    Volunteers understand that GFS is a serious cultural institution shaped by care, hospitality, preparation, and respect for the work.
-  </p>
-</div>
-      </div>
-    </div>
-  </div>
-</section>
-
-  <section id="volunteer-process" class="bg-ivory px-5 py-20 lg:px-8">
-  <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12">
-    <div class="lg:col-span-5">
-      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-        Volunteer process
-      </p>
-
-      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-        A thoughtful application process for a serious volunteer team.
-      </h2>
-    </div>
-
-    <div class="lg:col-span-7">
-      <div class="grid gap-5">
-        <div class="border-t border-charcoal/25 pt-5">
-          <h3 class="font-serif text-2xl font-semibold">1. Apply to volunteer</h3>
-          <p class="mt-3 leading-7 text-charcoal/70">
-            Share your contact information, availability, location, relevant experience, and areas of interest through the volunteer application.
-          </p>
-        </div>
-
-        <div class="border-t border-charcoal/25 pt-5">
-          <h3 class="font-serif text-2xl font-semibold">2. Review and fit</h3>
-          <p class="mt-3 leading-7 text-charcoal/70">
-            GFS reviews volunteer applications for alignment, timing, role fit, reliability, and event needs.
-          </p>
-        </div>
-
-        <div class="border-t border-charcoal/25 pt-5">
-          <h3 class="font-serif text-2xl font-semibold">3. Orientation</h3>
-          <p class="mt-3 leading-7 text-charcoal/70">
-            Selected volunteers receive role expectations, event details, communication instructions, and orientation before supporting GFS programs.
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section id="volunteer-interest" class="border-y border-limestone bg-[#eee8dc] px-5 py-20 lg:px-8">
+  <section id="featured-programs" class="bg-[#eee8dc] px-5 py-20 lg:px-8">
   <div class="mx-auto max-w-7xl">
-    <div class="grid gap-12 lg:grid-cols-12 lg:items-start">
-      <div class="lg:col-span-5">
+    <div class="mb-12 max-w-4xl">
+      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+        Featured program
+      </p>
+
+      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+        The Aster anchors the Society’s festival work.
+      </h2>
+
+      <p class="mt-6 max-w-3xl text-lg leading-8 text-charcoal/70">
+        A selective discovery festival connected to Georgia Film Society’s larger year-round cultural ecosystem.
+      </p>
+    </div>
+
+    <article class="grid overflow-hidden border border-brass/30 bg-obsidian text-ivory lg:grid-cols-12">
+      <div class="relative min-h-[22rem] overflow-hidden bg-obsidian lg:col-span-6 lg:min-h-[34rem]">
+        <img
+          src="assets/img/aster.png"
+          alt="The Aster Film Festival"
+          class="absolute inset-0 h-full w-full object-cover"
+        />
+
+        <div class="absolute inset-0 bg-obsidian/45"></div>
+        <div class="absolute inset-0 bg-gradient-to-t from-obsidian via-obsidian/35 to-transparent"></div>
+
+        <div class="absolute bottom-0 left-0 max-w-xl p-8 sm:p-10">
+          <p class="text-xs font-bold uppercase tracking-[0.28em] text-brass">
+            The Aster
+          </p>
+
+          <p class="mt-4 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] text-ivory sm:text-5xl">
+            A selective festival for serious cinematic work.
+          </p>
+        </div>
+      </div>
+
+      <div class="flex min-h-[28rem] flex-col justify-between p-8 sm:p-10 lg:col-span-6 lg:p-12">
+        <div>
+          <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+            Festival platform
+          </p>
+
+          <h3 class="mt-8 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+            Merit. Curation. Hospitality.
+          </h3>
+
+          <p class="mt-6 text-lg leading-8 text-ivory/68">
+            The Aster is designed as a selective discovery festival centered on cinematic distinction, thoughtful selection, filmmaker respect, and a carefully shaped guest experience.
+          </p>
+
+          <p class="mt-5 leading-8 text-ivory/58">
+            It sits inside the larger Georgia Film Society ecosystem alongside screenings, salons, education, patronage, partnerships, and conversations around the evolving language of cinema.
+          </p>
+        </div>
+
+        <div class="mt-10 flex justify-start lg:justify-end">
+          <a href="aster.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-brass transition hover:bg-brass hover:text-obsidian sm:w-[18rem]">
+            Explore The Aster
+          </a>
+        </div>
+      </div>
+    </article>
+  </div>
+</section>
+
+<section id="upcoming-highlights" class="bg-ivory px-5 py-20 lg:px-8">
+  <div class="mx-auto max-w-7xl">
+    <div class="mb-12 flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
+      <div class="max-w-4xl">
         <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-          Volunteer application
+          Upcoming highlights
         </p>
 
-        <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] text-charcoal sm:text-5xl">
-          Apply to join the Georgia Film Society volunteer team.
+        <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+          Selected events and programs.
         </h2>
 
-        <p class="mt-6 text-lg leading-8 text-charcoal/70">
-          Volunteers help create the welcome, rhythm, calm, and care that define the GFS experience. Applications are reviewed for fit, availability, reliability, and alignment with the institution.
+        <p class="mt-6 max-w-3xl text-lg leading-8 text-charcoal/70">
+          A focused look at upcoming gatherings, screenings, salons, and program moments connected to Georgia Film Society.
         </p>
       </div>
 
-      <div class="lg:col-span-7">
-        <div class="border border-limestone bg-ivory p-8 lg:p-10">
-          <div class="grid gap-8 md:grid-cols-2">
-            <div>
-              <p class="text-xs font-bold uppercase tracking-[0.28em] text-brass">
-                Volunteer intake
-              </p>
-
-              <h3 class="mt-6 font-serif text-3xl font-semibold tracking-[-0.035em] text-charcoal">
-                Tell us how you would like to serve.
-              </h3>
-
-              <p class="mt-5 leading-7 text-charcoal/70">
-                The volunteer application helps GFS understand availability, location, experience, areas of interest, and basic acknowledgements so volunteers can be matched with the right opportunities.
-              </p>
-            </div>
-
-            <div>
-              <p class="text-xs font-bold uppercase tracking-[0.28em] text-brass">
-                Student volunteers
-              </p>
-
-              <h3 class="mt-6 font-serif text-3xl font-semibold tracking-[-0.035em] text-charcoal">
-                Students can enter through the same pathway.
-              </h3>
-
-              <p class="mt-5 leading-7 text-charcoal/70">
-                Students interested in film, event production, hospitality, arts administration, communications, or cultural programming can also explore GFS student access and education initiatives.
-              </p>
-            </div>
-          </div>
-
-          <div class="mt-8 flex flex-col gap-4 border-t border-limestone pt-8 sm:flex-row">
-            <a href="https://form.jotform.com/261543865784066" target="_blank" rel="noopener noreferrer" class="inline-flex w-full max-w-[18rem] items-center justify-center rounded-full bg-charcoal px-7 py-3 text-center text-sm font-bold uppercase tracking-[0.18em] text-ivory transition hover:bg-laurel sm:w-[18rem]">
-              Apply to Volunteer
-            </a>
-
-            <a href="students.html" class="inline-flex w-full max-w-[18rem] items-center justify-center rounded-full border border-charcoal/30 px-7 py-3 text-center text-sm font-bold uppercase tracking-[0.18em] text-charcoal transition hover:bg-charcoal hover:text-ivory sm:w-[18rem]">
-              Student Access
-            </a>
-          </div>
-        </div>
-      </div>
+      
     </div>
 
-    <p class="mt-8 max-w-5xl text-sm leading-6 text-charcoal/60">
-      Completing the application does not guarantee selection. GFS reviews applications based on availability, role fit, event needs, and alignment with the institution.
-    </p>
+    <div id="featured-events-grid" class="grid gap-5"></div>
+
+    <div class="mt-10 flex justify-start sm:justify-end">
+      <a href="events.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-charcoal/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-charcoal transition hover:bg-charcoal hover:text-ivory sm:w-[18rem]">
+        More Events
+      </a>
+    </div>
   </div>
 </section>
 
-<section id="volunteer-cta" class="bg-obsidian px-5 py-24 text-ivory lg:px-8">
-  <div class="mx-auto max-w-5xl text-center">
-    <p class="text-xs font-bold uppercase tracking-[0.34em] text-brass">
-      Volunteer with GFS
-    </p>
+<script>
+  const featuredEvents = [
+    {
+      active: true,
+      eyebrow: "Screening",
+      title: "Founding Screening Night",
+      date: "June 11, 2026",
+      time: "7:00 PM",
+      location: "Avalon · Alpharetta, GA",
+      image: "assets/press/gfs-event-atmosphere-01.jpg",
+      description:
+        "A curated evening of cinema, conversation, and early community building for members, patrons, and supporters.",
+      href: "events.html",
+      cta: "View Event"
+    },
+    {
+      active: true,
+      eyebrow: "Salon",
+      title: "Georgia Story Salon",
+      date: "June 20, 2026",
+      time: "10:30 AM",
+      location: "Atlanta Metro",
+      image: "assets/press/gfs-atmosphere-01.jpg",
+      description:
+        "A small-format conversation on regional storytelling, cinematic identity, and the cultural future of film in Georgia.",
+      href: "events.html",
+      cta: "View Event"
+    },
+    {
+      active: true,
+      eyebrow: "Roundtable",
+      title: "Story & Technology Roundtable",
+      date: "June 26, 2026",
+      time: "6:30 PM",
+      location: "Partner Venue · Atlanta Metro",
+      image: "assets/press/aster-atmosphere-01.jpg",
+      description:
+        "A conversation series on cinema, technology, ethics, artistic innovation, and the evolving relationship between human creativity and the moving image.",
+      href: "events.html",
+      cta: "View Event"
+    },
+    {
+      active: true,
+      eyebrow: "Membership",
+      title: "Member Salon",
+      date: "Date forthcoming",
+      time: "Member access",
+      location: "Georgia Film Society",
+      image: "assets/press/gfs-atmosphere-01.jpg",
+      description:
+        "A member-centered gathering around cinema, craft, cultural conversation, and the Society’s year-round work.",
+      href: "membership.html",
+      cta: "Membership"
+    }
+  ];
 
-    <h2 class="mt-8 font-serif text-5xl font-semibold leading-none tracking-[-0.055em] sm:text-7xl">
-      The experience matters.
-    </h2>
+  function featuredEventCard(event) {
+    return `
+      <article class="group overflow-hidden border border-limestone bg-[#eee8dc] transition hover:border-brass">
+        <div class="grid md:grid-cols-12">
+          <div class="relative min-h-[14rem] overflow-hidden bg-obsidian md:col-span-4 lg:col-span-3">
+            <img
+              src="${event.image}"
+              alt="${event.title}"
+              class="absolute inset-0 h-full w-full object-cover opacity-85 transition duration-700 group-hover:scale-105"
+              onerror="this.style.display='none'; this.nextElementSibling.classList.remove('hidden');"
+            />
 
-    <p class="mx-auto mt-8 max-w-3xl text-lg leading-8 text-ivory/68">
-      Volunteers help create the welcome, rhythm, calm, and care that allow filmmakers, members, students, patrons, and audiences to gather around cinema with seriousness and warmth.
-    </p>
+            <div class="hidden h-full w-full items-center justify-center bg-obsidian p-8">
+              <div class="text-center">
+                <p class="font-serif text-5xl font-semibold tracking-[-0.045em] text-ivory">
+                  GFS
+                </p>
+                <p class="mt-3 text-xs font-bold uppercase tracking-[0.28em] text-brass">
+                  ${event.eyebrow}
+                </p>
+              </div>
+            </div>
 
-    <div class="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
-  <a href="https://form.jotform.com/261543865784066" target="_blank" rel="noopener noreferrer" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-obsidian transition hover:bg-ivory sm:w-[18rem]">
-    Apply to Volunteer
-  </a>
+            <div class="absolute inset-0 bg-obsidian/35"></div>
+            <div class="absolute inset-x-0 bottom-0 h-28 bg-gradient-to-t from-obsidian to-transparent"></div>
 
-  <a href="contact.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
-    Contact GFS
-  </a>
-</div>
-  </div>
-</section>
+            <div class="absolute bottom-6 left-6">
+              <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
+                ${event.eyebrow}
+              </p>
+            </div>
+          </div>
+
+          <div class="grid gap-6 p-7 md:col-span-8 lg:col-span-9 lg:grid-cols-12 lg:items-center lg:p-8">
+            <div class="lg:col-span-3">
+              <p class="text-xs font-bold uppercase tracking-[0.24em] text-laurel">
+                ${event.date}
+              </p>
+
+              <p class="mt-3 text-sm leading-6 text-charcoal/55">
+                ${event.time}
+              </p>
+
+              <p class="mt-1 text-sm leading-6 text-charcoal/55">
+                ${event.location}
+              </p>
+            </div>
+
+            <div class="lg:col-span-7">
+              <h3 class="font-serif text-3xl font-semibold leading-tight tracking-[-0.035em] text-charcoal sm:text-4xl">
+                ${event.title}
+              </h3>
+
+              <p class="mt-4 max-w-2xl leading-7 text-charcoal/70">
+                ${event.description}
+              </p>
+            </div>
+
+            <div class="lg:col-span-2 lg:text-right">
+              <a href="${event.href}" class="inline-flex text-sm font-bold uppercase tracking-[0.18em] text-laurel transition hover:text-brass">
+                ${event.cta}
+              </a>
+            </div>
+          </div>
+        </div>
+      </article>
+    `;
+  }
+
+  function renderFeaturedEvents() {
+    const grid = document.getElementById("featured-events-grid");
+
+    if (!grid) return;
+
+    const activeEvents = featuredEvents
+      .filter((event) => event.active)
+      .slice(0, 4);
+
+    grid.innerHTML = activeEvents.map(featuredEventCard).join("");
+  }
+
+  renderFeaturedEvents();
+</script>
+
+  <section id="programs-cta" class="bg-obsidian px-5 py-24 text-ivory lg:px-8">
+    <div class="mx-auto max-w-5xl text-center">
+      <p class="text-xs font-bold uppercase tracking-[0.34em] text-brass">
+        Year-round culture
+      </p>
+
+      <h2 class="mt-8 font-serif text-5xl font-semibold leading-none tracking-[-0.055em] sm:text-7xl">
+        Cinema culture needs places to gather.
+      </h2>
+
+      <p class="mx-auto mt-8 max-w-3xl text-lg leading-8 text-ivory/68">
+        Georgia Film Society supports a year-round ecosystem for filmmakers, members, patrons, students, partners, and audiences across Georgia and the Southeast.
+      </p>
+
+      <div class="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
+        <a href="index.html#interest-list" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-obsidian transition hover:bg-ivory sm:w-[18rem]">
+          Join Updates
+        </a>
+
+        <a href="partner.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
+          Partner with GFS
+        </a>
+      </div>
+    </div>
+  </section>
 
 </main>
 

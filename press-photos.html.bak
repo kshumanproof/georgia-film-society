@@ -1,42 +1,45 @@
-<!DOCTYPE html>
+ï»¿<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="referrer" content="strict-origin-when-cross-origin" />
 
-  <title>Leadership & Board | Georgia Film Society</title>
-
-  
+  <title>Press Photos | Georgia Film Society</title>
 
   <meta
   name="description"
-  content="Approved leadership, officer, and board information for Georgia Film Society, including public-facing names, roles, bios, and press reference materials."
+  content="Approved Georgia Film Society press photos, institutional imagery, atmosphere images, and downloadable media assets for press, partners, and public-facing use."
 />
+
+  <meta
+    name="keywords"
+    content="Georgia Film Society, Georgia film, nonprofit film organization, cinematic culture, independent film, filmmakers, storytelling, Southeast film, The Aster Film Festival, film membership, film patrons"
+  />
 
   <meta name="author" content="Georgia Film Society" />
   <meta name="robots" content="index,follow,max-image-preview:large" />
   <meta name="theme-color" content="#080807" />
 
-  <link rel="canonical" href="https://georgiafilmsociety.com/press-leadership.html" />
+  <link rel="canonical" href="https://georgiafilmsociety.com/press-photos.html" />
 
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/icon-gfs.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="/assets/img/icon-gfs.png" />
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/icon-gfs.png" />
 
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Leadership & Board | Georgia Film Society" />
+  <meta property="og:title" content="Press Photos | Georgia Film Society" />
   <meta
     property="og:description"
     content="A nonprofit cinematic cultural institution for Georgia and the Southeast."
   />
   <meta property="og:image" content="https://georgiafilmsociety.com/assets/img/social-preview.jpg" />
   <meta property="og:image:alt" content="Georgia Film Society Logo" />
-  <meta property="og:url" content="https://georgiafilmsociety.com/press-leadership.html" />
+  <meta property="og:url" content="https://georgiafilmsociety.com/press-photos.html" />
   <meta property="og:site_name" content="Georgia Film Society" />
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Leadership & Board | Georgia Film Society" />
+  <meta name="twitter:title" content="Press Photos | Georgia Film Society" />
   <meta
     name="twitter:description"
     content="A nonprofit cinematic cultural institution for Georgia and the Southeast."
@@ -123,13 +126,12 @@
       </div>
     </a>
 
-    <nav class="hidden items-center gap-5 text-sm text-ivory/75 lg:flex xl:gap-7" aria-label="Main navigation">
+    <nav class="hidden items-center gap-7 text-sm text-ivory/75 lg:flex xl:gap-8" aria-label="Main navigation">
       <a href="about.html" class="transition hover:text-brass">About</a>
       <a href="programs.html" class="transition hover:text-brass">Programs</a>
       <a href="aster.html" class="transition hover:text-brass">The Aster</a>
       <a href="membership.html" class="transition hover:text-brass">Membership</a>
       <a href="support.html" class="transition hover:text-brass">Support</a>
-      <a href="students.html" class="transition hover:text-brass">Students</a>
       <a href="partner.html" class="transition hover:text-brass">Partner</a>
       <a href="volunteer.html" class="transition hover:text-brass">Volunteer</a>
     </nav>
@@ -165,10 +167,10 @@
       <a href="aster.html" class="border-b border-white/10 py-4 hover:text-brass">The Aster</a>
       <a href="membership.html" class="border-b border-white/10 py-4 hover:text-brass">Membership</a>
       <a href="support.html" class="border-b border-white/10 py-4 hover:text-brass">Support</a>
-      <a href="students.html" class="border-b border-white/10 py-4 hover:text-brass">Students</a>
       <a href="partner.html" class="border-b border-white/10 py-4 hover:text-brass">Partner</a>
       <a href="volunteer.html" class="border-b border-white/10 py-4 hover:text-brass">Volunteer</a>
       <a href="events.html" class="border-b border-white/10 py-4 hover:text-brass">Events</a>
+      <a href="students.html" class="border-b border-white/10 py-4 hover:text-brass">Students</a>
       <a href="press.html" class="border-b border-white/10 py-4 hover:text-brass">Press</a>
       <a href="contact.html" class="mt-5 inline-flex items-center justify-center rounded-full bg-brass px-6 py-3 text-xs font-bold uppercase tracking-[0.22em] text-obsidian">
         Stay Connected
@@ -179,7 +181,7 @@
 
 <main>
 
-  <section id="leadership-hero" class="relative overflow-hidden bg-obsidian pt-24 text-ivory">
+  <section id="photos-hero" class="relative overflow-hidden bg-obsidian pt-24 text-ivory">
   <div class="absolute inset-0">
     <div class="absolute left-[-10%] top-[10%] h-80 w-80 rounded-full bg-brass/10 blur-3xl sm:h-[34rem] sm:w-[34rem]"></div>
     <div class="absolute bottom-[-15%] right-[-5%] h-96 w-96 rounded-full bg-laurel/20 blur-3xl sm:h-[36rem] sm:w-[36rem]"></div>
@@ -188,15 +190,15 @@
   <div class="relative mx-auto max-w-7xl px-5 py-20 lg:px-8 lg:py-28">
     <div class="max-w-5xl">
       <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-        Leadership & Board
+        Press Photos
       </p>
 
       <h1 class="mt-8 max-w-5xl font-serif text-5xl font-semibold leading-[0.92] tracking-[-0.055em] text-ivory sm:text-6xl md:text-7xl">
-        Leadership information for Georgia Film Society.
+        Official imagery for Georgia Film Society.
       </h1>
 
       <p class="mt-8 max-w-3xl text-lg leading-8 text-ivory/72">
-        Officer, board, and leadership information for press, partner, sponsor, civic, and institutional reference.
+        Institutional, atmosphere, event, founder, and festival-related images for press, partners, sponsors, media, and public materials.
       </p>
 
       <div class="mt-10 flex flex-col items-start gap-4 sm:flex-row">
@@ -204,306 +206,310 @@
           Back to Press
         </a>
 
-        <a href="assets/press/georgia-film-society-leadership.pdf" download="georgia-film-society-leadership.pdf" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
-          Download PDF
+        <a href="assets/press/georgia-film-society-photo-package.zip" download="georgia-film-society-photo-package.zip" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
+          Download Photos
         </a>
       </div>
     </div>
   </div>
 </section>
 
-  <section id="leadership-structure" class="border-b border-limestone bg-ivory px-5 py-20 lg:px-8">
-  <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12">
-    <div class="lg:col-span-5">
+  <section id="photos-intro" class="border-b border-limestone bg-ivory px-5 py-20 lg:px-8">
+    <div class="mx-auto max-w-7xl">
       <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-        Governance
+        Usage note
       </p>
 
-      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] text-charcoal sm:text-5xl">
-        Officers provide leadership. The board supports oversight.
+      <p class="mt-8 max-w-5xl font-serif text-3xl font-medium leading-tight tracking-[-0.035em] text-charcoal sm:text-4xl lg:text-5xl">
+        Use only approved Georgia Film Society images for press, partner, sponsor, and institutional materials. Do not heavily alter, misrepresent, or use images outside their intended context.
+      </p>
+    </div>
+  </section>
+
+  <section id="photo-downloads" class="bg-[#eee8dc] px-5 py-20 lg:px-8">
+  <div class="mx-auto max-w-7xl">
+    <div class="mb-12 max-w-4xl">
+      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+        Image library
+      </p>
+
+      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+        View and download press-ready images.
       </h2>
 
       <p class="mt-6 max-w-3xl text-lg leading-8 text-charcoal/70">
-        Georgia Film Society is guided by officers and board leadership responsible for mission alignment, institutional stewardship, public trust, and long-term cultural purpose.
+        Download individual images or the complete photo package for media, partner, sponsor, and institutional use.
       </p>
     </div>
 
-    <div class="lg:col-span-7">
-      <div class="grid gap-5 sm:grid-cols-2">
-        <div class="border-t border-charcoal/25 pt-5">
-          <h3 class="font-serif text-2xl font-semibold">
-            President
-          </h3>
-          <p class="mt-3 leading-7 text-charcoal/70">
-            Provides executive leadership, institutional direction, public representation, and strategic development.
-          </p>
+    <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+
+      <article class="flex flex-col overflow-hidden border border-limestone bg-ivory">
+        <div class="h-72 overflow-hidden bg-obsidian">
+          <img
+            src="assets/press/gfs-atmosphere-01.jpg"
+            alt="Georgia Film Society atmosphere image"
+            class="h-full w-full object-cover opacity-90 transition duration-700 hover:scale-105"
+          />
         </div>
 
-        <div class="border-t border-charcoal/25 pt-5">
-          <h3 class="font-serif text-2xl font-semibold">
-            Secretary
-          </h3>
-          <p class="mt-3 leading-7 text-charcoal/70">
-            Supports governance records, board documentation, meeting minutes, and organizational continuity.
+        <div class="flex flex-1 flex-col p-8">
+          <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
+            Atmosphere
           </p>
+
+          <h3 class="mt-6 font-serif text-3xl font-semibold tracking-[-0.035em]">
+            Institutional atmosphere
+          </h3>
+
+          <p class="mt-4 leading-7 text-charcoal/70">
+            Atmosphere image for Georgia Film Society press, partner, media, and institutional materials.
+          </p>
+
+          <div class="mt-auto pt-8">
+            <a href="assets/press/gfs-atmosphere-01.jpg" download="gfs-atmosphere-01.jpg" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-charcoal px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:bg-laurel sm:w-[18rem]">
+              Download Image
+            </a>
+          </div>
+        </div>
+      </article>
+
+      <article class="flex flex-col overflow-hidden border border-limestone bg-ivory">
+        <div class="h-72 overflow-hidden bg-obsidian">
+          <img
+            src="assets/press/aster-atmosphere-01.jpg"
+            alt="The Aster Film Festival atmosphere image"
+            class="h-full w-full object-cover opacity-90 transition duration-700 hover:scale-105"
+          />
         </div>
 
-        <div class="border-t border-charcoal/25 pt-5">
-          <h3 class="font-serif text-2xl font-semibold">
-            Treasurer
-          </h3>
-          <p class="mt-3 leading-7 text-charcoal/70">
-            Supports financial oversight, reporting, budgeting, and responsible stewardship of institutional resources.
+        <div class="flex flex-1 flex-col p-8">
+          <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
+            The Aster
           </p>
+
+          <h3 class="mt-6 font-serif text-3xl font-semibold tracking-[-0.035em]">
+            Festival atmosphere
+          </h3>
+
+          <p class="mt-4 leading-7 text-charcoal/70">
+            Image for The Aster Film Festival references inside the Georgia Film Society ecosystem.
+          </p>
+
+          <div class="mt-auto pt-8">
+            <a href="assets/press/aster-atmosphere-01.jpg" download="aster-atmosphere-01.jpg" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-charcoal/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-charcoal transition hover:bg-charcoal hover:text-ivory sm:w-[18rem]">
+              Download Image
+            </a>
+          </div>
+        </div>
+      </article>
+
+      <article class="flex flex-col overflow-hidden border border-limestone bg-ivory">
+        <div class="h-72 overflow-hidden bg-obsidian">
+          <img
+            src="assets/img/social-preview.jpg"
+            alt="Georgia Film Society social preview image"
+            class="h-full w-full object-cover opacity-90 transition duration-700 hover:scale-105"
+          />
         </div>
 
-        <div class="border-t border-charcoal/25 pt-5">
-          <h3 class="font-serif text-2xl font-semibold">
-            Board of Directors
-          </h3>
-          <p class="mt-3 leading-7 text-charcoal/70">
-            Supports governance, mission integrity, strategic accountability, public trust, and long-term institutional credibility.
+        <div class="flex flex-1 flex-col p-8">
+          <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
+            Social Preview
           </p>
+
+          <h3 class="mt-6 font-serif text-3xl font-semibold tracking-[-0.035em]">
+            Public preview image
+          </h3>
+
+          <p class="mt-4 leading-7 text-charcoal/70">
+            Preview image for links, press references, social cards, and digital use.
+          </p>
+
+          <div class="mt-auto pt-8">
+            <a href="assets/img/social-preview.jpg" download="georgia-film-society-social-preview.jpg" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-charcoal px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:bg-laurel sm:w-[18rem]">
+              Download Image
+            </a>
+          </div>
+        </div>
+      </article>
+
+      <article class="flex flex-col overflow-hidden border border-limestone bg-ivory">
+        <div class="h-72 overflow-hidden bg-obsidian">
+          <img
+            src="assets/press/kris-shuman-headshot.jpg"
+            alt="Kris Shuman, Founder of Georgia Film Society"
+            class="h-full w-full object-cover opacity-90 transition duration-700 hover:scale-105"
+          />
+        </div>
+
+        <div class="flex flex-1 flex-col p-8">
+          <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
+            Founder
+          </p>
+
+          <h3 class="mt-6 font-serif text-3xl font-semibold tracking-[-0.035em]">
+            Founder headshot
+          </h3>
+
+          <p class="mt-4 leading-7 text-charcoal/70">
+            Founder headshot for press, partner, sponsor, media, and institutional materials.
+          </p>
+
+          <div class="mt-auto pt-8">
+            <a href="assets/press/kris-shuman-headshot.jpg" download="kris-shuman-headshot.jpg" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-charcoal/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-charcoal transition hover:bg-charcoal hover:text-ivory sm:w-[18rem]">
+              Download Headshot
+            </a>
+          </div>
+        </div>
+      </article>
+
+      <article class="flex flex-col overflow-hidden border border-limestone bg-ivory">
+        <div class="h-72 overflow-hidden bg-obsidian">
+          <img
+            src="assets/press/gfs-event-atmosphere-01.jpg"
+            alt="Georgia Film Society event atmosphere image"
+            class="h-full w-full object-cover opacity-90 transition duration-700 hover:scale-105"
+          />
+        </div>
+
+        <div class="flex flex-1 flex-col p-8">
+          <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
+            Events
+          </p>
+
+          <h3 class="mt-6 font-serif text-3xl font-semibold tracking-[-0.035em]">
+            Event atmosphere
+          </h3>
+
+          <p class="mt-4 leading-7 text-charcoal/70">
+            Event atmosphere image for screenings, salons, member gatherings, and public programming.
+          </p>
+
+          <div class="mt-auto pt-8">
+            <a href="assets/press/gfs-event-atmosphere-01.jpg" download="gfs-event-atmosphere-01.jpg" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-charcoal px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:bg-laurel sm:w-[18rem]">
+              Download Image
+            </a>
+          </div>
+        </div>
+      </article>
+
+      <article class="flex flex-col overflow-hidden border border-limestone bg-ivory">
+        <div class="flex h-72 items-center justify-center bg-charcoal p-8">
+          <div class="w-full border border-brass/30 bg-white/[0.03] p-8">
+            <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
+              Photo Package
+            </p>
+            <p class="mt-5 font-serif text-4xl font-semibold leading-tight text-ivory">
+              Press Images
+            </p>
+          </div>
+        </div>
+
+        <div class="flex flex-1 flex-col p-8">
+          <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
+            Full Package
+          </p>
+
+          <h3 class="mt-6 font-serif text-3xl font-semibold tracking-[-0.035em]">
+            Download all photos
+          </h3>
+
+          <p class="mt-4 leading-7 text-charcoal/70">
+            Download the complete photo package for media, partner, sponsor, and institutional use.
+          </p>
+
+          <div class="mt-auto pt-8">
+            <a href="assets/press/georgia-film-society-photo-package.zip" download="georgia-film-society-photo-package.zip" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-charcoal/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-charcoal transition hover:bg-charcoal hover:text-ivory sm:w-[18rem]">
+              Download Package
+            </a>
+          </div>
+        </div>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+  <section id="photo-usage" class="bg-charcoal px-5 py-20 text-ivory lg:px-8">
+    <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12">
+      <div class="lg:col-span-5">
+        <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+          Photo usage
+        </p>
+
+        <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+          Use images with the right context.
+        </h2>
+      </div>
+
+      <div class="lg:col-span-7">
+        <div class="grid gap-5 sm:grid-cols-2">
+          <div class="border-t border-white/20 pt-5">
+            <h3 class="font-serif text-2xl font-semibold">
+              Credit accurately
+            </h3>
+            <p class="mt-3 leading-7 text-ivory/65">
+              Use provided credit language when available. Do not remove required attribution from approved images.
+            </p>
+          </div>
+
+          <div class="border-t border-white/20 pt-5">
+            <h3 class="font-serif text-2xl font-semibold">
+              Preserve meaning
+            </h3>
+            <p class="mt-3 leading-7 text-ivory/65">
+              Do not use images in a way that misrepresents Georgia Film Society, The Aster, partners, events, or participants.
+            </p>
+          </div>
+
+          <div class="border-t border-white/20 pt-5">
+            <h3 class="font-serif text-2xl font-semibold">
+              Avoid heavy alteration
+            </h3>
+            <p class="mt-3 leading-7 text-ivory/65">
+              Basic crop and sizing are acceptable. Avoid dramatic filters, misleading edits, or heavy manipulation.
+            </p>
+          </div>
+
+          <div class="border-t border-white/20 pt-5">
+            <h3 class="font-serif text-2xl font-semibold">
+              Use approved assets
+            </h3>
+            <p class="mt-3 leading-7 text-ivory/65">
+              Use only images provided through this page or otherwise approved by Georgia Film Society.
+            </p>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
 
-  <section id="officers" class="bg-[#eee8dc] px-5 py-20 lg:px-8">
-  <div class="mx-auto max-w-7xl">
-    <div class="mb-12 max-w-4xl">
-      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-        Officers
-      </p>
-
-      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-        Executive officers of Georgia Film Society.
-      </h2>
-
-      <p class="mt-6 max-w-3xl text-lg leading-8 text-charcoal/70">
-        Officers provide executive leadership, governance continuity, financial oversight, and institutional direction.
-      </p>
-    </div>
-
-    <div id="officers-grid" class="grid gap-6 md:grid-cols-3"></div>
-  </div>
-</section>
-
-<section id="board-of-directors" class="bg-ivory px-5 py-20 lg:px-8">
-  <div class="mx-auto max-w-7xl">
-    <div class="mb-12 max-w-4xl">
-      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-        Board of Directors
-      </p>
-
-      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-        Board leadership supports institutional oversight and long-term credibility.
-      </h2>
-
-      <p class="mt-6 max-w-3xl text-lg leading-8 text-charcoal/70">
-        The board supports Georgia Film Society’s governance, mission alignment, institutional stewardship, public trust, and long-term cultural purpose.
-      </p>
-    </div>
-
-    <div id="board-grid" class="grid gap-6 md:grid-cols-2 lg:grid-cols-3"></div>
-  </div>
-</section>
-
-  <section id="leadership-cta" class="bg-obsidian px-5 py-24 text-ivory lg:px-8">
+  <section id="photos-cta" class="bg-obsidian px-5 py-24 text-ivory lg:px-8">
   <div class="mx-auto max-w-5xl text-center">
     <p class="text-xs font-bold uppercase tracking-[0.34em] text-brass">
-      Leadership
+      Press images
     </p>
 
     <h2 class="mt-8 font-serif text-5xl font-semibold leading-none tracking-[-0.055em] sm:text-7xl">
-      Stewardship matters.
+      Use images with care.
     </h2>
 
     <p class="mx-auto mt-8 max-w-3xl text-lg leading-8 text-ivory/68">
-      Georgia Film Society is guided by leadership committed to public trust, institutional care, and the long-term cultural life of cinema in Georgia and the Southeast.
+      These images help represent Georgia Film Society, The Aster, and related institutional materials clearly and consistently.
     </p>
 
     <div class="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
-      <a href="press.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-obsidian transition hover:bg-ivory sm:w-[18rem]">
-        Back to Press
+      <a href="assets/press/georgia-film-society-photo-package.zip" download="georgia-film-society-photo-package.zip" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-obsidian transition hover:bg-ivory sm:w-[18rem]">
+        Download Photos
       </a>
 
-      <a href="press-founder-bio.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
-        Founder Bio
+      <a href="press.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
+        Back to Press
       </a>
     </div>
   </div>
 </section>
-
-  <script>
-    const gfsOfficers = [
-      {
-        active: true,
-        name: "Kris Shuman",
-        title: "President",
-        photo: "assets/press/kris-shuman-headshot.jpg",
-        initials: "KS",
-        bio: "Kris Shuman is the founder and president of Georgia Film Society. He leads the institution’s work around cinema culture, filmmaker support, membership, patronage, partnerships, student access, year-round programming, and The Aster Film Festival as its flagship festival."
-      },
-      {
-        active: true,
-        name: "Secretary Placeholder",
-        title: "Secretary",
-        photo: "assets/press/board-secretary.jpg",
-        initials: "SP",
-        bio: "Placeholder bio for the Secretary of Georgia Film Society. Replace this language with an approved public biography once the officer is confirmed and ready for publication."
-      },
-      {
-        active: true,
-        name: "Treasurer Placeholder",
-        title: "Treasurer",
-        photo: "assets/press/board-treasurer.jpg",
-        initials: "TP",
-        bio: "Placeholder bio for the Treasurer of Georgia Film Society. Replace this language with an approved public biography once the officer is confirmed and ready for publication."
-      }
-    ];
-
-    const gfsBoardMembers = [
-      {
-        active: true,
-        name: "Board Member One",
-        title: "Board Member",
-        photo: "assets/press/board-member-01.jpg",
-        initials: "B1",
-        bio: "Placeholder bio for a Georgia Film Society board member. Replace this with approved public language describing the member&rsquo;s background, leadership experience, civic alignment, or connection to film culture."
-      },
-      {
-        active: true,
-        name: "Board Member Two",
-        title: "Board Member",
-        photo: "assets/press/board-member-02.jpg",
-        initials: "B2",
-        bio: "Placeholder bio for a Georgia Film Society board member. Replace this with approved public language describing the member&rsquo;s background, leadership experience, civic alignment, or connection to film culture."
-      },
-      {
-        active: true,
-        name: "Board Member Three",
-        title: "Board Member",
-        photo: "assets/press/board-member-03.jpg",
-        initials: "B3",
-        bio: "Placeholder bio for a Georgia Film Society board member. Replace this with approved public language describing the member&rsquo;s background, leadership experience, civic alignment, or connection to film culture."
-      },
-      {
-        active: false,
-        name: "Board Member Four",
-        title: "Board Member",
-        photo: "assets/press/board-member-04.jpg",
-        initials: "B4",
-        bio: "Placeholder bio for a Georgia Film Society board member."
-      },
-      {
-        active: false,
-        name: "Board Member Five",
-        title: "Board Member",
-        photo: "assets/press/board-member-05.jpg",
-        initials: "B5",
-        bio: "Placeholder bio for a Georgia Film Society board member."
-      },
-      {
-        active: false,
-        name: "Board Member Six",
-        title: "Board Member",
-        photo: "assets/press/board-member-06.jpg",
-        initials: "B6",
-        bio: "Placeholder bio for a Georgia Film Society board member."
-      },
-      {
-        active: false,
-        name: "Board Member Seven",
-        title: "Board Member",
-        photo: "assets/press/board-member-07.jpg",
-        initials: "B7",
-        bio: "Placeholder bio for a Georgia Film Society board member."
-      },
-      {
-        active: false,
-        name: "Board Member Eight",
-        title: "Board Member",
-        photo: "assets/press/board-member-08.jpg",
-        initials: "B8",
-        bio: "Placeholder bio for a Georgia Film Society board member."
-      },
-      {
-        active: false,
-        name: "Board Member Nine",
-        title: "Board Member",
-        photo: "assets/press/board-member-09.jpg",
-        initials: "B9",
-        bio: "Placeholder bio for a Georgia Film Society board member."
-      }
-    ];
-
-    function leadershipCard(person) {
-      return `
-        <article class="overflow-hidden border border-limestone bg-ivory">
-          <div class="relative h-80 overflow-hidden bg-obsidian">
-            <img
-              src="${person.photo}"
-              alt="${person.name}, ${person.title}"
-              class="h-full w-full object-cover opacity-90"
-              onerror="this.style.display='none'; this.nextElementSibling.classList.remove('hidden');"
-            />
-
-            <div class="hidden flex h-full w-full items-center justify-center bg-obsidian p-8">
-              <div class="text-center">
-                <p class="font-serif text-6xl font-semibold tracking-[-0.045em] text-ivory">
-                  ${person.initials}
-                </p>
-                <p class="mt-3 text-xs font-bold uppercase tracking-[0.28em] text-brass">
-                  ${person.title}
-                </p>
-              </div>
-            </div>
-
-            <div class="absolute inset-0 bg-gradient-to-t from-obsidian/80 via-transparent to-transparent"></div>
-
-            <div class="absolute bottom-6 left-6">
-              <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
-                ${person.title}
-              </p>
-            </div>
-          </div>
-
-          <div class="p-8">
-            <h3 class="font-serif text-3xl font-semibold tracking-[-0.035em] text-charcoal">
-              ${person.name}
-            </h3>
-
-            <p class="mt-2 text-xs font-bold uppercase tracking-[0.22em] text-laurel">
-              ${person.title}
-            </p>
-
-            <p class="mt-5 leading-7 text-charcoal/70">
-              ${person.bio}
-            </p>
-          </div>
-        </article>
-      `;
-    }
-
-    const officersGrid = document.getElementById('officers-grid');
-    const boardGrid = document.getElementById('board-grid');
-
-    if (officersGrid) {
-      officersGrid.innerHTML = gfsOfficers
-        .filter((person) => person.active)
-        .map(leadershipCard)
-        .join('');
-    }
-
-    if (boardGrid) {
-      boardGrid.innerHTML = gfsBoardMembers
-        .filter((person) => person.active)
-        .map(leadershipCard)
-        .join('');
-    }
-  </script>
 
 </main>
 

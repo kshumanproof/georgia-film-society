@@ -1,15 +1,15 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="referrer" content="strict-origin-when-cross-origin" />
 
-  <title>The Aster Film Festival | Georgia Film Society</title>
+  <title>Press Fact Sheet | Georgia Film Society</title>
 
   <meta
     name="description"
-    content="The Aster Film Festival is the flagship festival of Georgia Film Society, a selective discovery platform shaped by merit, curation, hospitality, and cinematic excellence."
+    content="Approved institutional facts, descriptions, boilerplate, and public-facing language for Georgia Film Society."
   />
 
   <meta
@@ -21,29 +21,29 @@
   <meta name="robots" content="index,follow,max-image-preview:large" />
   <meta name="theme-color" content="#080807" />
 
-  <link rel="canonical" href="https://georgiafilmsociety.com/aster.html" />
+  <link rel="canonical" href="https://georgiafilmsociety.com/press-fact-sheet.html" />
 
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/icon-gfs.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="/assets/img/icon-gfs.png" />
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/icon-gfs.png" />
 
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="The Aster Film Festival | Georgia Film Society" />
+  <meta property="og:title" content="Press Fact Sheet | Georgia Film Society" />
   <meta
-  property="og:description"
-  content="The Aster Film Festival is the flagship festival of Georgia Film Society, built around merit, curation, hospitality, and serious cinematic discovery."
-/>
+    property="og:description"
+    content="A nonprofit cinematic cultural institution for Georgia and the Southeast."
+  />
   <meta property="og:image" content="https://georgiafilmsociety.com/assets/img/social-preview.jpg" />
   <meta property="og:image:alt" content="Georgia Film Society Logo" />
-  <meta property="og:url" content="https://georgiafilmsociety.com/aster.html" />
+  <meta property="og:url" content="https://georgiafilmsociety.com/press-fact-sheet.html" />
   <meta property="og:site_name" content="Georgia Film Society" />
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="The Aster Film Festival | Georgia Film Society" />
+  <meta name="twitter:title" content="Press Fact Sheet | Georgia Film Society" />
   <meta
-  name="twitter:description"
-  content="The Aster Film Festival is the flagship festival of Georgia Film Society, built around merit, curation, hospitality, and serious cinematic discovery."
-/>
+    name="twitter:description"
+    content="A nonprofit cinematic cultural institution for Georgia and the Southeast."
+  />
   <meta name="twitter:image" content="https://georgiafilmsociety.com/assets/img/social-preview.jpg" />
   <meta name="twitter:image:alt" content="Georgia Film Society Logo" />
 
@@ -126,13 +126,12 @@
       </div>
     </a>
 
-    <nav class="hidden items-center gap-5 text-sm text-ivory/75 lg:flex xl:gap-7" aria-label="Main navigation">
+    <nav class="hidden items-center gap-7 text-sm text-ivory/75 lg:flex xl:gap-8" aria-label="Main navigation">
       <a href="about.html" class="transition hover:text-brass">About</a>
       <a href="programs.html" class="transition hover:text-brass">Programs</a>
       <a href="aster.html" class="transition hover:text-brass">The Aster</a>
       <a href="membership.html" class="transition hover:text-brass">Membership</a>
       <a href="support.html" class="transition hover:text-brass">Support</a>
-      <a href="students.html" class="transition hover:text-brass">Students</a>
       <a href="partner.html" class="transition hover:text-brass">Partner</a>
       <a href="volunteer.html" class="transition hover:text-brass">Volunteer</a>
     </nav>
@@ -168,10 +167,10 @@
       <a href="aster.html" class="border-b border-white/10 py-4 hover:text-brass">The Aster</a>
       <a href="membership.html" class="border-b border-white/10 py-4 hover:text-brass">Membership</a>
       <a href="support.html" class="border-b border-white/10 py-4 hover:text-brass">Support</a>
-      <a href="students.html" class="border-b border-white/10 py-4 hover:text-brass">Students</a>
       <a href="partner.html" class="border-b border-white/10 py-4 hover:text-brass">Partner</a>
       <a href="volunteer.html" class="border-b border-white/10 py-4 hover:text-brass">Volunteer</a>
       <a href="events.html" class="border-b border-white/10 py-4 hover:text-brass">Events</a>
+      <a href="students.html" class="border-b border-white/10 py-4 hover:text-brass">Students</a>
       <a href="press.html" class="border-b border-white/10 py-4 hover:text-brass">Press</a>
       <a href="contact.html" class="mt-5 inline-flex items-center justify-center rounded-full bg-brass px-6 py-3 text-xs font-bold uppercase tracking-[0.22em] text-obsidian">
         Stay Connected
@@ -180,258 +179,240 @@
   </div>
 </header>
 
-  <main>
+<main>
 
-  <section id="aster-hero" class="relative overflow-hidden bg-obsidian pt-24 text-ivory">
+  <section id="fact-sheet-hero" class="relative overflow-hidden bg-obsidian pt-24 text-ivory">
   <div class="absolute inset-0">
-    <img
-      src="assets/img/aster.png"
-      alt="The Aster Film Festival atmosphere"
-      class="h-full w-full object-cover"
-    />
-    <div class="absolute inset-0 bg-obsidian/65"></div>
-    <div class="absolute inset-0 bg-gradient-to-r from-obsidian via-obsidian/82 to-obsidian/30"></div>
-    <div class="absolute inset-0 bg-gradient-to-t from-obsidian via-obsidian/15 to-obsidian/35"></div>
+    <div class="absolute left-[-10%] top-[10%] h-80 w-80 rounded-full bg-brass/10 blur-3xl sm:h-[34rem] sm:w-[34rem]"></div>
+    <div class="absolute bottom-[-15%] right-[-5%] h-96 w-96 rounded-full bg-laurel/20 blur-3xl sm:h-[36rem] sm:w-[36rem]"></div>
   </div>
 
-  <div class="relative mx-auto max-w-7xl px-5 py-24 lg:min-h-[92vh] lg:px-8 lg:py-32">
-    <div class="flex min-h-[70vh] items-center">
-      <div class="max-w-5xl">
-        <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-          The Aster Film Festival
-        </p>
+  <div class="relative mx-auto max-w-7xl px-5 py-20 lg:px-8 lg:py-28">
+    <div class="max-w-5xl">
+      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+        Press Fact Sheet
+      </p>
 
-        <h1 class="mt-8 max-w-5xl font-serif text-5xl font-semibold leading-[0.9] tracking-[-0.055em] text-ivory sm:text-6xl md:text-7xl lg:text-8xl">
-          A selective festival for films that deserve serious attention.
-        </h1>
+      <h1 class="mt-8 max-w-5xl font-serif text-5xl font-semibold leading-[0.92] tracking-[-0.055em] text-ivory sm:text-6xl md:text-7xl">
+        Institutional facts for Georgia Film Society.
+      </h1>
 
-        <p class="mt-8 max-w-3xl text-lg leading-8 text-ivory/72">
-          The Aster is the flagship festival of Georgia Film Society, recognizing exceptional work within a refined setting for filmmakers, audiences, patrons, and industry guests.
-        </p>
+      <p class="mt-8 max-w-3xl text-lg leading-8 text-ivory/72">
+        Public reference information for media, partners, sponsors, civic leaders, and aligned organizations describing Georgia Film Society.
+      </p>
 
-        <div class="mt-10 flex flex-col items-start gap-4 sm:flex-row">
-          <a href="https://theasterfilmfestival.org" target="_blank" rel="noopener noreferrer" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-obsidian transition hover:bg-ivory sm:w-[18rem]">
-            Visit The Aster
-          </a>
+      <div class="mt-10 flex flex-col items-start gap-4 sm:flex-row">
+        <a href="press.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-obsidian transition hover:bg-ivory sm:w-[18rem]">
+          Back to Press
+        </a>
 
-          <a href="index.html#interest-list" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
-            Join Updates
-          </a>
-        </div>
+        <a href="assets/press/georgia-film-society-fact-sheet.pdf" download="georgia-film-society-fact-sheet.pdf" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
+          Download PDF
+        </a>
       </div>
     </div>
   </div>
 </section>
 
-<section id="aster-positioning" class="border-b border-limestone bg-ivory px-5 py-20 lg:px-8">
+<section id="fact-sheet-intro" class="border-b border-limestone bg-ivory px-5 py-20 lg:px-8">
   <div class="mx-auto max-w-7xl">
     <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-      Festival positioning
+      Institutional summary
     </p>
 
     <p class="mt-8 max-w-5xl font-serif text-3xl font-medium leading-tight tracking-[-0.035em] text-charcoal sm:text-4xl lg:text-5xl">
-      The Aster is designed as a selective, filmmaker-respecting festival where each invitation carries weight and every detail supports the work on screen.
+      Georgia Film Society is a nonprofit cinematic cultural institution for Georgia and the Southeast, dedicated to artistic excellence, filmmaker support, education, membership, patronage, partnerships, year-round programming, and The Aster Film Festival as its flagship festival.
     </p>
   </div>
 </section>
 
-<section id="cinematic-grid" class="bg-[#eee8dc] px-5 py-20 lg:px-8">
+<section id="quick-facts" class="bg-[#eee8dc] px-5 py-20 lg:px-8">
   <div class="mx-auto max-w-7xl">
     <div class="mb-12 max-w-4xl">
       <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-        Festival atmosphere
+        Quick facts
       </p>
 
-      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-        Intimate, distinctive, and worthy of meaningful attention.
+      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] text-charcoal sm:text-5xl">
+        Core public information.
       </h2>
     </div>
 
-    <div class="grid gap-6 lg:grid-cols-12">
-      <article class="overflow-hidden border border-limestone bg-ivory lg:col-span-7">
-        <div class="relative h-80 overflow-hidden bg-obsidian sm:h-[28rem]">
-          <img
-            src="assets/img/aster.png"
-            alt="The Aster Film Festival cinema atmosphere"
-            class="h-full w-full object-cover transition duration-700 hover:scale-105"
-          />
-          <div class="absolute inset-0 bg-obsidian/25"></div>
-          <div class="absolute inset-0 bg-gradient-to-t from-obsidian/80 via-obsidian/20 to-transparent"></div>
-          <div class="absolute bottom-6 left-6">
-            <p class="text-xs font-bold uppercase tracking-[0.28em] text-brass">Selection</p>
-          </div>
-        </div>
-
-        <div class="p-8">
-          <h3 class="font-serif text-4xl font-semibold tracking-[-0.045em]">
-            Selection should carry weight.
-          </h3>
-
-          <p class="mt-5 max-w-3xl leading-7 text-charcoal/70">
-            The Aster is shaped around intentional programming, not volume. Discovery should feel credible, and selected work should receive the attention it deserves.
-          </p>
-        </div>
+    <div class="grid gap-px overflow-hidden border border-limestone bg-limestone md:grid-cols-2 lg:grid-cols-3">
+      <article class="bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
+          Organization
+        </p>
+        <p class="mt-6 font-serif text-3xl font-semibold leading-tight tracking-[-0.035em]">
+          Georgia Film Society
+        </p>
+        <p class="mt-4 leading-7 text-charcoal/70">
+          A nonprofit cinematic cultural institution serving Georgia and the Southeast.
+        </p>
       </article>
 
-      <article class="overflow-hidden border border-limestone bg-ivory lg:col-span-5">
-        <div class="relative h-80 overflow-hidden bg-obsidian sm:h-[28rem]">
-          <img
-            src="assets/img/aster.png"
-            alt="The Aster Film Festival filmmaker atmosphere"
-            class="h-full w-full object-cover transition duration-700 hover:scale-105"
-          />
-          <div class="absolute inset-0 bg-obsidian/25"></div>
-          <div class="absolute inset-0 bg-gradient-to-t from-obsidian/80 via-obsidian/20 to-transparent"></div>
-          <div class="absolute bottom-6 left-6">
-            <p class="text-xs font-bold uppercase tracking-[0.28em] text-brass">Filmmakers</p>
-          </div>
-        </div>
-
-        <div class="p-8">
-          <h3 class="font-serif text-3xl font-semibold tracking-[-0.035em]">
-            The work comes first.
-          </h3>
-
-          <p class="mt-5 leading-7 text-charcoal/70">
-            Selected filmmakers should feel that the festival understands the discipline, sacrifice, and ambition behind serious cinematic work.
-          </p>
-        </div>
+      <article class="bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
+          Focus
+        </p>
+        <p class="mt-6 font-serif text-3xl font-semibold leading-tight tracking-[-0.035em]">
+          Cinema culture
+        </p>
+        <p class="mt-4 leading-7 text-charcoal/70">
+          GFS supports film, filmmakers, audiences, students, patrons, partners, and year-round cultural programming.
+        </p>
       </article>
+
+      <article class="bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
+          Region
+        </p>
+        <p class="mt-6 font-serif text-3xl font-semibold leading-tight tracking-[-0.035em]">
+          Georgia & the Southeast
+        </p>
+        <p class="mt-4 leading-7 text-charcoal/70">
+          The Society is rooted in Georgia while serving the broader creative and cinematic culture of the Southeast.
+        </p>
+      </article>
+
+      <article class="bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
+          Flagship festival
+        </p>
+        <p class="mt-6 font-serif text-3xl font-semibold leading-tight tracking-[-0.035em]">
+          The Aster Film Festival
+        </p>
+        <p class="mt-4 leading-7 text-charcoal/70">
+          The Aster is the flagship festival of Georgia Film Society.
+        </p>
+      </article>
+
+      <article class="bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
+          Public pathways
+        </p>
+        <p class="mt-6 font-serif text-3xl font-semibold leading-tight tracking-[-0.035em]">
+          Members, patrons, partners
+        </p>
+        <p class="mt-4 leading-7 text-charcoal/70">
+          Public engagement is organized through membership, patronage, partnership, volunteering, student access, and events.
+        </p>
+      </article>
+
+      <article class="bg-ivory p-8">
+  <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
+    Contact
+  </p>
+  <p class="mt-6 font-serif text-3xl font-semibold leading-tight tracking-[-0.035em]">
+    Georgia Film Society
+  </p>
+  <p class="mt-4 leading-7 text-charcoal/70">
+    Media, partnership, support, and general inquiries may be directed through the <a href="contact.html" class="font-semibold text-laurel hover:text-brass">Contact page</a>.
+  </p>
+</article>
     </div>
   </div>
 </section>
-
-<section id="relationship-to-gfs" class="bg-obsidian px-5 py-20 text-ivory lg:px-8">
-  <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12 lg:items-center">
-    <div class="lg:col-span-5">
+  
+<section id="approved-descriptions" class="bg-ivory px-5 py-20 lg:px-8">
+  <div class="mx-auto max-w-7xl">
+    <div class="mb-12 max-w-4xl">
       <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-        Relationship to GFS
+        Approved descriptions
       </p>
 
-      <h2 class="mt-8 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-        The Aster is the flagship festival. Georgia Film Society is the institution behind it.
+      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] text-charcoal sm:text-5xl">
+        Use these descriptions when referencing GFS.
+      </h2>
+    </div>
+
+    <div class="grid gap-6 lg:grid-cols-2">
+      <article class="border border-limestone bg-[#eee8dc] p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.28em] text-laurel">
+          Short description
+        </p>
+
+        <p class="mt-8 text-lg leading-8 text-charcoal/72">
+          Georgia Film Society is a nonprofit cinematic cultural institution for Georgia and the Southeast.
+        </p>
+      </article>
+
+      <article class="border border-limestone bg-[#eee8dc] p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.28em] text-laurel">
+          Standard description
+        </p>
+
+        <p class="mt-8 text-lg leading-8 text-charcoal/72">
+          Georgia Film Society is a nonprofit cinematic cultural institution dedicated to artistic excellence, filmmaker support, education, membership, patronage, partnerships, and the enduring role of film in Georgia and the Southeast.
+        </p>
+      </article>
+
+      <article class="border border-limestone bg-[#eee8dc] p-8 lg:col-span-2">
+        <p class="text-xs font-bold uppercase tracking-[0.28em] text-laurel">
+          The Aster
+        </p>
+
+        <p class="mt-8 text-lg leading-8 text-charcoal/72">
+          The Aster Film Festival is the flagship festival of Georgia Film Society, designed as a selective film festival shaped by merit, curation, hospitality, discovery, and cinematic distinction.
+        </p>
+      </article>
+    </div>
+  </div>
+</section>  
+
+  <section id="usage-note" class="bg-[#eee8dc] px-5 py-20 lg:px-8">
+  <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12">
+    <div class="lg:col-span-5">
+      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+        Usage note
+      </p>
+
+      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+        Use institution-first language.
       </h2>
     </div>
 
     <div class="lg:col-span-7">
-      <div class="grid gap-6 sm:grid-cols-2">
-        <article class="border border-white/10 bg-white/[0.03] p-7">
-          <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
-            The Festival
+      <div class="grid gap-5 sm:grid-cols-2">
+        <div class="border-t border-charcoal/25 pt-5">
+          <h3 class="font-serif text-2xl font-semibold">Use</h3>
+          <p class="mt-3 leading-7 text-charcoal/70">
+            Nonprofit cinematic cultural institution. Year-round cinema culture. Filmmaker-centered programming. The Aster Film Festival as the flagship festival of Georgia Film Society.
           </p>
+        </div>
 
-          <p class="mt-6 font-serif text-3xl font-semibold leading-tight tracking-[-0.035em]">
-            The Aster carries the public festival experience.
+        <div class="border-t border-charcoal/25 pt-5">
+          <h3 class="font-serif text-2xl font-semibold">Avoid</h3>
+          <p class="mt-3 leading-7 text-charcoal/70">
+            Film club, casual meetup, festival-only organization, startup nonprofit, or generic arts organization.
           </p>
-
-          <p class="mt-5 leading-7 text-ivory/62">
-            Submissions, tickets, passes, schedules, festival press, sponsor details, and official festival updates belong with The Aster.
-          </p>
-        </article>
-
-        <article class="border border-white/10 bg-white/[0.03] p-7">
-          <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
-            The Institution
-          </p>
-
-          <p class="mt-6 font-serif text-3xl font-semibold leading-tight tracking-[-0.035em]">
-            GFS sustains the cultural foundation around it.
-          </p>
-
-          <p class="mt-5 leading-7 text-ivory/62">
-            Georgia Film Society supports the broader ecosystem: membership, patronage, education, partnerships, year-round programs, and long-term cultural infrastructure.
-          </p>
-        </article>
+        </div>
       </div>
     </div>
   </div>
 </section>
 
-<section id="hospitality" class="bg-ivory px-5 py-20 lg:px-8">
-  <div class="mx-auto grid max-w-7xl gap-8 lg:grid-cols-12 lg:items-stretch">
-    <div class="overflow-hidden border border-limestone bg-obsidian lg:col-span-5">
-      <img
-        src="assets/img/aster.png"
-        alt="The Aster Film Festival hospitality atmosphere"
-        class="h-full min-h-96 w-full object-cover opacity-90"
-      />
-    </div>
-
-    <div class="flex flex-col justify-center border border-limestone bg-[#eee8dc] p-8 lg:col-span-7 lg:p-12">
-      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-  Hospitality
-</p>
-
-<h2 class="mt-8 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-  The experience begins before the lights go down.
-</h2>
-
-<div class="mt-8 space-y-7 text-lg leading-8 text-charcoal/72">
-  <p>
-    The Aster is shaped by how people arrive, gather, converse, and feel welcomed. The festival experience should honor the work while making filmmakers, guests, patrons, and audiences feel considered.
-  </p>
-
-  <p>
-    The goal is refinement without distance, intimacy without smallness, and ambition without noise.
-  </p>
-</div>
-    </div>
-  </div>
-</section>
-
-<section id="host-ecosystem" class="bg-[#eee8dc] px-5 py-20 lg:px-8">
-  <div class="mx-auto grid max-w-7xl gap-8 lg:grid-cols-12 lg:items-stretch">
-    <div class="flex flex-col justify-center border border-limestone bg-ivory p-8 lg:col-span-7 lg:p-12">
-      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-  Host ecosystem
-</p>
-
-<h2 class="mt-8 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-  A festival should feel connected to its setting.
-</h2>
-
-<div class="mt-8 space-y-7 text-lg leading-8 text-charcoal/72">
-  <p>
-    The Aster is developed around walkability, atmosphere, hospitality, and a host environment that can support screenings, gatherings, dining, conversation, and discovery.
-  </p>
-
-  <p>
-    The setting should feel polished, accessible, and alive beyond the theater doors.
-  </p>
-</div>
-    </div>
-
-    <div class="overflow-hidden border border-limestone bg-obsidian lg:col-span-5">
-      <img
-        src="assets/img/aster.png"
-        alt="The Aster Film Festival host environment"
-        class="h-full min-h-96 w-full object-cover opacity-90"
-      />
-    </div>
-  </div>
-</section>
-
-<section id="aster-cta" class="bg-obsidian px-5 py-24 text-ivory lg:px-8">
+  <section id="fact-sheet-cta" class="bg-obsidian px-5 py-24 text-ivory lg:px-8">
   <div class="mx-auto max-w-5xl text-center">
     <p class="text-xs font-bold uppercase tracking-[0.34em] text-brass">
-      Festival bridge
+      Press resources
     </p>
 
     <h2 class="mt-8 font-serif text-5xl font-semibold leading-none tracking-[-0.055em] sm:text-7xl">
-      Visit The Aster for festival details.
+      Use the approved language.
     </h2>
 
     <p class="mx-auto mt-8 max-w-3xl text-lg leading-8 text-ivory/68">
-      Submissions, passes, schedules, announcements, press materials, and festival-specific updates are housed with The Aster.
+      This page provides institutional facts and approved language for describing Georgia Film Society and its relationship to The Aster Film Festival.
     </p>
 
     <div class="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
-      <a href="https://theasterfilmfestival.org" target="_blank" rel="noopener noreferrer" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-obsidian transition hover:bg-ivory sm:w-[18rem]">
-        Visit The Aster
+      <a href="press.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-obsidian transition hover:bg-ivory sm:w-[18rem]">
+        Press Home
       </a>
 
-      <a href="index.html#interest-list" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
-        Join Updates
+      <a href="mailto:hello@georgiafilmsociety.com?subject=Press%20Inquiry" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
+        Press Inquiry
       </a>
     </div>
   </div>

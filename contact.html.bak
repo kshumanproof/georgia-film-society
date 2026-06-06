@@ -1,15 +1,15 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="referrer" content="strict-origin-when-cross-origin" />
 
-  <title>Support | Georgia Film Society</title>
+  <title>Contact | Georgia Film Society</title>
 
   <meta
     name="description"
-    content="Georgia Film Society support strengthens cultural infrastructure for filmmakers, audiences, students, programming, patronage, and cinematic storytelling in Georgia and the Southeast."
+    content="Contact Georgia Film Society for membership, partnership, support, press, student access, volunteer interest, The Aster updates, and general institutional inquiries."
   />
 
   <meta
@@ -21,25 +21,25 @@
   <meta name="robots" content="index,follow,max-image-preview:large" />
   <meta name="theme-color" content="#080807" />
 
-  <link rel="canonical" href="https://georgiafilmsociety.com/support.html" />
+  <link rel="canonical" href="https://georgiafilmsociety.com/contact.html" />
 
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/icon-gfs.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="/assets/img/icon-gfs.png" />
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/icon-gfs.png" />
 
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Support | Georgia Film Society" />
+  <meta property="og:title" content="Contact | Georgia Film Society" />
   <meta
     property="og:description"
     content="A nonprofit cinematic cultural institution for Georgia and the Southeast."
   />
   <meta property="og:image" content="https://georgiafilmsociety.com/assets/img/social-preview.jpg" />
   <meta property="og:image:alt" content="Georgia Film Society Logo" />
-  <meta property="og:url" content="https://georgiafilmsociety.com/support.html" />
+  <meta property="og:url" content="https://georgiafilmsociety.com/contact.html" />
   <meta property="og:site_name" content="Georgia Film Society" />
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Support | Georgia Film Society" />
+  <meta name="twitter:title" content="Contact | Georgia Film Society" />
   <meta
     name="twitter:description"
     content="A nonprofit cinematic cultural institution for Georgia and the Southeast."
@@ -126,13 +126,12 @@
       </div>
     </a>
 
-    <nav class="hidden items-center gap-5 text-sm text-ivory/75 lg:flex xl:gap-7" aria-label="Main navigation">
+    <nav class="hidden items-center gap-7 text-sm text-ivory/75 lg:flex xl:gap-8" aria-label="Main navigation">
       <a href="about.html" class="transition hover:text-brass">About</a>
       <a href="programs.html" class="transition hover:text-brass">Programs</a>
       <a href="aster.html" class="transition hover:text-brass">The Aster</a>
       <a href="membership.html" class="transition hover:text-brass">Membership</a>
       <a href="support.html" class="transition hover:text-brass">Support</a>
-      <a href="students.html" class="transition hover:text-brass">Students</a>
       <a href="partner.html" class="transition hover:text-brass">Partner</a>
       <a href="volunteer.html" class="transition hover:text-brass">Volunteer</a>
     </nav>
@@ -168,10 +167,10 @@
       <a href="aster.html" class="border-b border-white/10 py-4 hover:text-brass">The Aster</a>
       <a href="membership.html" class="border-b border-white/10 py-4 hover:text-brass">Membership</a>
       <a href="support.html" class="border-b border-white/10 py-4 hover:text-brass">Support</a>
-      <a href="students.html" class="border-b border-white/10 py-4 hover:text-brass">Students</a>
       <a href="partner.html" class="border-b border-white/10 py-4 hover:text-brass">Partner</a>
       <a href="volunteer.html" class="border-b border-white/10 py-4 hover:text-brass">Volunteer</a>
       <a href="events.html" class="border-b border-white/10 py-4 hover:text-brass">Events</a>
+      <a href="students.html" class="border-b border-white/10 py-4 hover:text-brass">Students</a>
       <a href="press.html" class="border-b border-white/10 py-4 hover:text-brass">Press</a>
       <a href="contact.html" class="mt-5 inline-flex items-center justify-center rounded-full bg-brass px-6 py-3 text-xs font-bold uppercase tracking-[0.22em] text-obsidian">
         Stay Connected
@@ -182,7 +181,7 @@
 
   <main>
 
-  <section id="support-hero" class="relative overflow-hidden bg-obsidian pt-24 text-ivory">
+  <section id="contact-hero" class="relative overflow-hidden bg-obsidian pt-24 text-ivory">
   <div class="absolute inset-0">
     <div class="absolute left-[-10%] top-[10%] h-80 w-80 rounded-full bg-brass/10 blur-3xl sm:h-[34rem] sm:w-[34rem]"></div>
     <div class="absolute bottom-[-15%] right-[-5%] h-96 w-96 rounded-full bg-laurel/20 blur-3xl sm:h-[36rem] sm:w-[36rem]"></div>
@@ -191,283 +190,339 @@
   <div class="relative mx-auto max-w-7xl px-5 py-20 lg:px-8 lg:py-28">
     <div class="max-w-5xl">
       <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-        Support
+        Contact
       </p>
 
       <h1 class="mt-8 max-w-5xl font-serif text-5xl font-semibold leading-[0.92] tracking-[-0.055em] text-ivory sm:text-6xl md:text-7xl">
-        Strengthen cultural infrastructure for cinema in Georgia.
+        Find the right point of contact.
       </h1>
 
       <p class="mt-8 max-w-3xl text-lg leading-8 text-ivory/72">
-  Your contribution supports Georgia Film Society&rsquo;s year-round cinema culture, filmmaker-centered programming, student access, cultural gatherings, and long-term institutional growth across Georgia and the Southeast.
+  For membership, support, partnerships, press, student access, volunteering, The Aster, or general institutional inquiries, begin with the pathway that best fits your interest.
 </p>
     </div>
   </div>
 </section>
 
-<section id="donate" class="bg-[#eee8dc] px-5 py-20 lg:px-8">
-  <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12 lg:items-start">
-    <div class="lg:col-span-5">
-      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-        Donate
-      </p>
-
-      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-        Make a contribution to Georgia Film Society.
-      </h2>
-
-      <p class="mt-6 text-lg leading-8 text-charcoal/70">
-  Choose a giving amount below. Contributions may be made as one-time gifts or recurring support.
-</p>
-
-      <p class="mt-6 text-sm leading-6 text-charcoal/55">
-        Contributions support the Society&rsquo;s programming, student access, filmmaker-centered initiatives, and long-term cultural infrastructure.
-      </p>
-    </div>
-
-    <div class="lg:col-span-7">
-      <div class="border border-limestone bg-ivory p-6 shadow-sm sm:p-8">
-        <div class="flex flex-col gap-3 border-b border-limestone pb-6 sm:flex-row sm:items-end sm:justify-between">
-          <div>
-            <p class="text-xs font-bold uppercase tracking-[0.28em] text-brass">
-              Choose an amount
-            </p>
-
-            <h3 class="mt-3 font-serif text-3xl font-semibold tracking-[-0.035em] text-charcoal">
-              Support the Society
-            </h3>
-          </div>
-
-          <p class="max-w-xs text-sm leading-6 text-charcoal/60">
-            PayPal will open in a secure checkout window.
-          </p>
-        </div>
-
-        <div class="mt-8 grid grid-cols-2 gap-3 sm:grid-cols-3">
-          <a href="https://www.paypal.com/donate/?hosted_button_id=M56T5SDA5J4TS" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center border border-charcoal/20 px-5 py-5 font-serif text-3xl font-semibold text-charcoal transition hover:border-brass hover:bg-brass hover:text-obsidian">
-            $25
-          </a>
-
-          <a href="https://www.paypal.com/donate/?hosted_button_id=BZC8TAH4385BN" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center border border-charcoal/20 px-5 py-5 font-serif text-3xl font-semibold text-charcoal transition hover:border-brass hover:bg-brass hover:text-obsidian">
-            $50
-          </a>
-
-          <a href="https://www.paypal.com/donate/?hosted_button_id=HL7ZAJVBTQE3Y" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center border border-charcoal/20 px-5 py-5 font-serif text-3xl font-semibold text-charcoal transition hover:border-brass hover:bg-brass hover:text-obsidian">
-            $100
-          </a>
-
-          <a href="https://www.paypal.com/donate/?hosted_button_id=TZA34MU4F9Z2S" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center border border-charcoal/20 px-5 py-5 font-serif text-3xl font-semibold text-charcoal transition hover:border-brass hover:bg-brass hover:text-obsidian">
-            $250
-          </a>
-
-          <a href="https://www.paypal.com/donate/?hosted_button_id=XCE2GPG8VZAV6" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center border border-charcoal/20 px-5 py-5 font-serif text-3xl font-semibold text-charcoal transition hover:border-brass hover:bg-brass hover:text-obsidian">
-            $500
-          </a>
-
-          <a href="https://www.paypal.com/donate/?hosted_button_id=A3C6NPG7NFNHW" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center border border-charcoal/20 px-5 py-5 font-serif text-3xl font-semibold text-charcoal transition hover:border-brass hover:bg-brass hover:text-obsidian">
-            $1,000
-          </a>
-        </div>
-
-        <a href="https://www.paypal.com/donate/?hosted_button_id=9Q65B979FDVRW" target="_blank" rel="noopener noreferrer" class="mt-4 inline-flex h-12 w-full items-center justify-center rounded-full bg-charcoal px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:bg-laurel">
-  Give a Custom Amount
-</a>
-
-        <p class="mt-6 text-sm leading-6 text-charcoal/60">
-  Georgia Film Society is a nonprofit cultural institution. Giving options, program support areas, and donor information may be updated as programs and initiatives develop.
-</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section id="specific-support" class="bg-ivory px-5 py-20 lg:px-8">
-  <div class="mx-auto max-w-7xl">
-    <div class="mb-12 max-w-4xl">
-      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-        Direct your support
-      </p>
-
-      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-        Give toward the areas of the institution you want to strengthen.
-      </h2>
-    </div>
-
-    <div class="grid gap-6 lg:grid-cols-3">
-
-      <article class="flex min-h-[31rem] flex-col border border-limestone bg-[#eee8dc] p-8">
-        <p class="text-xs font-bold uppercase tracking-[0.28em] text-brass">
-          Student Access
-        </p>
-
-        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">
-          Expand access for emerging filmmakers.
-        </h3>
-
-        <p class="mt-5 leading-7 text-charcoal/70">
-          Support may help sustain student passes, educational programming, internships, mentorship, university partnerships, and access pathways for emerging filmmakers.
-        </p>
-
-        <div class="mt-auto pt-8">
-          <a href="https://www.paypal.com/donate/?hosted_button_id=9Q65B979FDVRW" target="_blank" rel="noopener noreferrer" class="inline-flex h-12 w-full items-center justify-center rounded-full bg-charcoal px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:bg-laurel">
-            Support Student Access
-          </a>
-        </div>
-      </article>
-
-      <article class="flex min-h-[31rem] flex-col border border-limestone bg-[#eee8dc] p-8">
-        <p class="text-xs font-bold uppercase tracking-[0.28em] text-brass">
-          Programming
-        </p>
-
-        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">
-          Help bring screenings, salons, and cultural gatherings to life.
-        </h3>
-
-        <p class="mt-5 leading-7 text-charcoal/70">
-          Program support can strengthen the year-round ecosystem around curated screenings, member salons, filmmaker conversations, story and technology programs, and civic cultural gatherings.
-        </p>
-
-        <div class="mt-auto pt-8">
-          <a href="https://www.paypal.com/donate/?hosted_button_id=9Q65B979FDVRW" target="_blank" rel="noopener noreferrer" class="inline-flex h-12 w-full items-center justify-center rounded-full bg-charcoal px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:bg-laurel">
-            Support Programming
-          </a>
-        </div>
-      </article>
-
-      <article class="flex min-h-[31rem] flex-col border border-brass bg-[#eee8dc] p-8">
-        <p class="text-xs font-bold uppercase tracking-[0.28em] text-brass">
-          Legacy Support
-        </p>
-
-        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">
-          For larger gifts, underwriting, and long-term institutional support.
-        </h3>
-
-        <p class="mt-5 leading-7 text-charcoal/70">
-          Legacy support is relationship-based and designed for individuals, families, executives, and institutional supporters interested in major gifts, recognition, underwriting opportunities, and long-term cultural impact.
-        </p>
-
-        <div class="mt-auto pt-8">
-          <a href="mailto:hello@georgiafilmsociety.com?subject=Legacy%20Support%20Inquiry" class="inline-flex h-12 w-full items-center justify-center rounded-full bg-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-obsidian transition hover:bg-charcoal hover:text-ivory">
-            Start a Conversation
-          </a>
-        </div>
-      </article>
-
-    </div>
-  </div>
-</section>
-
-  <section id="support-thesis" class="border-y border-limestone bg-[#eee8dc] px-5 py-20 lg:px-8">
+<section id="contact-intro" class="border-b border-limestone bg-ivory px-5 py-20 lg:px-8">
   <div class="mx-auto max-w-7xl">
     <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-      Patronage philosophy
+      General contact
     </p>
 
     <p class="mt-8 max-w-5xl font-serif text-3xl font-medium leading-tight tracking-[-0.035em] text-charcoal sm:text-4xl lg:text-5xl">
-      Supporters do more than fund programming. They strengthen the institution that makes the work possible.
+      Georgia Film Society maintains clear public pathways for members, patrons, partners, students, volunteers, press, and festival audiences. Begin with the area that best matches your inquiry.
     </p>
-
-    <p class="mt-8 max-w-3xl text-lg leading-8 text-charcoal/70">
-  Supporters help create the cultural infrastructure that filmmakers, students, audiences, patrons, and partners can gather around for years to come.
-</p>
   </div>
 </section>
 
-<section id="what-support-makes-possible" class="bg-ivory px-5 py-20 lg:px-8">
-  <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12">
-    <div class="lg:col-span-5">
+<section id="inquiry-paths" class="bg-[#eee8dc] px-5 py-20 lg:px-8">
+  <div class="mx-auto max-w-7xl">
+    <div class="mb-12 max-w-4xl">
       <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-        What support makes possible
+        Inquiry paths
       </p>
 
       <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-        The work is not only the event. It is the ecosystem around the work.
+        Start with the area that fits your interest.
       </h2>
     </div>
 
-    <div class="lg:col-span-7">
-      <div class="grid gap-5 sm:grid-cols-2">
-        <div class="border-t border-charcoal/25 pt-5">
-          <h3 class="font-serif text-2xl font-semibold">Filmmaker hospitality</h3>
-          <p class="mt-3 leading-7 text-charcoal/70">
-            Treating selected artists with seriousness, care, context, and respect.
-          </p>
-        </div>
+    <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+      <article class="flex flex-col border border-limestone bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.28em] text-laurel">
+          Membership
+        </p>
 
-        <div class="border-t border-charcoal/25 pt-5">
-          <h3 class="font-serif text-2xl font-semibold">Student access</h3>
-          <p class="mt-3 leading-7 text-charcoal/70">
-            Building pathways for students, educators, interns, and future storytellers.
-          </p>
-        </div>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">
+          Join the Society.
+        </h3>
 
-        <div class="border-t border-charcoal/25 pt-5">
-          <h3 class="font-serif text-2xl font-semibold">Cultural programming</h3>
-          <p class="mt-3 leading-7 text-charcoal/70">
-            Supporting screenings, conversations, salons, summits, workshops, retreats, and year-round gatherings.
-          </p>
-        </div>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Learn about annual membership, member access, early announcements, events, and the role members play in the cultural life of GFS.
+        </p>
 
-        <div class="border-t border-charcoal/25 pt-5">
-          <h3 class="font-serif text-2xl font-semibold">Institutional permanence</h3>
-          <p class="mt-3 leading-7 text-charcoal/70">
-            Helping GFS operate with care, credibility, and long-term cultural purpose.
-          </p>
+        <div class="mt-auto pt-8">
+          <a href="membership.html" class="inline-flex text-sm font-bold uppercase tracking-[0.18em] text-laurel hover:text-brass">
+            View Membership
+          </a>
         </div>
+      </article>
+
+      <article class="flex flex-col border border-limestone bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.28em] text-laurel">
+          Partnership
+        </p>
+
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">
+          Sponsors, civic partners, and institutions.
+        </h3>
+
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Explore sponsorship, hospitality, education, venue, municipal, technology, and cultural partnership opportunities.
+        </p>
+
+        <div class="mt-auto pt-8">
+          <a href="partner.html" class="inline-flex text-sm font-bold uppercase tracking-[0.18em] text-laurel hover:text-brass">
+            View Partnership
+          </a>
+        </div>
+      </article>
+
+      <article class="flex flex-col border border-brass bg-charcoal p-8 text-ivory">
+        <p class="text-xs font-bold uppercase tracking-[0.28em] text-brass">
+          Support
+        </p>
+
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">
+          Donors, patrons, and legacy support.
+        </h3>
+
+        <p class="mt-5 leading-7 text-ivory/68">
+          Support Georgia Film Society through contributions, student access, programming support, underwriting, and long-term patronage.
+        </p>
+
+        <div class="mt-auto pt-8">
+          <a href="support.html" class="inline-flex text-sm font-bold uppercase tracking-[0.18em] text-brass hover:text-ivory">
+            View Support
+          </a>
+        </div>
+      </article>
+
+      <article class="flex flex-col border border-limestone bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.28em] text-laurel">
+          The Aster
+        </p>
+
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">
+          Festival information.
+        </h3>
+
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Learn how The Aster serves as the flagship festival of Georgia Film Society and where to find festival-specific information.
+        </p>
+
+        <div class="mt-auto pt-8">
+          <a href="aster.html" class="inline-flex text-sm font-bold uppercase tracking-[0.18em] text-laurel hover:text-brass">
+            View The Aster
+          </a>
+        </div>
+      </article>
+
+      <article class="flex flex-col border border-limestone bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.28em] text-laurel">
+          Students & Volunteers
+        </p>
+
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">
+          Student access and volunteer service.
+        </h3>
+
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Explore student access, education initiatives, internship pathways, volunteer opportunities, and university conversations.
+        </p>
+
+        <div class="mt-auto flex flex-col gap-3 pt-8">
+          <a href="students.html" class="inline-flex text-sm font-bold uppercase tracking-[0.18em] text-laurel hover:text-brass">
+            Student Access
+          </a>
+
+          <a href="https://form.jotform.com/261543865784066" target="_blank" rel="noopener noreferrer" class="inline-flex text-sm font-bold uppercase tracking-[0.18em] text-laurel hover:text-brass">
+            Volunteer Application
+          </a>
+        </div>
+      </article>
+
+      <article class="flex flex-col border border-limestone bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.28em] text-laurel">
+          Press
+        </p>
+
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">
+          Media and institutional information.
+        </h3>
+
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Find approved descriptions, institutional language, founder information, logos, boilerplate, and press materials.
+        </p>
+
+        <div class="mt-auto pt-8">
+          <a href="press.html" class="inline-flex text-sm font-bold uppercase tracking-[0.18em] text-laurel hover:text-brass">
+            View Press
+          </a>
+        </div>
+      </article>
+      
+    </div>
+      <div class="mt-10 border-t border-charcoal/20 pt-6">
+        <p class="max-w-3xl text-sm leading-6 text-charcoal/60">
+          For general institutional matters not covered above, email <a href="mailto:hello@georgiafilmsociety.com" class="font-semibold text-laurel hover:text-brass">Georgia Film Society</a> directly.
+        </p>
       </div>
-    </div>
   </div>
 </section>
 
-<section id="support-membership-bridge" class="bg-charcoal px-5 py-20 text-ivory lg:px-8">
-  <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12 lg:items-center">
-    <div class="lg:col-span-7">
+<section id="faq" class="bg-[#eee8dc] px-5 py-20 lg:px-8">
+  <div class="mx-auto max-w-7xl">
+    <div class="mb-12 max-w-4xl">
       <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-        Membership
+        Frequently asked questions
       </p>
 
       <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-        Looking for annual membership instead of a donation?
+        A few practical answers about the institution.
       </h2>
-
-      <p class="mt-6 max-w-3xl text-lg leading-8 text-ivory/68">
-        Membership is the doorway into Georgia Film Society, with annual member tiers for Society, Inner Circle, and Patron Members.
-      </p>
     </div>
 
-    <div class="lg:col-span-5 lg:text-right">
-      <a href="membership.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-brass transition hover:bg-brass hover:text-obsidian sm:w-[18rem]">
-  View Membership
-</a>
+    <div class="grid gap-5 lg:grid-cols-2">
+
+      <details class="group border border-limestone bg-ivory p-6">
+        <summary class="flex cursor-pointer list-none items-center justify-between gap-6">
+          <span class="font-serif text-2xl font-semibold tracking-[-0.03em]">
+            What is Georgia Film Society?
+          </span>
+          <span class="text-2xl text-brass transition group-open:rotate-45">+</span>
+        </summary>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Georgia Film Society is a nonprofit cinematic cultural institution for Georgia and the Southeast, built around storytelling, cinema culture, filmmaker support, membership, patronage, partnerships, and year-round programming. Learn more on the <a href="about.html" class="font-semibold text-laurel hover:text-brass">About page</a>.
+        </p>
+      </details>
+
+      <details class="group border border-limestone bg-ivory p-6">
+        <summary class="flex cursor-pointer list-none items-center justify-between gap-6">
+          <span class="font-serif text-2xl font-semibold tracking-[-0.03em]">
+            Is GFS a nonprofit?
+          </span>
+          <span class="text-2xl text-brass transition group-open:rotate-45">+</span>
+        </summary>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Georgia Film Society is organized as a nonprofit cultural institution. Its public programming, membership, donor support, and partnerships are built with long-term cultural benefit in mind.
+        </p>
+      </details>
+
+      <details class="group border border-limestone bg-ivory p-6">
+        <summary class="flex cursor-pointer list-none items-center justify-between gap-6">
+          <span class="font-serif text-2xl font-semibold tracking-[-0.03em]">
+            What is The Aster Film Festival?
+          </span>
+          <span class="text-2xl text-brass transition group-open:rotate-45">+</span>
+        </summary>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          The Aster Film Festival is the flagship festival of Georgia Film Society. It is designed as a selective discovery platform shaped by merit, curation, hospitality, and serious cinematic work. Learn more on the <a href="aster.html" class="font-semibold text-laurel hover:text-brass">The Aster page</a>.
+        </p>
+      </details>
+
+      <details class="group border border-limestone bg-ivory p-6">
+        <summary class="flex cursor-pointer list-none items-center justify-between gap-6">
+          <span class="font-serif text-2xl font-semibold tracking-[-0.03em]">
+            Is The Aster the same as GFS?
+          </span>
+          <span class="text-2xl text-brass transition group-open:rotate-45">+</span>
+        </summary>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          No. Georgia Film Society is the larger institution. The Aster is the flagship festival brand inside the GFS ecosystem. The <a href="aster.html" class="font-semibold text-laurel hover:text-brass">The Aster page</a> explains that relationship.
+        </p>
+      </details>
+
+      <details class="group border border-limestone bg-ivory p-6">
+        <summary class="flex cursor-pointer list-none items-center justify-between gap-6">
+          <span class="font-serif text-2xl font-semibold tracking-[-0.03em]">
+            How do I become a member?
+          </span>
+          <span class="text-2xl text-brass transition group-open:rotate-45">+</span>
+        </summary>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Visit the <a href="membership.html" class="font-semibold text-laurel hover:text-brass">Membership page</a> to choose an annual membership tier. Membership supports the institution while creating access to screenings, conversations, member events, early announcements, and cultural programming.
+        </p>
+      </details>
+
+      <details class="group border border-limestone bg-ivory p-6">
+        <summary class="flex cursor-pointer list-none items-center justify-between gap-6">
+          <span class="font-serif text-2xl font-semibold tracking-[-0.03em]">
+            How do I donate?
+          </span>
+          <span class="text-2xl text-brass transition group-open:rotate-45">+</span>
+        </summary>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Visit the <a href="support.html" class="font-semibold text-laurel hover:text-brass">Support page</a> to make a contribution or explore specific giving areas such as student access, programming, founding support, and institutional development.
+        </p>
+      </details>
+
+      <details class="group border border-limestone bg-ivory p-6">
+        <summary class="flex cursor-pointer list-none items-center justify-between gap-6">
+          <span class="font-serif text-2xl font-semibold tracking-[-0.03em]">
+            Can my company sponsor or partner with GFS?
+          </span>
+          <span class="text-2xl text-brass transition group-open:rotate-45">+</span>
+        </summary>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Yes. GFS is building partnership pathways for sponsors, civic partners, hospitality partners, universities, technology companies, cultural organizations, and aligned institutions. Visit the <a href="partner.html" class="font-semibold text-laurel hover:text-brass">Partner page</a> to begin.
+        </p>
+      </details>
+
+      <details class="group border border-limestone bg-ivory p-6">
+  <summary class="flex cursor-pointer list-none items-center justify-between gap-6">
+    <span class="font-serif text-2xl font-semibold tracking-[-0.03em]">
+      Where can I see current programs?
+    </span>
+    <span class="text-2xl text-brass transition group-open:rotate-45">+</span>
+  </summary>
+  <p class="mt-5 leading-7 text-charcoal/70">
+    Visit the <a href="programs.html" class="font-semibold text-laurel hover:text-brass">Programs page</a> for screenings, salons, education initiatives, student access, member events, The Aster-related updates, and the current institutional roadmap.
+  </p>
+</details>
+
+      <details class="group border border-limestone bg-ivory p-6">
+        <summary class="flex cursor-pointer list-none items-center justify-between gap-6">
+          <span class="font-serif text-2xl font-semibold tracking-[-0.03em]">
+            How can students or volunteers get involved?
+          </span>
+          <span class="text-2xl text-brass transition group-open:rotate-45">+</span>
+        </summary>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Students can visit the <a href="students.html" class="font-semibold text-laurel hover:text-brass">Student Access page</a>. Volunteers can learn more on the <a href="volunteer.html" class="font-semibold text-laurel hover:text-brass">Volunteer page</a> or complete the <a href="https://form.jotform.com/261543865784066" target="_blank" rel="noopener noreferrer" class="font-semibold text-laurel hover:text-brass">volunteer application</a>.
+        </p>
+      </details>
+
+      <details class="group border border-limestone bg-ivory p-6">
+        <summary class="flex cursor-pointer list-none items-center justify-between gap-6">
+          <span class="font-serif text-2xl font-semibold tracking-[-0.03em]">
+            Who should press contact?
+          </span>
+          <span class="text-2xl text-brass transition group-open:rotate-45">+</span>
+        </summary>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Press can visit the <a href="press.html" class="font-semibold text-laurel hover:text-brass">Press page</a> for approved language, institutional information, and media materials.
+        </p>
+      </details>
+
     </div>
   </div>
 </section>
 
-<section id="support-cta" class="bg-obsidian px-5 py-24 text-ivory lg:px-8">
+  <section id="contact-cta" class="bg-obsidian px-5 py-24 text-ivory lg:px-8">
   <div class="mx-auto max-w-5xl text-center">
     <p class="text-xs font-bold uppercase tracking-[0.34em] text-brass">
-      Sustain what lasts
+      Georgia Film Society
     </p>
 
     <h2 class="mt-8 font-serif text-5xl font-semibold leading-none tracking-[-0.055em] sm:text-7xl">
-      Help shape what future filmmakers inherit.
+      Still need to reach us directly?
     </h2>
 
     <p class="mx-auto mt-8 max-w-3xl text-lg leading-8 text-ivory/68">
-      Georgia Film Society supports a stronger cinematic culture in Georgia and the Southeast, rooted in storytelling, artistic ambition, hospitality, creative discovery, and serious support.
+      For general institutional inquiries, use the direct email button below or follow Georgia Film Society for public updates.
     </p>
 
     <div class="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
-      <a href="#donate" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-obsidian transition hover:bg-ivory sm:w-[18rem]">
-        Donate
-      </a>
+  <a href="mailto:hello@georgiafilmsociety.com" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-obsidian transition hover:bg-ivory sm:w-[18rem]">
+    Email GFS
+  </a>
 
-      <a href="mailto:hello@georgiafilmsociety.com?subject=Support%20Georgia%20Film%20Society" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
-        Start a Conversation
-      </a>
-    </div>
+  <a href="https://www.instagram.com/georgiafilmsociety/" target="_blank" rel="noopener noreferrer" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
+    Instagram
+  </a>
+</div>
   </div>
 </section>
 

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ï»¿<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -123,13 +123,12 @@
       </div>
     </a>
 
-    <nav class="hidden items-center gap-5 text-sm text-ivory/75 lg:flex xl:gap-7" aria-label="Main navigation">
+    <nav class="hidden items-center gap-7 text-sm text-ivory/75 lg:flex xl:gap-8" aria-label="Main navigation">
       <a href="about.html" class="transition hover:text-brass">About</a>
       <a href="programs.html" class="transition hover:text-brass">Programs</a>
       <a href="aster.html" class="transition hover:text-brass">The Aster</a>
       <a href="membership.html" class="transition hover:text-brass">Membership</a>
       <a href="support.html" class="transition hover:text-brass">Support</a>
-      <a href="students.html" class="transition hover:text-brass">Students</a>
       <a href="partner.html" class="transition hover:text-brass">Partner</a>
       <a href="volunteer.html" class="transition hover:text-brass">Volunteer</a>
     </nav>
@@ -165,10 +164,10 @@
       <a href="aster.html" class="border-b border-white/10 py-4 hover:text-brass">The Aster</a>
       <a href="membership.html" class="border-b border-white/10 py-4 hover:text-brass">Membership</a>
       <a href="support.html" class="border-b border-white/10 py-4 hover:text-brass">Support</a>
-      <a href="students.html" class="border-b border-white/10 py-4 hover:text-brass">Students</a>
       <a href="partner.html" class="border-b border-white/10 py-4 hover:text-brass">Partner</a>
       <a href="volunteer.html" class="border-b border-white/10 py-4 hover:text-brass">Volunteer</a>
       <a href="events.html" class="border-b border-white/10 py-4 hover:text-brass">Events</a>
+      <a href="students.html" class="border-b border-white/10 py-4 hover:text-brass">Students</a>
       <a href="press.html" class="border-b border-white/10 py-4 hover:text-brass">Press</a>
       <a href="contact.html" class="mt-5 inline-flex items-center justify-center rounded-full bg-brass px-6 py-3 text-xs font-bold uppercase tracking-[0.22em] text-obsidian">
         Stay Connected
@@ -302,7 +301,7 @@
       </h2>
 
       <p class="mt-6 max-w-3xl text-lg leading-8 text-charcoal/70">
-        The board supports Georgia Film Society’s governance, mission alignment, institutional stewardship, public trust, and long-term cultural purpose.
+        The board supports Georgia Film Societyâ€™s governance, mission alignment, institutional stewardship, public trust, and long-term cultural purpose.
       </p>
     </div>
 
@@ -344,7 +343,7 @@
         title: "President",
         photo: "assets/press/kris-shuman-headshot.jpg",
         initials: "KS",
-        bio: "Kris Shuman is the founder and president of Georgia Film Society. He leads the institution’s work around cinema culture, filmmaker support, membership, patronage, partnerships, student access, year-round programming, and The Aster Film Festival as its flagship festival."
+        bio: "Kris Shuman is the founder and president of Georgia Film Society. He leads the institutionâ€™s work around cinema culture, filmmaker support, membership, patronage, partnerships, student access, year-round programming, and The Aster Film Festival as its flagship festival."
       },
       {
         active: true,

@@ -1,15 +1,15 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="referrer" content="strict-origin-when-cross-origin" />
 
-  <title>The Aster Film Festival | Georgia Film Society</title>
+  <title>Volunteer | Georgia Film Society</title>
 
   <meta
     name="description"
-    content="The Aster Film Festival is the flagship festival of Georgia Film Society, a selective discovery platform shaped by merit, curation, hospitality, and cinematic excellence."
+    content="Volunteer with Georgia Film Society to support screenings, salons, hospitality, student access, The Aster-related programs, and cinema culture in Georgia and the Southeast."
   />
 
   <meta
@@ -21,28 +21,28 @@
   <meta name="robots" content="index,follow,max-image-preview:large" />
   <meta name="theme-color" content="#080807" />
 
-  <link rel="canonical" href="https://georgiafilmsociety.com/aster.html" />
+  <link rel="canonical" href="https://georgiafilmsociety.com/volunteer.html" />
 
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/icon-gfs.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="/assets/img/icon-gfs.png" />
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/icon-gfs.png" />
 
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="The Aster Film Festival | Georgia Film Society" />
+  <meta property="og:title" content="Volunteer | Georgia Film Society" />
   <meta
   property="og:description"
-  content="The Aster Film Festival is the flagship festival of Georgia Film Society, built around merit, curation, hospitality, and serious cinematic discovery."
+  content="Volunteer with Georgia Film Society to support screenings, salons, hospitality, student access, The Aster-related programs, and cinema culture in Georgia and the Southeast."
 />
   <meta property="og:image" content="https://georgiafilmsociety.com/assets/img/social-preview.jpg" />
   <meta property="og:image:alt" content="Georgia Film Society Logo" />
-  <meta property="og:url" content="https://georgiafilmsociety.com/aster.html" />
+  <meta property="og:url" content="https://georgiafilmsociety.com/volunteer.html" />
   <meta property="og:site_name" content="Georgia Film Society" />
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="The Aster Film Festival | Georgia Film Society" />
+  <meta name="twitter:title" content="Volunteer | Georgia Film Society" />
   <meta
   name="twitter:description"
-  content="The Aster Film Festival is the flagship festival of Georgia Film Society, built around merit, curation, hospitality, and serious cinematic discovery."
+  content="Volunteer with Georgia Film Society to support screenings, salons, hospitality, student access, The Aster-related programs, and cinema culture in Georgia and the Southeast."
 />
   <meta name="twitter:image" content="https://georgiafilmsociety.com/assets/img/social-preview.jpg" />
   <meta name="twitter:image:alt" content="Georgia Film Society Logo" />
@@ -126,13 +126,12 @@
       </div>
     </a>
 
-    <nav class="hidden items-center gap-5 text-sm text-ivory/75 lg:flex xl:gap-7" aria-label="Main navigation">
+    <nav class="hidden items-center gap-7 text-sm text-ivory/75 lg:flex xl:gap-8" aria-label="Main navigation">
       <a href="about.html" class="transition hover:text-brass">About</a>
       <a href="programs.html" class="transition hover:text-brass">Programs</a>
       <a href="aster.html" class="transition hover:text-brass">The Aster</a>
       <a href="membership.html" class="transition hover:text-brass">Membership</a>
       <a href="support.html" class="transition hover:text-brass">Support</a>
-      <a href="students.html" class="transition hover:text-brass">Students</a>
       <a href="partner.html" class="transition hover:text-brass">Partner</a>
       <a href="volunteer.html" class="transition hover:text-brass">Volunteer</a>
     </nav>
@@ -168,10 +167,10 @@
       <a href="aster.html" class="border-b border-white/10 py-4 hover:text-brass">The Aster</a>
       <a href="membership.html" class="border-b border-white/10 py-4 hover:text-brass">Membership</a>
       <a href="support.html" class="border-b border-white/10 py-4 hover:text-brass">Support</a>
-      <a href="students.html" class="border-b border-white/10 py-4 hover:text-brass">Students</a>
       <a href="partner.html" class="border-b border-white/10 py-4 hover:text-brass">Partner</a>
       <a href="volunteer.html" class="border-b border-white/10 py-4 hover:text-brass">Volunteer</a>
       <a href="events.html" class="border-b border-white/10 py-4 hover:text-brass">Events</a>
+      <a href="students.html" class="border-b border-white/10 py-4 hover:text-brass">Students</a>
       <a href="press.html" class="border-b border-white/10 py-4 hover:text-brass">Press</a>
       <a href="contact.html" class="mt-5 inline-flex items-center justify-center rounded-full bg-brass px-6 py-3 text-xs font-bold uppercase tracking-[0.22em] text-obsidian">
         Stay Connected
@@ -180,260 +179,295 @@
   </div>
 </header>
 
-  <main>
+ <main>
 
-  <section id="aster-hero" class="relative overflow-hidden bg-obsidian pt-24 text-ivory">
+  <section id="volunteer-hero" class="relative overflow-hidden bg-obsidian pt-24 text-ivory">
   <div class="absolute inset-0">
-    <img
-      src="assets/img/aster.png"
-      alt="The Aster Film Festival atmosphere"
-      class="h-full w-full object-cover"
-    />
-    <div class="absolute inset-0 bg-obsidian/65"></div>
-    <div class="absolute inset-0 bg-gradient-to-r from-obsidian via-obsidian/82 to-obsidian/30"></div>
-    <div class="absolute inset-0 bg-gradient-to-t from-obsidian via-obsidian/15 to-obsidian/35"></div>
+    <div class="absolute left-[-10%] top-[10%] h-80 w-80 rounded-full bg-brass/10 blur-3xl sm:h-[34rem] sm:w-[34rem]"></div>
+    <div class="absolute bottom-[-15%] right-[-5%] h-96 w-96 rounded-full bg-laurel/20 blur-3xl sm:h-[36rem] sm:w-[36rem]"></div>
   </div>
 
-  <div class="relative mx-auto max-w-7xl px-5 py-24 lg:min-h-[92vh] lg:px-8 lg:py-32">
-    <div class="flex min-h-[70vh] items-center">
-      <div class="max-w-5xl">
-        <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-          The Aster Film Festival
-        </p>
+  <div class="relative mx-auto max-w-7xl px-5 py-20 lg:px-8 lg:py-28">
+    <div class="max-w-5xl">
+      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+        Volunteer
+      </p>
 
-        <h1 class="mt-8 max-w-5xl font-serif text-5xl font-semibold leading-[0.9] tracking-[-0.055em] text-ivory sm:text-6xl md:text-7xl lg:text-8xl">
-          A selective festival for films that deserve serious attention.
-        </h1>
+      <h1 class="mt-8 max-w-5xl font-serif text-5xl font-semibold leading-[0.92] tracking-[-0.055em] text-ivory sm:text-6xl md:text-7xl">
+        Help shape the atmosphere around cinema.
+      </h1>
 
-        <p class="mt-8 max-w-3xl text-lg leading-8 text-ivory/72">
-          The Aster is the flagship festival of Georgia Film Society, recognizing exceptional work within a refined setting for filmmakers, audiences, patrons, and industry guests.
-        </p>
+      <p class="mt-8 max-w-3xl text-lg leading-8 text-ivory/72">
+        Georgia Film Society relies on thoughtful, reliable volunteers to support screenings, salons, member gatherings, hospitality, student access, The Aster-related programs, and cultural events.
+      </p>
 
-        <div class="mt-10 flex flex-col items-start gap-4 sm:flex-row">
-          <a href="https://theasterfilmfestival.org" target="_blank" rel="noopener noreferrer" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-obsidian transition hover:bg-ivory sm:w-[18rem]">
-            Visit The Aster
-          </a>
+      <div class="mt-10 flex flex-col items-start gap-4 sm:flex-row">
+  <a href="https://form.jotform.com/261543865784066" target="_blank" rel="noopener noreferrer" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-obsidian transition hover:bg-ivory sm:w-[18rem]">
+    Apply to Volunteer
+  </a>
 
-          <a href="index.html#interest-list" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
-            Join Updates
-          </a>
-        </div>
-      </div>
+  <a href="students.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
+    Student Access
+  </a>
+</div>
     </div>
   </div>
 </section>
 
-<section id="aster-positioning" class="border-b border-limestone bg-ivory px-5 py-20 lg:px-8">
+<section id="volunteer-thesis" class="border-b border-limestone bg-ivory px-5 py-20 lg:px-8">
   <div class="mx-auto max-w-7xl">
     <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-      Festival positioning
+      Volunteer philosophy
     </p>
 
     <p class="mt-8 max-w-5xl font-serif text-3xl font-medium leading-tight tracking-[-0.035em] text-charcoal sm:text-4xl lg:text-5xl">
-      The Aster is designed as a selective, filmmaker-respecting festival where each invitation carries weight and every detail supports the work on screen.
+      Volunteers help create the tone, care, welcome, and operational seriousness people feel when they encounter the institution.
     </p>
   </div>
 </section>
 
-<section id="cinematic-grid" class="bg-[#eee8dc] px-5 py-20 lg:px-8">
+<section id="volunteer-roles" class="bg-[#eee8dc] px-5 py-20 lg:px-8">
   <div class="mx-auto max-w-7xl">
     <div class="mb-12 max-w-4xl">
       <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-        Festival atmosphere
+        Volunteer areas
       </p>
 
       <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-        Intimate, distinctive, and worthy of meaningful attention.
+        Support the experiences that make cinema culture feel alive.
       </h2>
     </div>
 
-    <div class="grid gap-6 lg:grid-cols-12">
-      <article class="overflow-hidden border border-limestone bg-ivory lg:col-span-7">
-        <div class="relative h-80 overflow-hidden bg-obsidian sm:h-[28rem]">
-          <img
-            src="assets/img/aster.png"
-            alt="The Aster Film Festival cinema atmosphere"
-            class="h-full w-full object-cover transition duration-700 hover:scale-105"
-          />
-          <div class="absolute inset-0 bg-obsidian/25"></div>
-          <div class="absolute inset-0 bg-gradient-to-t from-obsidian/80 via-obsidian/20 to-transparent"></div>
-          <div class="absolute bottom-6 left-6">
-            <p class="text-xs font-bold uppercase tracking-[0.28em] text-brass">Selection</p>
-          </div>
-        </div>
+    <div class="grid gap-px overflow-hidden border border-limestone bg-limestone sm:grid-cols-2 lg:grid-cols-3">
 
-        <div class="p-8">
-          <h3 class="font-serif text-4xl font-semibold tracking-[-0.045em]">
-            Selection should carry weight.
-          </h3>
-
-          <p class="mt-5 max-w-3xl leading-7 text-charcoal/70">
-            The Aster is shaped around intentional programming, not volume. Discovery should feel credible, and selected work should receive the attention it deserves.
-          </p>
-        </div>
+      <article class="bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">01</p>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Event Support</h3>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Help with guest flow, check-in, seating, wayfinding, event readiness, and the details that keep gatherings calm and polished.
+        </p>
       </article>
 
-      <article class="overflow-hidden border border-limestone bg-ivory lg:col-span-5">
-        <div class="relative h-80 overflow-hidden bg-obsidian sm:h-[28rem]">
-          <img
-            src="assets/img/aster.png"
-            alt="The Aster Film Festival filmmaker atmosphere"
-            class="h-full w-full object-cover transition duration-700 hover:scale-105"
-          />
-          <div class="absolute inset-0 bg-obsidian/25"></div>
-          <div class="absolute inset-0 bg-gradient-to-t from-obsidian/80 via-obsidian/20 to-transparent"></div>
-          <div class="absolute bottom-6 left-6">
-            <p class="text-xs font-bold uppercase tracking-[0.28em] text-brass">Filmmakers</p>
-          </div>
-        </div>
-
-        <div class="p-8">
-          <h3 class="font-serif text-3xl font-semibold tracking-[-0.035em]">
-            The work comes first.
-          </h3>
-
-          <p class="mt-5 leading-7 text-charcoal/70">
-            Selected filmmakers should feel that the festival understands the discipline, sacrifice, and ambition behind serious cinematic work.
-          </p>
-        </div>
+      <article class="bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">02</p>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Hospitality</h3>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Support filmmaker, member, guest, patron, and partner experiences with care, discretion, warmth, and professionalism.
+        </p>
       </article>
+
+      <article class="bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">03</p>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">The Aster Support</h3>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Festival support includes guest services, filmmaker hospitality, venue support, line management, and festival operations.
+        </p>
+      </article>
+
+      <article class="bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">04</p>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Student Volunteers</h3>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Students can support GFS while gaining exposure to event operations, cultural programming, film culture, and nonprofit arts leadership.
+        </p>
+      </article>
+
+      <article class="bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">05</p>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Community Ambassadors</h3>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Help introduce aligned audiences, local communities, educators, civic contacts, and cultural supporters to GFS.
+        </p>
+      </article>
+
+      <article class="bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">06</p>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Operations</h3>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Support behind-the-scenes needs such as preparation, materials, guest lists, communications, and event follow-up.
+        </p>
+      </article>
+
     </div>
   </div>
 </section>
 
-<section id="relationship-to-gfs" class="bg-obsidian px-5 py-20 text-ivory lg:px-8">
-  <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12 lg:items-center">
+<section id="volunteer-fit" class="bg-charcoal px-5 py-20 text-ivory lg:px-8">
+  <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12">
     <div class="lg:col-span-5">
       <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-        Relationship to GFS
+        Who we are looking for
       </p>
 
-      <h2 class="mt-8 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-        The Aster is the flagship festival. Georgia Film Society is the institution behind it.
+      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+        Reliable, thoughtful people who understand the value of atmosphere.
       </h2>
     </div>
 
     <div class="lg:col-span-7">
-      <div class="grid gap-6 sm:grid-cols-2">
-        <article class="border border-white/10 bg-white/[0.03] p-7">
-          <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
-            The Festival
+      <div class="grid gap-5 sm:grid-cols-2">
+        <div class="border-t border-white/20 pt-5">
+          <h3 class="font-serif text-2xl font-semibold">Calm under pressure</h3>
+          <p class="mt-3 leading-7 text-ivory/65">
+            Events move quickly. Volunteers help make the room feel easier, not louder.
           </p>
+        </div>
 
-          <p class="mt-6 font-serif text-3xl font-semibold leading-tight tracking-[-0.035em]">
-            The Aster carries the public festival experience.
+        <div class="border-t border-white/20 pt-5">
+          <h3 class="font-serif text-2xl font-semibold">Guest-minded</h3>
+          <p class="mt-3 leading-7 text-ivory/65">
+            GFS values hospitality, clear communication, and respect for members, artists, partners, and audiences.
           </p>
+        </div>
 
-          <p class="mt-5 leading-7 text-ivory/62">
-            Submissions, tickets, passes, schedules, festival press, sponsor details, and official festival updates belong with The Aster.
+        <div class="border-t border-white/20 pt-5">
+          <h3 class="font-serif text-2xl font-semibold">Dependable</h3>
+          <p class="mt-3 leading-7 text-ivory/65">
+            Showing up, following instructions, and communicating clearly matter. Volunteers help carry the standard of the institution.
           </p>
-        </article>
+        </div>
 
-        <article class="border border-white/10 bg-white/[0.03] p-7">
-          <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
-            The Institution
-          </p>
-
-          <p class="mt-6 font-serif text-3xl font-semibold leading-tight tracking-[-0.035em]">
-            GFS sustains the cultural foundation around it.
-          </p>
-
-          <p class="mt-5 leading-7 text-ivory/62">
-            Georgia Film Society supports the broader ecosystem: membership, patronage, education, partnerships, year-round programs, and long-term cultural infrastructure.
-          </p>
-        </article>
+        <div class="border-t border-white/20 pt-5">
+  <h3 class="font-serif text-2xl font-semibold">Aligned</h3>
+  <p class="mt-3 leading-7 text-ivory/65">
+    Volunteers understand that GFS is a serious cultural institution shaped by care, hospitality, preparation, and respect for the work.
+  </p>
+</div>
       </div>
     </div>
   </div>
 </section>
 
-<section id="hospitality" class="bg-ivory px-5 py-20 lg:px-8">
-  <div class="mx-auto grid max-w-7xl gap-8 lg:grid-cols-12 lg:items-stretch">
-    <div class="overflow-hidden border border-limestone bg-obsidian lg:col-span-5">
-      <img
-        src="assets/img/aster.png"
-        alt="The Aster Film Festival hospitality atmosphere"
-        class="h-full min-h-96 w-full object-cover opacity-90"
-      />
+  <section id="volunteer-process" class="bg-ivory px-5 py-20 lg:px-8">
+  <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12">
+    <div class="lg:col-span-5">
+      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+        Volunteer process
+      </p>
+
+      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+        A thoughtful application process for a serious volunteer team.
+      </h2>
     </div>
 
-    <div class="flex flex-col justify-center border border-limestone bg-[#eee8dc] p-8 lg:col-span-7 lg:p-12">
-      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-  Hospitality
-</p>
+    <div class="lg:col-span-7">
+      <div class="grid gap-5">
+        <div class="border-t border-charcoal/25 pt-5">
+          <h3 class="font-serif text-2xl font-semibold">1. Apply to volunteer</h3>
+          <p class="mt-3 leading-7 text-charcoal/70">
+            Share your contact information, availability, location, relevant experience, and areas of interest through the volunteer application.
+          </p>
+        </div>
 
-<h2 class="mt-8 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-  The experience begins before the lights go down.
-</h2>
+        <div class="border-t border-charcoal/25 pt-5">
+          <h3 class="font-serif text-2xl font-semibold">2. Review and fit</h3>
+          <p class="mt-3 leading-7 text-charcoal/70">
+            GFS reviews volunteer applications for alignment, timing, role fit, reliability, and event needs.
+          </p>
+        </div>
 
-<div class="mt-8 space-y-7 text-lg leading-8 text-charcoal/72">
-  <p>
-    The Aster is shaped by how people arrive, gather, converse, and feel welcomed. The festival experience should honor the work while making filmmakers, guests, patrons, and audiences feel considered.
-  </p>
-
-  <p>
-    The goal is refinement without distance, intimacy without smallness, and ambition without noise.
-  </p>
-</div>
+        <div class="border-t border-charcoal/25 pt-5">
+          <h3 class="font-serif text-2xl font-semibold">3. Orientation</h3>
+          <p class="mt-3 leading-7 text-charcoal/70">
+            Selected volunteers receive role expectations, event details, communication instructions, and orientation before supporting GFS programs.
+          </p>
+        </div>
+      </div>
     </div>
   </div>
 </section>
 
-<section id="host-ecosystem" class="bg-[#eee8dc] px-5 py-20 lg:px-8">
-  <div class="mx-auto grid max-w-7xl gap-8 lg:grid-cols-12 lg:items-stretch">
-    <div class="flex flex-col justify-center border border-limestone bg-ivory p-8 lg:col-span-7 lg:p-12">
-      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-  Host ecosystem
-</p>
+<section id="volunteer-interest" class="border-y border-limestone bg-[#eee8dc] px-5 py-20 lg:px-8">
+  <div class="mx-auto max-w-7xl">
+    <div class="grid gap-12 lg:grid-cols-12 lg:items-start">
+      <div class="lg:col-span-5">
+        <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+          Volunteer application
+        </p>
 
-<h2 class="mt-8 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-  A festival should feel connected to its setting.
-</h2>
+        <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] text-charcoal sm:text-5xl">
+          Apply to join the Georgia Film Society volunteer team.
+        </h2>
 
-<div class="mt-8 space-y-7 text-lg leading-8 text-charcoal/72">
-  <p>
-    The Aster is developed around walkability, atmosphere, hospitality, and a host environment that can support screenings, gatherings, dining, conversation, and discovery.
-  </p>
+        <p class="mt-6 text-lg leading-8 text-charcoal/70">
+          Volunteers help create the welcome, rhythm, calm, and care that define the GFS experience. Applications are reviewed for fit, availability, reliability, and alignment with the institution.
+        </p>
+      </div>
 
-  <p>
-    The setting should feel polished, accessible, and alive beyond the theater doors.
-  </p>
-</div>
+      <div class="lg:col-span-7">
+        <div class="border border-limestone bg-ivory p-8 lg:p-10">
+          <div class="grid gap-8 md:grid-cols-2">
+            <div>
+              <p class="text-xs font-bold uppercase tracking-[0.28em] text-brass">
+                Volunteer intake
+              </p>
+
+              <h3 class="mt-6 font-serif text-3xl font-semibold tracking-[-0.035em] text-charcoal">
+                Tell us how you would like to serve.
+              </h3>
+
+              <p class="mt-5 leading-7 text-charcoal/70">
+                The volunteer application helps GFS understand availability, location, experience, areas of interest, and basic acknowledgements so volunteers can be matched with the right opportunities.
+              </p>
+            </div>
+
+            <div>
+              <p class="text-xs font-bold uppercase tracking-[0.28em] text-brass">
+                Student volunteers
+              </p>
+
+              <h3 class="mt-6 font-serif text-3xl font-semibold tracking-[-0.035em] text-charcoal">
+                Students can enter through the same pathway.
+              </h3>
+
+              <p class="mt-5 leading-7 text-charcoal/70">
+                Students interested in film, event production, hospitality, arts administration, communications, or cultural programming can also explore GFS student access and education initiatives.
+              </p>
+            </div>
+          </div>
+
+          <div class="mt-8 flex flex-col gap-4 border-t border-limestone pt-8 sm:flex-row">
+            <a href="https://form.jotform.com/261543865784066" target="_blank" rel="noopener noreferrer" class="inline-flex w-full max-w-[18rem] items-center justify-center rounded-full bg-charcoal px-7 py-3 text-center text-sm font-bold uppercase tracking-[0.18em] text-ivory transition hover:bg-laurel sm:w-[18rem]">
+              Apply to Volunteer
+            </a>
+
+            <a href="students.html" class="inline-flex w-full max-w-[18rem] items-center justify-center rounded-full border border-charcoal/30 px-7 py-3 text-center text-sm font-bold uppercase tracking-[0.18em] text-charcoal transition hover:bg-charcoal hover:text-ivory sm:w-[18rem]">
+              Student Access
+            </a>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="overflow-hidden border border-limestone bg-obsidian lg:col-span-5">
-      <img
-        src="assets/img/aster.png"
-        alt="The Aster Film Festival host environment"
-        class="h-full min-h-96 w-full object-cover opacity-90"
-      />
-    </div>
+    <p class="mt-8 max-w-5xl text-sm leading-6 text-charcoal/60">
+      Completing the application does not guarantee selection. GFS reviews applications based on availability, role fit, event needs, and alignment with the institution.
+    </p>
   </div>
 </section>
 
-<section id="aster-cta" class="bg-obsidian px-5 py-24 text-ivory lg:px-8">
+<section id="volunteer-cta" class="bg-obsidian px-5 py-24 text-ivory lg:px-8">
   <div class="mx-auto max-w-5xl text-center">
     <p class="text-xs font-bold uppercase tracking-[0.34em] text-brass">
-      Festival bridge
+      Volunteer with GFS
     </p>
 
     <h2 class="mt-8 font-serif text-5xl font-semibold leading-none tracking-[-0.055em] sm:text-7xl">
-      Visit The Aster for festival details.
+      The experience matters.
     </h2>
 
     <p class="mx-auto mt-8 max-w-3xl text-lg leading-8 text-ivory/68">
-      Submissions, passes, schedules, announcements, press materials, and festival-specific updates are housed with The Aster.
+      Volunteers help create the welcome, rhythm, calm, and care that allow filmmakers, members, students, patrons, and audiences to gather around cinema with seriousness and warmth.
     </p>
 
     <div class="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
-      <a href="https://theasterfilmfestival.org" target="_blank" rel="noopener noreferrer" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-obsidian transition hover:bg-ivory sm:w-[18rem]">
-        Visit The Aster
-      </a>
+  <a href="https://form.jotform.com/261543865784066" target="_blank" rel="noopener noreferrer" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-obsidian transition hover:bg-ivory sm:w-[18rem]">
+    Apply to Volunteer
+  </a>
 
-      <a href="index.html#interest-list" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
-        Join Updates
-      </a>
-    </div>
+  <a href="contact.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
+    Contact GFS
+  </a>
+</div>
   </div>
 </section>
 

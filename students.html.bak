@@ -1,46 +1,49 @@
-<!DOCTYPE html>
+ï»¿<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="referrer" content="strict-origin-when-cross-origin" />
 
-  <title>Leadership & Board | Georgia Film Society</title>
-
-  
+  <title>Students & Education | Georgia Film Society</title>
 
   <meta
   name="description"
-  content="Approved leadership, officer, and board information for Georgia Film Society, including public-facing names, roles, bios, and press reference materials."
+  content="Georgia Film Society supports student access, education partnerships, internships, mentorship, screenings, and pathways for future filmmakers and storytellers in Georgia and the Southeast."
 />
+
+  <meta
+    name="keywords"
+    content="Georgia Film Society, Georgia film, nonprofit film organization, cinematic culture, independent film, filmmakers, storytelling, Southeast film, The Aster Film Festival, film membership, film patrons"
+  />
 
   <meta name="author" content="Georgia Film Society" />
   <meta name="robots" content="index,follow,max-image-preview:large" />
   <meta name="theme-color" content="#080807" />
 
-  <link rel="canonical" href="https://georgiafilmsociety.com/press-leadership.html" />
+  <link rel="canonical" href="https://georgiafilmsociety.com/students.html" />
 
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/icon-gfs.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="/assets/img/icon-gfs.png" />
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/icon-gfs.png" />
 
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Leadership & Board | Georgia Film Society" />
+  <meta property="og:title" content="Students & Education | Georgia Film Society" />
   <meta
-    property="og:description"
-    content="A nonprofit cinematic cultural institution for Georgia and the Southeast."
-  />
+  property="og:description"
+  content="Student access, education partnerships, internships, mentorship, and pathways for future filmmakers and storytellers."
+/>
   <meta property="og:image" content="https://georgiafilmsociety.com/assets/img/social-preview.jpg" />
   <meta property="og:image:alt" content="Georgia Film Society Logo" />
-  <meta property="og:url" content="https://georgiafilmsociety.com/press-leadership.html" />
+  <meta property="og:url" content="https://georgiafilmsociety.com/students.html" />
   <meta property="og:site_name" content="Georgia Film Society" />
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Leadership & Board | Georgia Film Society" />
+  <meta name="twitter:title" content="Students & Education | Georgia Film Society" />
   <meta
-    name="twitter:description"
-    content="A nonprofit cinematic cultural institution for Georgia and the Southeast."
-  />
+  name="twitter:description"
+  content="Student access, education partnerships, internships, mentorship, and pathways for future filmmakers and storytellers."
+/>
   <meta name="twitter:image" content="https://georgiafilmsociety.com/assets/img/social-preview.jpg" />
   <meta name="twitter:image:alt" content="Georgia Film Society Logo" />
 
@@ -123,13 +126,12 @@
       </div>
     </a>
 
-    <nav class="hidden items-center gap-5 text-sm text-ivory/75 lg:flex xl:gap-7" aria-label="Main navigation">
+    <nav class="hidden items-center gap-7 text-sm text-ivory/75 lg:flex xl:gap-8" aria-label="Main navigation">
       <a href="about.html" class="transition hover:text-brass">About</a>
       <a href="programs.html" class="transition hover:text-brass">Programs</a>
       <a href="aster.html" class="transition hover:text-brass">The Aster</a>
       <a href="membership.html" class="transition hover:text-brass">Membership</a>
       <a href="support.html" class="transition hover:text-brass">Support</a>
-      <a href="students.html" class="transition hover:text-brass">Students</a>
       <a href="partner.html" class="transition hover:text-brass">Partner</a>
       <a href="volunteer.html" class="transition hover:text-brass">Volunteer</a>
     </nav>
@@ -165,10 +167,10 @@
       <a href="aster.html" class="border-b border-white/10 py-4 hover:text-brass">The Aster</a>
       <a href="membership.html" class="border-b border-white/10 py-4 hover:text-brass">Membership</a>
       <a href="support.html" class="border-b border-white/10 py-4 hover:text-brass">Support</a>
-      <a href="students.html" class="border-b border-white/10 py-4 hover:text-brass">Students</a>
       <a href="partner.html" class="border-b border-white/10 py-4 hover:text-brass">Partner</a>
       <a href="volunteer.html" class="border-b border-white/10 py-4 hover:text-brass">Volunteer</a>
       <a href="events.html" class="border-b border-white/10 py-4 hover:text-brass">Events</a>
+      <a href="students.html" class="border-b border-white/10 py-4 hover:text-brass">Students</a>
       <a href="press.html" class="border-b border-white/10 py-4 hover:text-brass">Press</a>
       <a href="contact.html" class="mt-5 inline-flex items-center justify-center rounded-full bg-brass px-6 py-3 text-xs font-bold uppercase tracking-[0.22em] text-obsidian">
         Stay Connected
@@ -179,7 +181,7 @@
 
 <main>
 
-  <section id="leadership-hero" class="relative overflow-hidden bg-obsidian pt-24 text-ivory">
+  <section id="students-hero" class="relative overflow-hidden bg-obsidian pt-24 text-ivory">
   <div class="absolute inset-0">
     <div class="absolute left-[-10%] top-[10%] h-80 w-80 rounded-full bg-brass/10 blur-3xl sm:h-[34rem] sm:w-[34rem]"></div>
     <div class="absolute bottom-[-15%] right-[-5%] h-96 w-96 rounded-full bg-laurel/20 blur-3xl sm:h-[36rem] sm:w-[36rem]"></div>
@@ -188,322 +190,277 @@
   <div class="relative mx-auto max-w-7xl px-5 py-20 lg:px-8 lg:py-28">
     <div class="max-w-5xl">
       <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-        Leadership & Board
+        Students & Education
       </p>
 
       <h1 class="mt-8 max-w-5xl font-serif text-5xl font-semibold leading-[0.92] tracking-[-0.055em] text-ivory sm:text-6xl md:text-7xl">
-        Leadership information for Georgia Film Society.
+        Access for emerging filmmakers and students.
       </h1>
 
       <p class="mt-8 max-w-3xl text-lg leading-8 text-ivory/72">
-        Officer, board, and leadership information for press, partner, sponsor, civic, and institutional reference.
+        Georgia Film Society supports student access, education partnerships, internships, mentorship, screenings, and pathways for emerging filmmakers interested in cinema, storytelling, and creative culture.
       </p>
 
-      <div class="mt-10 flex flex-col items-start gap-4 sm:flex-row">
-        <a href="press.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-obsidian transition hover:bg-ivory sm:w-[18rem]">
-          Back to Press
+      <div class="mt-10 flex flex-col gap-4 sm:flex-row">
+        <a href="#student-interest" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-obsidian transition hover:bg-ivory sm:w-[18rem]">
+          Student Interest
         </a>
 
-        <a href="assets/press/georgia-film-society-leadership.pdf" download="georgia-film-society-leadership.pdf" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
-          Download PDF
+        <a href="volunteer.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
+          Volunteer
         </a>
       </div>
     </div>
   </div>
 </section>
 
-  <section id="leadership-structure" class="border-b border-limestone bg-ivory px-5 py-20 lg:px-8">
+  <section id="education-thesis" class="border-b border-limestone bg-ivory px-5 py-20 lg:px-8">
+    <div class="mx-auto grid max-w-7xl gap-10 lg:grid-cols-12">
+      <div class="lg:col-span-4">
+        <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+          Education philosophy
+        </p>
+      </div>
+
+      <div class="lg:col-span-8">
+        <p class="font-serif text-3xl font-medium leading-tight tracking-[-0.035em] text-charcoal sm:text-4xl lg:text-5xl">
+          Student access should feel dignified, not charity-coded. The goal is to help future filmmakers and storytellers enter serious creative rooms with context, care, and opportunity.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section id="student-pathways" class="bg-[#eee8dc] px-5 py-20 lg:px-8">
+  <div class="mx-auto max-w-7xl">
+    <div class="mb-12 max-w-4xl">
+      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+        Student pathways
+      </p>
+
+      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+        Education initiatives connect students to cinema culture, mentorship, and institutional access.
+      </h2>
+    </div>
+
+    <div class="grid gap-px overflow-hidden border border-limestone bg-limestone sm:grid-cols-2 lg:grid-cols-3">
+
+      <article class="bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">01</p>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Student Access</h3>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Access to screenings, conversations, member-adjacent events, and opportunities connected to The Aster and year-round programming.
+        </p>
+      </article>
+
+      <article class="bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">02</p>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Internships</h3>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Pathways for students interested in film culture, programming, event operations, hospitality, communications, and arts administration.
+        </p>
+      </article>
+
+      <article class="bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">03</p>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Education Partners</h3>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Collaboration with schools, universities, film programs, educators, and institutions aligned with storytelling, cinema, technology, and creative culture.
+        </p>
+      </article>
+
+      <article class="bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">04</p>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Mentorship</h3>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Connections between students, young filmmakers, artists, industry guests, patrons, educators, and institutional leaders.
+        </p>
+      </article>
+
+      <article class="bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">05</p>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Youth Screenings</h3>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Meaningful access to cinema as art, craft, culture, and civic conversation for younger audiences and education communities.
+        </p>
+      </article>
+
+      <article class="bg-ivory p-8">
+        <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">06</p>
+        <h3 class="mt-8 font-serif text-3xl font-semibold tracking-[-0.035em]">Student Filmmakers</h3>
+        <p class="mt-5 leading-7 text-charcoal/70">
+          Opportunities for student filmmakers to engage with conversations, workshops, filmmaker-centered programming, and development pathways.
+        </p>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+  <section id="student-support" class="bg-charcoal px-5 py-20 text-ivory lg:px-8">
   <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12">
     <div class="lg:col-span-5">
       <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-        Governance
+        Student support
       </p>
 
-      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] text-charcoal sm:text-5xl">
-        Officers provide leadership. The board supports oversight.
+      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+        Access should be part of the institution from the beginning.
+      </h2>
+    </div>
+
+    <div class="space-y-7 text-lg leading-8 text-ivory/68 lg:col-span-7">
+      <p>
+        Student support is one of the clearest public-benefit pathways for Georgia Film Society. It connects the institution&rsquo;s cultural ambition to education, access, mentorship, and future creative leadership.
+      </p>
+
+      <p>
+        Patronage and partnership can help create access to screenings, conversations, internships, education programs, student filmmaker opportunities, and meaningful experiences around cinema culture.
+      </p>
+
+      <div class="flex justify-start sm:justify-end">
+  <a href="support.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-brass transition hover:bg-brass hover:text-obsidian sm:w-[18rem]">
+    Support Student Access
+  </a>
+</div>
+    </div>
+  </div>
+</section>
+
+  <section id="institutional-partners" class="bg-ivory px-5 py-20 lg:px-8">
+    <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12">
+      <div class="lg:col-span-5">
+        <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+          For educators and institutions
+        </p>
+
+        <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+          A bridge between students and serious cinema culture.
+        </h2>
+      </div>
+
+      <div class="lg:col-span-7">
+        <div class="grid gap-5">
+          <div class="border-t border-charcoal/25 pt-5">
+            <h3 class="font-serif text-2xl font-semibold">Film and media programs</h3>
+            <p class="mt-3 leading-7 text-charcoal/70">
+              Universities and schools may align with screenings, talks, student access, internships, and future mentorship.
+            </p>
+          </div>
+
+          <div class="border-t border-charcoal/25 pt-5">
+            <h3 class="font-serif text-2xl font-semibold">Educators</h3>
+            <p class="mt-3 leading-7 text-charcoal/70">
+              Educators interested in cinema, storytelling, Southern creative culture, AI, ethics, and creative practice may become collaborators in student-facing programs.
+            </p>
+          </div>
+
+          <div class="border-t border-charcoal/25 pt-5">
+            <h3 class="font-serif text-2xl font-semibold">Civic and nonprofit partners</h3>
+            <p class="mt-3 leading-7 text-charcoal/70">
+              Education initiatives can connect civic partners, community access, youth programming, and regional creative development.
+            </p>
+          </div>
+        </div>
+
+        <div class="mt-9 flex justify-start sm:justify-end">
+  <a href="mailto:hello@georgiafilmsociety.com?subject=Education%20Partnership%20Inquiry" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-charcoal px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:bg-laurel sm:w-[18rem]">
+    Partnership Inquiry
+  </a>
+</div>
+      </div>
+    </div>
+  </section>
+
+  <section id="student-interest" class="border-y border-limestone bg-[#eee8dc] px-5 py-20 lg:px-8">
+  <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12 lg:items-start">
+    <div class="lg:col-span-5">
+      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+        Student interest
+      </p>
+
+      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+        Connect with Georgia Film Society.
       </h2>
 
-      <p class="mt-6 max-w-3xl text-lg leading-8 text-charcoal/70">
-        Georgia Film Society is guided by officers and board leadership responsible for mission alignment, institutional stewardship, public trust, and long-term cultural purpose.
+      <p class="mt-6 text-lg leading-8 text-charcoal/70">
+        Students, educators, and emerging filmmakers may use this inquiry pathway to express interest in student access, internships, volunteer roles, education partnerships, and future programming.
       </p>
     </div>
 
     <div class="lg:col-span-7">
-      <div class="grid gap-5 sm:grid-cols-2">
-        <div class="border-t border-charcoal/25 pt-5">
-          <h3 class="font-serif text-2xl font-semibold">
-            President
-          </h3>
-          <p class="mt-3 leading-7 text-charcoal/70">
-            Provides executive leadership, institutional direction, public representation, and strategic development.
-          </p>
-        </div>
+      <div class="border-t border-charcoal/25 pt-5">
+        <p class="text-xs font-bold uppercase tracking-[0.28em] text-brass">
+          Student access inquiry
+        </p>
 
-        <div class="border-t border-charcoal/25 pt-5">
-          <h3 class="font-serif text-2xl font-semibold">
-            Secretary
-          </h3>
-          <p class="mt-3 leading-7 text-charcoal/70">
-            Supports governance records, board documentation, meeting minutes, and organizational continuity.
-          </p>
-        </div>
+        <h3 class="mt-6 font-serif text-3xl font-semibold tracking-[-0.035em]">
+          Tell us how you would like to connect.
+        </h3>
 
-        <div class="border-t border-charcoal/25 pt-5">
-          <h3 class="font-serif text-2xl font-semibold">
-            Treasurer
-          </h3>
-          <p class="mt-3 leading-7 text-charcoal/70">
-            Supports financial oversight, reporting, budgeting, and responsible stewardship of institutional resources.
-          </p>
-        </div>
+        <p class="mt-5 max-w-3xl leading-7 text-charcoal/70">
+          Use the student interest email to share your school, area of study, graduation year, area of interest, and whether you are interested in volunteering, internships, screenings, or education partnerships.
+        </p>
 
-        <div class="border-t border-charcoal/25 pt-5">
-          <h3 class="font-serif text-2xl font-semibold">
-            Board of Directors
-          </h3>
-          <p class="mt-3 leading-7 text-charcoal/70">
-            Supports governance, mission integrity, strategic accountability, public trust, and long-term institutional credibility.
-          </p>
+        <div class="mt-8 flex justify-start sm:justify-end">
+          <a href="mailto:hello@georgiafilmsociety.com?subject=Student%20Access%20Interest&body=Name:%0D%0AEmail:%0D%0ASchool:%0D%0AArea%20of%20study:%0D%0AGraduation%20year:%0D%0AArea%20of%20interest:%0D%0AInternship%20interest:%0D%0AVolunteer%20interest:%0D%0AWhy%20GFS?:"
+             class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-charcoal px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:bg-laurel sm:w-[18rem]">
+            Email Student Interest
+          </a>
         </div>
       </div>
     </div>
   </div>
 </section>
 
-  <section id="officers" class="bg-[#eee8dc] px-5 py-20 lg:px-8">
-  <div class="mx-auto max-w-7xl">
-    <div class="mb-12 max-w-4xl">
-      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-        Officers
-      </p>
+  <section id="students-volunteer-bridge" class="bg-charcoal px-5 py-20 text-ivory lg:px-8">
+    <div class="mx-auto grid max-w-7xl gap-12 lg:grid-cols-12 lg:items-center">
+      <div class="lg:col-span-7">
+        <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
+          Volunteer pathway
+        </p>
 
-      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-        Executive officers of Georgia Film Society.
-      </h2>
+        <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+          Students may also support GFS through volunteer opportunities.
+        </h2>
 
-      <p class="mt-6 max-w-3xl text-lg leading-8 text-charcoal/70">
-        Officers provide executive leadership, governance continuity, financial oversight, and institutional direction.
-      </p>
+        <p class="mt-6 max-w-3xl text-lg leading-8 text-ivory/68">
+          Volunteer roles can help students gain exposure to film culture, hospitality, event operations, institutional programming, and the creative community.
+        </p>
+      </div>
+
+      <div class="lg:col-span-5 lg:text-right">
+        <a href="volunteer.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-brass transition hover:bg-brass hover:text-obsidian sm:w-[18rem]">
+  Volunteer with GFS
+</a>
+      </div>
     </div>
+  </section>
 
-    <div id="officers-grid" class="grid gap-6 md:grid-cols-3"></div>
-  </div>
-</section>
-
-<section id="board-of-directors" class="bg-ivory px-5 py-20 lg:px-8">
-  <div class="mx-auto max-w-7xl">
-    <div class="mb-12 max-w-4xl">
-      <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
-        Board of Directors
-      </p>
-
-      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
-        Board leadership supports institutional oversight and long-term credibility.
-      </h2>
-
-      <p class="mt-6 max-w-3xl text-lg leading-8 text-charcoal/70">
-        The board supports Georgia Film Society’s governance, mission alignment, institutional stewardship, public trust, and long-term cultural purpose.
-      </p>
-    </div>
-
-    <div id="board-grid" class="grid gap-6 md:grid-cols-2 lg:grid-cols-3"></div>
-  </div>
-</section>
-
-  <section id="leadership-cta" class="bg-obsidian px-5 py-24 text-ivory lg:px-8">
+  <section id="students-cta" class="bg-obsidian px-5 py-24 text-ivory lg:px-8">
   <div class="mx-auto max-w-5xl text-center">
     <p class="text-xs font-bold uppercase tracking-[0.34em] text-brass">
-      Leadership
+      Future storytellers
     </p>
 
     <h2 class="mt-8 font-serif text-5xl font-semibold leading-none tracking-[-0.055em] sm:text-7xl">
-      Stewardship matters.
+      Serious rooms should be easier to enter.
     </h2>
 
     <p class="mx-auto mt-8 max-w-3xl text-lg leading-8 text-ivory/68">
-      Georgia Film Society is guided by leadership committed to public trust, institutional care, and the long-term cultural life of cinema in Georgia and the Southeast.
+      Georgia Film Society supports education and access pathways that help students encounter cinema as art, craft, culture, community, and serious creative practice.
     </p>
 
     <div class="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
-      <a href="press.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-obsidian transition hover:bg-ivory sm:w-[18rem]">
-        Back to Press
+      <a href="#student-interest" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-obsidian transition hover:bg-ivory sm:w-[18rem]">
+        Student Interest
       </a>
 
-      <a href="press-founder-bio.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
-        Founder Bio
+      <a href="support.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
+        Support Access
       </a>
     </div>
   </div>
 </section>
-
-  <script>
-    const gfsOfficers = [
-      {
-        active: true,
-        name: "Kris Shuman",
-        title: "President",
-        photo: "assets/press/kris-shuman-headshot.jpg",
-        initials: "KS",
-        bio: "Kris Shuman is the founder and president of Georgia Film Society. He leads the institution’s work around cinema culture, filmmaker support, membership, patronage, partnerships, student access, year-round programming, and The Aster Film Festival as its flagship festival."
-      },
-      {
-        active: true,
-        name: "Secretary Placeholder",
-        title: "Secretary",
-        photo: "assets/press/board-secretary.jpg",
-        initials: "SP",
-        bio: "Placeholder bio for the Secretary of Georgia Film Society. Replace this language with an approved public biography once the officer is confirmed and ready for publication."
-      },
-      {
-        active: true,
-        name: "Treasurer Placeholder",
-        title: "Treasurer",
-        photo: "assets/press/board-treasurer.jpg",
-        initials: "TP",
-        bio: "Placeholder bio for the Treasurer of Georgia Film Society. Replace this language with an approved public biography once the officer is confirmed and ready for publication."
-      }
-    ];
-
-    const gfsBoardMembers = [
-      {
-        active: true,
-        name: "Board Member One",
-        title: "Board Member",
-        photo: "assets/press/board-member-01.jpg",
-        initials: "B1",
-        bio: "Placeholder bio for a Georgia Film Society board member. Replace this with approved public language describing the member&rsquo;s background, leadership experience, civic alignment, or connection to film culture."
-      },
-      {
-        active: true,
-        name: "Board Member Two",
-        title: "Board Member",
-        photo: "assets/press/board-member-02.jpg",
-        initials: "B2",
-        bio: "Placeholder bio for a Georgia Film Society board member. Replace this with approved public language describing the member&rsquo;s background, leadership experience, civic alignment, or connection to film culture."
-      },
-      {
-        active: true,
-        name: "Board Member Three",
-        title: "Board Member",
-        photo: "assets/press/board-member-03.jpg",
-        initials: "B3",
-        bio: "Placeholder bio for a Georgia Film Society board member. Replace this with approved public language describing the member&rsquo;s background, leadership experience, civic alignment, or connection to film culture."
-      },
-      {
-        active: false,
-        name: "Board Member Four",
-        title: "Board Member",
-        photo: "assets/press/board-member-04.jpg",
-        initials: "B4",
-        bio: "Placeholder bio for a Georgia Film Society board member."
-      },
-      {
-        active: false,
-        name: "Board Member Five",
-        title: "Board Member",
-        photo: "assets/press/board-member-05.jpg",
-        initials: "B5",
-        bio: "Placeholder bio for a Georgia Film Society board member."
-      },
-      {
-        active: false,
-        name: "Board Member Six",
-        title: "Board Member",
-        photo: "assets/press/board-member-06.jpg",
-        initials: "B6",
-        bio: "Placeholder bio for a Georgia Film Society board member."
-      },
-      {
-        active: false,
-        name: "Board Member Seven",
-        title: "Board Member",
-        photo: "assets/press/board-member-07.jpg",
-        initials: "B7",
-        bio: "Placeholder bio for a Georgia Film Society board member."
-      },
-      {
-        active: false,
-        name: "Board Member Eight",
-        title: "Board Member",
-        photo: "assets/press/board-member-08.jpg",
-        initials: "B8",
-        bio: "Placeholder bio for a Georgia Film Society board member."
-      },
-      {
-        active: false,
-        name: "Board Member Nine",
-        title: "Board Member",
-        photo: "assets/press/board-member-09.jpg",
-        initials: "B9",
-        bio: "Placeholder bio for a Georgia Film Society board member."
-      }
-    ];
-
-    function leadershipCard(person) {
-      return `
-        <article class="overflow-hidden border border-limestone bg-ivory">
-          <div class="relative h-80 overflow-hidden bg-obsidian">
-            <img
-              src="${person.photo}"
-              alt="${person.name}, ${person.title}"
-              class="h-full w-full object-cover opacity-90"
-              onerror="this.style.display='none'; this.nextElementSibling.classList.remove('hidden');"
-            />
-
-            <div class="hidden flex h-full w-full items-center justify-center bg-obsidian p-8">
-              <div class="text-center">
-                <p class="font-serif text-6xl font-semibold tracking-[-0.045em] text-ivory">
-                  ${person.initials}
-                </p>
-                <p class="mt-3 text-xs font-bold uppercase tracking-[0.28em] text-brass">
-                  ${person.title}
-                </p>
-              </div>
-            </div>
-
-            <div class="absolute inset-0 bg-gradient-to-t from-obsidian/80 via-transparent to-transparent"></div>
-
-            <div class="absolute bottom-6 left-6">
-              <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
-                ${person.title}
-              </p>
-            </div>
-          </div>
-
-          <div class="p-8">
-            <h3 class="font-serif text-3xl font-semibold tracking-[-0.035em] text-charcoal">
-              ${person.name}
-            </h3>
-
-            <p class="mt-2 text-xs font-bold uppercase tracking-[0.22em] text-laurel">
-              ${person.title}
-            </p>
-
-            <p class="mt-5 leading-7 text-charcoal/70">
-              ${person.bio}
-            </p>
-          </div>
-        </article>
-      `;
-    }
-
-    const officersGrid = document.getElementById('officers-grid');
-    const boardGrid = document.getElementById('board-grid');
-
-    if (officersGrid) {
-      officersGrid.innerHTML = gfsOfficers
-        .filter((person) => person.active)
-        .map(leadershipCard)
-        .join('');
-    }
-
-    if (boardGrid) {
-      boardGrid.innerHTML = gfsBoardMembers
-        .filter((person) => person.active)
-        .map(leadershipCard)
-        .join('');
-    }
-  </script>
 
 </main>
 
@@ -617,7 +574,6 @@
 </script>
 </body>
 </html>
-
 
 
 

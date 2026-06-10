@@ -298,43 +298,47 @@
   </div>
 </section>
 
-  <section id="officers" class="bg-[#eee8dc] px-5 py-20 lg:px-8">
+  <section id="officers" class="bg-[#eee8dc] px-5 py-16 sm:py-20 lg:px-8">
   <div class="mx-auto max-w-7xl">
-    <div class="mb-12 max-w-4xl">
+    <div class="mb-10 max-w-4xl lg:mb-12">
       <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
         Officers
       </p>
 
-      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+      <h2 class="mt-6 font-serif text-[2.35rem] font-semibold leading-[1.02] tracking-[-0.045em] text-charcoal sm:text-5xl">
         Executive officers of Georgia Film Society.
       </h2>
 
-      <p class="mt-6 max-w-3xl text-lg leading-8 text-charcoal/70">
+      <p class="mt-6 max-w-3xl text-base leading-7 text-charcoal/70 sm:text-lg sm:leading-8">
         Officers provide executive leadership, governance continuity, financial oversight, and institutional direction.
       </p>
     </div>
 
-    <div id="officers-grid" class="grid gap-6 md:grid-cols-3"></div>
+    <div id="officers-mobile-list" class="border-y border-limestone md:hidden"></div>
+
+    <div id="officers-grid" class="hidden gap-6 md:grid md:grid-cols-3"></div>
   </div>
 </section>
 
-<section id="board-of-directors" class="bg-ivory px-5 py-20 lg:px-8">
+<section id="board-of-directors" class="bg-ivory px-5 py-16 sm:py-20 lg:px-8">
   <div class="mx-auto max-w-7xl">
-    <div class="mb-12 max-w-4xl">
+    <div class="mb-10 max-w-4xl lg:mb-12">
       <p class="text-xs font-bold uppercase tracking-[0.32em] text-brass">
         Board of Directors
       </p>
 
-      <h2 class="mt-6 font-serif text-4xl font-semibold leading-tight tracking-[-0.045em] sm:text-5xl">
+      <h2 class="mt-6 font-serif text-[2.35rem] font-semibold leading-[1.02] tracking-[-0.045em] text-charcoal sm:text-5xl">
         Board leadership supports institutional oversight and long-term credibility.
       </h2>
 
-      <p class="mt-6 max-w-3xl text-lg leading-8 text-charcoal/70">
+      <p class="mt-6 max-w-3xl text-base leading-7 text-charcoal/70 sm:text-lg sm:leading-8">
         The board supports Georgia Film Society&rsquo;s governance, mission alignment, institutional stewardship, public trust, and long-term cultural purpose.
       </p>
     </div>
 
-    <div id="board-grid" class="grid gap-6 md:grid-cols-2 lg:grid-cols-3"></div>
+    <div id="board-mobile-list" class="border-y border-limestone md:hidden"></div>
+
+    <div id="board-grid" class="hidden gap-6 md:grid md:grid-cols-2 lg:grid-cols-3"></div>
   </div>
 </section>
 
@@ -365,112 +369,162 @@
 </section>
 
   <script>
-    const gfsOfficers = [
-      {
-        active: true,
-        name: "Kris Shuman",
-        title: "President",
-        photo: "assets/press/kris-shuman-headshot.jpg",
-        initials: "KS",
-        bio: "Kris Shuman is the founder and president of Georgia Film Society. He leads the institution&rsquo;s work around cinema culture, filmmaker support, membership, patronage, partnerships, student access, year-round programming, and The Aster Film Festival as its flagship festival."
-      },
-      {
-        active: true,
-        name: "Secretary Placeholder",
-        title: "Secretary",
-        photo: "assets/press/board-secretary.jpg",
-        initials: "SP",
-        bio: "Placeholder bio for the Secretary of Georgia Film Society. Replace this language with an approved public biography once the officer is confirmed and ready for publication."
-      },
-      {
-        active: true,
-        name: "Treasurer Placeholder",
-        title: "Treasurer",
-        photo: "assets/press/board-treasurer.jpg",
-        initials: "TP",
-        bio: "Placeholder bio for the Treasurer of Georgia Film Society. Replace this language with an approved public biography once the officer is confirmed and ready for publication."
-      }
-    ];
+  const gfsOfficers = [
+    {
+      active: true,
+      name: "Kris Shuman",
+      title: "Founder/President",
+      photo: "assets/press/kris-shuman-headshot2.png",
+      initials: "KS",
+      bio: "Kris Shuman is the founder and president of Georgia Film Society. He leads the institution&rsquo;s work around cinema culture, filmmaker support, membership, patronage, partnerships, student access, year-round programming, and The Aster Film Festival as its flagship festival."
+    },
+    {
+      active: true,
+      name: "Timea Shuman",
+      title: "Co-Founder/Secretary",
+      photo: "assets/press/board-secretary.jpg",
+      initials: "TS",
+      bio: "Placeholder bio for the Secretary of Georgia Film Society. Replace this language with an approved public biography once the officer is confirmed and ready for publication."
+    },
+    {
+      active: true,
+      name: "Treasurer Placeholder",
+      title: "Treasurer",
+      photo: "assets/press/board-treasurer.jpg",
+      initials: "TP",
+      bio: "Placeholder bio for the Treasurer of Georgia Film Society. Replace this language with an approved public biography once the officer is confirmed and ready for publication."
+    }
+  ];
 
-    const gfsBoardMembers = [
-      {
-        active: true,
-        name: "Board Member One",
-        title: "Board Member",
-        photo: "assets/press/board-member-01.jpg",
-        initials: "B1",
-        bio: "Placeholder bio for a Georgia Film Society board member. Replace this with approved public language describing the member&rsquo;s background, leadership experience, civic alignment, or connection to film culture."
-      },
-      {
-        active: true,
-        name: "Board Member Two",
-        title: "Board Member",
-        photo: "assets/press/board-member-02.jpg",
-        initials: "B2",
-        bio: "Placeholder bio for a Georgia Film Society board member. Replace this with approved public language describing the member&rsquo;s background, leadership experience, civic alignment, or connection to film culture."
-      },
-      {
-        active: true,
-        name: "Board Member Three",
-        title: "Board Member",
-        photo: "assets/press/board-member-03.jpg",
-        initials: "B3",
-        bio: "Placeholder bio for a Georgia Film Society board member. Replace this with approved public language describing the member&rsquo;s background, leadership experience, civic alignment, or connection to film culture."
-      },
-      {
-        active: false,
-        name: "Board Member Four",
-        title: "Board Member",
-        photo: "assets/press/board-member-04.jpg",
-        initials: "B4",
-        bio: "Placeholder bio for a Georgia Film Society board member."
-      },
-      {
-        active: false,
-        name: "Board Member Five",
-        title: "Board Member",
-        photo: "assets/press/board-member-05.jpg",
-        initials: "B5",
-        bio: "Placeholder bio for a Georgia Film Society board member."
-      },
-      {
-        active: false,
-        name: "Board Member Six",
-        title: "Board Member",
-        photo: "assets/press/board-member-06.jpg",
-        initials: "B6",
-        bio: "Placeholder bio for a Georgia Film Society board member."
-      },
-      {
-        active: false,
-        name: "Board Member Seven",
-        title: "Board Member",
-        photo: "assets/press/board-member-07.jpg",
-        initials: "B7",
-        bio: "Placeholder bio for a Georgia Film Society board member."
-      },
-      {
-        active: false,
-        name: "Board Member Eight",
-        title: "Board Member",
-        photo: "assets/press/board-member-08.jpg",
-        initials: "B8",
-        bio: "Placeholder bio for a Georgia Film Society board member."
-      },
-      {
-        active: false,
-        name: "Board Member Nine",
-        title: "Board Member",
-        photo: "assets/press/board-member-09.jpg",
-        initials: "B9",
-        bio: "Placeholder bio for a Georgia Film Society board member."
-      }
-    ];
+  const gfsBoardMembers = [
+    {
+      active: true,
+      name: "Board Member One",
+      title: "Board Member",
+      photo: "assets/press/board-member-01.jpg",
+      initials: "B1",
+      bio: "Placeholder bio for a Georgia Film Society board member. Replace this with approved public language describing the member&rsquo;s background, leadership experience, civic alignment, or connection to film culture."
+    },
+    {
+      active: true,
+      name: "Board Member Two",
+      title: "Board Member",
+      photo: "assets/press/board-member-02.jpg",
+      initials: "B2",
+      bio: "Placeholder bio for a Georgia Film Society board member. Replace this with approved public language describing the member&rsquo;s background, leadership experience, civic alignment, or connection to film culture."
+    },
+    {
+      active: true,
+      name: "Board Member Three",
+      title: "Board Member",
+      photo: "assets/press/board-member-03.jpg",
+      initials: "B3",
+      bio: "Placeholder bio for a Georgia Film Society board member. Replace this with approved public language describing the member&rsquo;s background, leadership experience, civic alignment, or connection to film culture."
+    },
+    {
+      active: false,
+      name: "Board Member Four",
+      title: "Board Member",
+      photo: "assets/press/board-member-04.jpg",
+      initials: "B4",
+      bio: "Placeholder bio for a Georgia Film Society board member."
+    },
+    {
+      active: false,
+      name: "Board Member Five",
+      title: "Board Member",
+      photo: "assets/press/board-member-05.jpg",
+      initials: "B5",
+      bio: "Placeholder bio for a Georgia Film Society board member."
+    },
+    {
+      active: false,
+      name: "Board Member Six",
+      title: "Board Member",
+      photo: "assets/press/board-member-06.jpg",
+      initials: "B6",
+      bio: "Placeholder bio for a Georgia Film Society board member."
+    },
+    {
+      active: false,
+      name: "Board Member Seven",
+      title: "Board Member",
+      photo: "assets/press/board-member-07.jpg",
+      initials: "B7",
+      bio: "Placeholder bio for a Georgia Film Society board member."
+    },
+    {
+      active: false,
+      name: "Board Member Eight",
+      title: "Board Member",
+      photo: "assets/press/board-member-08.jpg",
+      initials: "B8",
+      bio: "Placeholder bio for a Georgia Film Society board member."
+    },
+    {
+      active: false,
+      name: "Board Member Nine",
+      title: "Board Member",
+      photo: "assets/press/board-member-09.jpg",
+      initials: "B9",
+      bio: "Placeholder bio for a Georgia Film Society board member."
+    }
+  ];
 
-    function leadershipCard(person) {
-      return `
-        <article class="overflow-hidden border border-limestone bg-ivory">
-          <div class="relative h-80 overflow-hidden bg-obsidian">
+  function leadershipCard(person) {
+    return `
+      <article class="overflow-hidden border border-limestone bg-ivory">
+        <div class="relative h-80 overflow-hidden bg-obsidian">
+          <img
+            src="${person.photo}"
+            alt="${person.name}, ${person.title}"
+            class="h-full w-full object-cover opacity-90"
+            onerror="this.style.display='none'; this.nextElementSibling.classList.remove('hidden');"
+          />
+
+          <div class="hidden flex h-full w-full items-center justify-center bg-obsidian p-8">
+            <div class="text-center">
+              <p class="font-serif text-6xl font-semibold tracking-[-0.045em] text-ivory">
+                ${person.initials}
+              </p>
+              <p class="mt-3 text-xs font-bold uppercase tracking-[0.28em] text-brass">
+                ${person.title}
+              </p>
+            </div>
+          </div>
+
+          <div class="absolute inset-0 bg-gradient-to-t from-obsidian/80 via-transparent to-transparent"></div>
+
+          <div class="absolute bottom-6 left-6">
+            <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
+              ${person.title}
+            </p>
+          </div>
+        </div>
+
+        <div class="p-8">
+          <h3 class="font-serif text-3xl font-semibold tracking-[-0.035em] text-charcoal">
+            ${person.name}
+          </h3>
+
+          <p class="mt-2 text-xs font-bold uppercase tracking-[0.22em] text-laurel">
+            ${person.title}
+          </p>
+
+          <p class="mt-5 leading-7 text-charcoal/70">
+            ${person.bio}
+          </p>
+        </div>
+      </article>
+    `;
+  }
+
+  function leadershipMobileItem(person) {
+  return `
+    <details class="group border-b border-limestone last:border-b-0">
+      <summary class="flex cursor-pointer list-none items-center justify-between gap-5 py-6 [&::-webkit-details-marker]:hidden">
+        <div class="flex min-w-0 items-center gap-4">
+          <div class="relative h-20 w-20 shrink-0 overflow-hidden bg-obsidian">
             <img
               src="${person.photo}"
               alt="${person.name}, ${person.title}"
@@ -478,60 +532,62 @@
               onerror="this.style.display='none'; this.nextElementSibling.classList.remove('hidden');"
             />
 
-            <div class="hidden flex h-full w-full items-center justify-center bg-obsidian p-8">
-              <div class="text-center">
-                <p class="font-serif text-6xl font-semibold tracking-[-0.045em] text-ivory">
-                  ${person.initials}
-                </p>
-                <p class="mt-3 text-xs font-bold uppercase tracking-[0.28em] text-brass">
-                  ${person.title}
-                </p>
-              </div>
-            </div>
-
-            <div class="absolute inset-0 bg-gradient-to-t from-obsidian/80 via-transparent to-transparent"></div>
-
-            <div class="absolute bottom-6 left-6">
-              <p class="text-xs font-bold uppercase tracking-[0.24em] text-brass">
-                ${person.title}
+            <div class="hidden flex h-full w-full items-center justify-center bg-obsidian">
+              <p class="font-serif text-2xl font-semibold tracking-[-0.035em] text-ivory">
+                ${person.initials}
               </p>
             </div>
           </div>
 
-          <div class="p-8">
-            <h3 class="font-serif text-3xl font-semibold tracking-[-0.035em] text-charcoal">
-              ${person.name}
-            </h3>
-
-            <p class="mt-2 text-xs font-bold uppercase tracking-[0.22em] text-laurel">
+          <div class="min-w-0">
+            <p class="text-xs font-bold uppercase tracking-[0.22em] text-brass">
               ${person.title}
             </p>
 
-            <p class="mt-5 leading-7 text-charcoal/70">
-              ${person.bio}
-            </p>
+            <h3 class="mt-2 font-serif text-3xl font-semibold leading-tight tracking-[-0.035em] text-charcoal">
+              ${person.name}
+            </h3>
           </div>
-        </article>
-      `;
-    }
+        </div>
 
-    const officersGrid = document.getElementById('officers-grid');
-    const boardGrid = document.getElementById('board-grid');
+        <span class="shrink-0 text-2xl leading-none text-brass transition group-open:rotate-45">
+          +
+        </span>
+      </summary>
 
-    if (officersGrid) {
-      officersGrid.innerHTML = gfsOfficers
-        .filter((person) => person.active)
-        .map(leadershipCard)
-        .join('');
-    }
+      <div class="pb-6 pl-24">
+        <p class="text-base leading-7 text-charcoal/70">
+          ${person.bio}
+        </p>
+      </div>
+    </details>
+  `;
+}
 
-    if (boardGrid) {
-      boardGrid.innerHTML = gfsBoardMembers
-        .filter((person) => person.active)
-        .map(leadershipCard)
-        .join('');
-    }
-  </script>
+  const officersGrid = document.getElementById('officers-grid');
+  const boardGrid = document.getElementById('board-grid');
+  const officersMobileList = document.getElementById('officers-mobile-list');
+  const boardMobileList = document.getElementById('board-mobile-list');
+
+  const activeOfficers = gfsOfficers.filter((person) => person.active);
+  const activeBoardMembers = gfsBoardMembers.filter((person) => person.active);
+
+  if (officersGrid) {
+    officersGrid.innerHTML = activeOfficers.map(leadershipCard).join('');
+  }
+
+  if (boardGrid) {
+    boardGrid.innerHTML = activeBoardMembers.map(leadershipCard).join('');
+  }
+
+  if (officersMobileList) {
+    officersMobileList.innerHTML = activeOfficers.map(leadershipMobileItem).join('');
+  }
+
+  if (boardMobileList) {
+    boardMobileList.innerHTML = activeBoardMembers.map(leadershipMobileItem).join('');
+  }
+</script>
 
 </main>
 

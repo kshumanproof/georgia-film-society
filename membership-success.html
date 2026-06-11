@@ -23,17 +23,16 @@
 
   <link rel="canonical" href="https://georgiafilmsociety.com/membership-success.html" />
 
-
-
   <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-gfs.png?v=30" />
   <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon-gfs.png?v=30" />
   <link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicon-gfs.png?v=30" />
   <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon-gfs.png?v=30" />
-<meta property="og:type" content="website" />
-  <meta property="og:title" content="Georgia Film Society" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Membership Confirmed | Georgia Film Society" />
   <meta
     property="og:description"
-    content="A nonprofit cinematic cultural institution for Georgia and the Southeast."
+    content="Thank you for becoming a member of Georgia Film Society."
   />
   <meta property="og:image" content="https://georgiafilmsociety.com/assets/img/social-preview.jpg" />
   <meta property="og:image:alt" content="Georgia Film Society Logo" />
@@ -41,10 +40,10 @@
   <meta property="og:site_name" content="Georgia Film Society" />
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Georgia Film Society" />
+  <meta name="twitter:title" content="Membership Confirmed | Georgia Film Society" />
   <meta
     name="twitter:description"
-    content="A nonprofit cinematic cultural institution for Georgia and the Southeast."
+    content="Thank you for becoming a member of Georgia Film Society."
   />
   <meta name="twitter:image" content="https://georgiafilmsociety.com/assets/img/social-preview.jpg" />
   <meta name="twitter:image:alt" content="Georgia Film Society Logo" />
@@ -114,12 +113,13 @@
     gtag('js', new Date());
     gtag('config', 'G-SM8VTXRTMF');
   </script>
+
   <script src="assets/js/access-guard.js"></script>
 </head>
 
 <body class="bg-ivory font-sans text-charcoal antialiased">
 
-  <header class="fixed inset-x-0 top-0 z-50 border-b border-white/10 bg-obsidian/95 text-ivory backdrop-blur">
+<header class="fixed inset-x-0 top-0 z-50 border-b border-white/10 bg-obsidian/95 text-ivory backdrop-blur">
   <div class="mx-auto flex max-w-7xl items-center justify-between px-5 py-4 lg:px-8">
     <a href="institutional.html" class="flex shrink-0 items-center gap-2" aria-label="Georgia Film Society home">
       <img
@@ -209,58 +209,286 @@
   </div>
 </header>
 
-  <section class="relative flex min-h-screen items-center overflow-hidden bg-obsidian pt-24 text-ivory">
-  <div class="absolute inset-0">
-    <div class="absolute left-[-10%] top-[10%] h-80 w-80 rounded-full bg-brass/10 blur-3xl sm:h-[34rem] sm:w-[34rem]"></div>
-    <div class="absolute bottom-[-15%] right-[-5%] h-96 w-96 rounded-full bg-laurel/20 blur-3xl sm:h-[36rem] sm:w-[36rem]"></div>
-  </div>
+<main class="bg-obsidian text-ivory">
+  <section class="relative min-h-screen overflow-hidden pt-24">
+    <canvas
+      id="membership-confetti"
+      class="pointer-events-none fixed inset-0 z-[60] h-full w-full"
+      aria-hidden="true"
+    ></canvas>
 
-  <div class="relative mx-auto max-w-5xl px-5 py-24 text-center lg:px-8">
-    <p class="text-xs font-bold uppercase tracking-[0.34em] text-brass">
-      Membership confirmed
-    </p>
-
-    <h1 class="mt-8 font-serif text-5xl font-semibold leading-none tracking-[-0.04em] sm:text-7xl">
-      Welcome to Georgia Film Society.
-    </h1>
-
-    <p class="mx-auto mt-8 max-w-3xl text-lg leading-8 text-ivory/70">
-      <p class="mx-auto mt-8 max-w-3xl text-lg leading-8 text-ivory/70">
-  Thank you for becoming a member. Your membership supports Georgia Film Society&rsquo;s year-round work in cinema culture, public programs, student access, and filmmaker-centered programming.
-</p>
-    </p>
-
-    <div class="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
-      <a href="institutional.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full bg-brass px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-obsidian transition hover:bg-ivory sm:w-[18rem]">
-        Return Home
-      </a>
-
-      <a href="programs.html" class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/30 px-7 text-center text-xs font-bold uppercase tracking-[0.24em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]">
-        Explore Programs
-      </a>
+    <div class="absolute inset-0">
+      <div class="absolute left-1/2 top-[-12rem] h-[34rem] w-[34rem] -translate-x-1/2 rounded-full bg-brass/12 blur-3xl"></div>
+      <div class="absolute left-[-12rem] top-[18%] h-[30rem] w-[30rem] rounded-full bg-laurel/18 blur-3xl"></div>
+      <div class="absolute bottom-[-14rem] right-[-10rem] h-[34rem] w-[34rem] rounded-full bg-brass/10 blur-3xl"></div>
+      <div class="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(244,240,230,0.08),transparent_42%)]"></div>
     </div>
-  </div>
-</section>
 
-  <footer class="bg-charcoal px-5 py-12 text-ivory lg:px-8">
+    <div class="relative mx-auto flex min-h-[calc(100vh-6rem)] max-w-7xl items-center px-5 py-16 lg:px-8 lg:py-24">
+      <div class="mx-auto w-full max-w-5xl">
+        <div class="mx-auto max-w-3xl text-center">
+          <div class="mx-auto flex h-16 w-16 items-center justify-center rounded-full border border-brass/35 bg-brass/12 shadow-2xl shadow-brass/10">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7 text-brass" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.7" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l5.25 5.25L19.5 6.75" />
+            </svg>
+          </div>
+
+          <p class="mt-8 text-xs font-bold uppercase tracking-[0.34em] text-brass">
+            Membership confirmed
+          </p>
+
+          <h1 class="mt-6 font-serif text-5xl font-semibold leading-none tracking-[-0.05em] sm:text-7xl lg:text-8xl">
+            Welcome to Georgia Film Society.
+          </h1>
+
+          <p class="mx-auto mt-7 max-w-3xl text-lg leading-8 text-ivory/72 sm:text-xl sm:leading-9">
+  Thank you for becoming a member. Your support helps build a year-round home for film culture, filmmakers, students, and audiences across Georgia and the Southeast.
+</p>
+        </div>
+
+        <div class="mx-auto mt-12 max-w-4xl rounded-[2rem] border border-brass/25 bg-ivory/[0.07] p-5 shadow-2xl shadow-black/35 backdrop-blur sm:p-7 lg:rounded-[2.5rem] lg:p-8">
+          <div class="grid gap-5 lg:grid-cols-[1.2fr_0.8fr] lg:items-stretch">
+            <div class="rounded-[1.5rem] border border-white/10 bg-obsidian/45 p-6 sm:p-8">
+              <p class="text-xs font-bold uppercase tracking-[0.28em] text-brass">
+                One more step
+              </p>
+
+              <h2 class="mt-4 font-serif text-4xl font-semibold leading-tight tracking-[-0.04em] text-ivory sm:text-5xl">
+                Complete your member profile.
+              </h2>
+
+              <p class="mt-5 text-base leading-8 text-ivory/68">
+                Tell us where to send member materials and which programs you care about most. This helps us keep your benefits, updates, and future mailings in the right place.
+              </p>
+
+              <div class="mt-6 rounded-2xl border border-white/10 bg-white/[0.045] p-4">
+                <p class="text-sm leading-7 text-ivory/58">
+                  Please use the same email address you used at checkout. Student members should use the same email from their student access form.
+                </p>
+              </div>
+
+              <div class="mt-7 grid gap-3 sm:grid-cols-2">
+                <a
+                  href="https://form.jotform.com/261616383877166"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="inline-flex h-12 w-full items-center justify-center rounded-full bg-brass px-6 text-center text-xs font-bold uppercase tracking-[0.22em] text-obsidian transition hover:bg-ivory"
+                >
+                  Complete Profile
+                </a>
+
+                <a
+                  href="membership.html"
+                  class="inline-flex h-12 w-full items-center justify-center rounded-full border border-ivory/28 px-6 text-center text-xs font-bold uppercase tracking-[0.22em] text-ivory transition hover:border-brass hover:text-brass"
+                >
+                  View Membership
+                </a>
+              </div>
+            </div>
+
+            <div class="grid gap-4">
+              <div class="rounded-[1.5rem] border border-white/10 bg-white/[0.045] p-6">
+                <p class="text-xs font-bold uppercase tracking-[0.26em] text-brass">
+                  Member materials
+                </p>
+
+                <p class="mt-4 text-sm leading-7 text-ivory/62">
+                  As materials become available, we may send stickers, printed updates, invitations, or other Georgia Film Society pieces by mail.
+                </p>
+              </div>
+
+              <div class="rounded-[1.5rem] border border-white/10 bg-white/[0.045] p-6">
+                <p class="text-xs font-bold uppercase tracking-[0.26em] text-brass">
+                  Student members
+                </p>
+
+                <p class="mt-4 text-sm leading-7 text-ivory/62">
+                  If you joined through a discounted student access link, your membership is confirmed.
+                </p>
+              </div>
+
+              <div class="rounded-[1.5rem] border border-brass/25 bg-brass/[0.08] p-6">
+                <p class="text-xs font-bold uppercase tracking-[0.26em] text-brass">
+                  Next
+                </p>
+
+                <p class="mt-4 text-sm leading-7 text-ivory/68">
+                  We&rsquo;ll keep you updated as programs, events, student access opportunities, and member benefits continue to develop.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="mx-auto mt-10 max-w-3xl text-center">
+          <p class="text-sm leading-7 text-ivory/45">
+            Questions about your membership? Contact us and include the email address used at checkout.
+          </p>
+
+          <div class="mt-7 flex flex-col items-center justify-center gap-3 sm:flex-row">
+            <a
+              href="contact.html"
+              class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/25 px-7 text-center text-xs font-bold uppercase tracking-[0.22em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]"
+            >
+              Contact Us
+            </a>
+
+            <a
+              href="programs.html"
+              class="inline-flex h-12 w-full max-w-[18rem] items-center justify-center rounded-full border border-ivory/25 px-7 text-center text-xs font-bold uppercase tracking-[0.22em] text-ivory transition hover:border-brass hover:text-brass sm:w-[18rem]"
+            >
+              Explore Programs
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script>
+  (function () {
+    const canvas = document.getElementById('membership-confetti');
+
+    if (!canvas || window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      if (canvas) {
+        canvas.remove();
+      }
+      return;
+    }
+
+    const ctx = canvas.getContext('2d');
+    const colors = ['#B89A5E', '#F4F0E6', '#D8D0C2', '#8F7A4E', '#1E3329'];
+    const particles = [];
+    const isMobile = window.innerWidth < 640;
+    const particleCount = isMobile ? 95 : 170;
+    const duration = 6200;
+    const releaseWindow = 1800;
+    const gravity = 0.018;
+    const drag = 0.994;
+    const start = performance.now();
+
+    let width = 0;
+    let height = 0;
+
+    function resizeCanvas() {
+      width = window.innerWidth;
+      height = window.innerHeight;
+
+      canvas.width = width * window.devicePixelRatio;
+      canvas.height = height * window.devicePixelRatio;
+      canvas.style.width = width + 'px';
+      canvas.style.height = height + 'px';
+
+      ctx.setTransform(window.devicePixelRatio, 0, 0, window.devicePixelRatio, 0, 0);
+    }
+
+    function createParticles() {
+      for (let i = 0; i < particleCount; i += 1) {
+        particles.push({
+          x: Math.random() * width,
+          y: -40 - Math.random() * 180,
+          size: 5 + Math.random() * 8,
+          speedX: (Math.random() - 0.5) * 1.8,
+          speedY: 0.8 + Math.random() * 2.4,
+          sway: Math.random() * Math.PI * 2,
+          swaySpeed: 0.018 + Math.random() * 0.035,
+          swayAmount: 0.6 + Math.random() * 1.8,
+          rotation: Math.random() * Math.PI,
+          rotationSpeed: (Math.random() - 0.5) * 0.12,
+          color: colors[Math.floor(Math.random() * colors.length)],
+          opacity: 0,
+          delay: Math.random() * releaseWindow,
+          shape: Math.random() > 0.68 ? 'circle' : 'rect'
+        });
+      }
+    }
+
+    function drawParticle(particle) {
+      ctx.save();
+      ctx.globalAlpha = particle.opacity;
+      ctx.translate(particle.x, particle.y);
+      ctx.rotate(particle.rotation);
+      ctx.fillStyle = particle.color;
+
+      if (particle.shape === 'circle') {
+        ctx.beginPath();
+        ctx.arc(0, 0, particle.size * 0.45, 0, Math.PI * 2);
+        ctx.fill();
+      } else {
+        ctx.fillRect(
+          -particle.size / 2,
+          -particle.size / 2,
+          particle.size,
+          particle.size * 0.55
+        );
+      }
+
+      ctx.restore();
+    }
+
+    function animate(now) {
+      const elapsed = now - start;
+
+      ctx.clearRect(0, 0, width, height);
+
+      particles.forEach((particle) => {
+        if (elapsed < particle.delay) {
+          return;
+        }
+
+        const life = elapsed - particle.delay;
+        const fadeIn = Math.min(life / 500, 1);
+        const fadeOut = Math.max(1 - (elapsed - duration + 1600) / 1600, 0);
+
+        particle.opacity = Math.min(fadeIn, fadeOut);
+
+        particle.sway += particle.swaySpeed;
+        particle.x += particle.speedX + Math.sin(particle.sway) * particle.swayAmount;
+        particle.y += particle.speedY;
+        particle.speedY += gravity;
+        particle.speedX *= drag;
+        particle.rotation += particle.rotationSpeed;
+
+        if (particle.y < height + 40 && particle.opacity > 0) {
+          drawParticle(particle);
+        }
+      });
+
+      if (elapsed < duration) {
+        requestAnimationFrame(animate);
+      } else {
+        canvas.remove();
+        window.removeEventListener('resize', resizeCanvas);
+      }
+    }
+
+    resizeCanvas();
+    createParticles();
+    requestAnimationFrame(animate);
+    window.addEventListener('resize', resizeCanvas);
+  })();
+</script>
+</main>
+
+<footer class="bg-charcoal px-5 py-12 text-ivory lg:px-8">
   <div class="mx-auto grid max-w-7xl gap-10 md:grid-cols-2 lg:grid-cols-4">
     <div>
       <a href="institutional.html" class="flex shrink-0 items-center gap-2" aria-label="Georgia Film Society home">
-  <img
-    src="assets/img/icon-gfs.png"
-    alt=""
-    class="h-[30px] w-[30px] shrink-0 object-contain"
-  />
+        <img
+          src="assets/img/icon-gfs.png"
+          alt=""
+          class="h-[30px] w-[30px] shrink-0 object-contain"
+        />
 
-  <div class="translate-y-[1px] text-center leading-none">
-    <div class="font-serif text-xl font-semibold leading-[0.85] tracking-[0.18em]">
-      GEORGIA
-    </div>
-    <div class="mt-1 text-center text-[10px] font-semibold uppercase leading-none tracking-[0.34em] text-brass">
-      Film Society
-    </div>
-  </div>
-</a>
+        <div class="translate-y-[1px] text-center leading-none">
+          <div class="font-serif text-xl font-semibold leading-[0.85] tracking-[0.18em]">
+            GEORGIA
+          </div>
+          <div class="mt-1 text-center text-[10px] font-semibold uppercase leading-none tracking-[0.34em] text-brass">
+            Film Society
+          </div>
+        </div>
+      </a>
 
       <p class="mt-6 max-w-xs text-sm leading-6 text-ivory/62">
         A nonprofit cinematic cultural institution for Georgia and the Southeast.
@@ -299,10 +527,12 @@
   </div>
 
   <div class="mx-auto mt-12 max-w-7xl border-t border-white/10 pt-6">
-  <p class="mx-auto max-w-5xl text-center text-xs leading-6 text-ivory/38">&copy; 2026 Georgia Film Society. All rights reserved. Programs, memberships, events, and initiatives are subject to development, availability, and change. Georgia Film Society is organized as a nonprofit cultural institution. Donation, membership, sponsorship, and program details may be updated as the organization develops. Nothing on this website should be interpreted as legal, financial, or tax advice. Tax treatment, if applicable, depends on current law and the donor&rsquo;s individual circumstances.</p>
-</div>
-
+    <p class="mx-auto max-w-5xl text-center text-xs leading-6 text-ivory/38">
+      &copy; 2026 Georgia Film Society. All rights reserved. Programs, memberships, events, and initiatives are subject to development, availability, and change. Georgia Film Society is organized as a nonprofit cultural institution. Donation, membership, sponsorship, and program details may be updated as the organization develops. Nothing on this website should be interpreted as legal, financial, or tax advice. Tax treatment, if applicable, depends on current law and the donor&rsquo;s individual circumstances.
+    </p>
+  </div>
 </footer>
+
 <button
   id="to-top"
   type="button"
@@ -359,17 +589,6 @@
     });
   });
 </script>
+
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-

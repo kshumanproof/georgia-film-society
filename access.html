@@ -78,14 +78,35 @@
             Access password
           </label>
 
-          <input
-            id="access-password"
-            type="password"
-            autocomplete="current-password"
-            required
-            class="mt-3 h-12 w-full border border-ivory/20 bg-transparent px-4 text-sm text-ivory outline-none transition placeholder:text-ivory/35 focus:border-brass"
-            placeholder="Enter password"
-          />
+          <div class="relative mt-3">
+            <input
+              id="access-password"
+              type="password"
+              autocomplete="current-password"
+              required
+              class="h-12 w-full border border-ivory/20 bg-transparent px-4 pr-12 text-sm text-ivory outline-none transition placeholder:text-ivory/35 focus:border-brass"
+              placeholder="Enter password"
+            />
+
+            <button
+              id="toggle-password"
+              type="button"
+              class="absolute inset-y-0 right-0 flex w-12 items-center justify-center text-brass/70 transition hover:text-brass"
+              aria-label="Show password"
+            >
+              <svg id="eye-open" xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.7">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 12s3.75-6.75 9.75-6.75S21.75 12 21.75 12s-3.75 6.75-9.75 6.75S2.25 12 2.25 12z" />
+                <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+              </svg>
+
+              <svg id="eye-closed" xmlns="http://www.w3.org/2000/svg" class="hidden h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.7">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M3 3l18 18" />
+                <path stroke-linecap="round" stroke-linejoin="round" d="M10.58 10.58A2 2 0 0012 14a2 2 0 001.42-.58" />
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9.88 5.24A9.7 9.7 0 0112 5.03c6 0 9.75 6.97 9.75 6.97a17.42 17.42 0 01-3.06 3.78" />
+                <path stroke-linecap="round" stroke-linejoin="round" d="M6.11 6.81C3.6 8.55 2.25 12 2.25 12s3.75 6.97 9.75 6.97a9.9 9.9 0 004.24-.94" />
+              </svg>
+            </button>
+          </div>
 
           <button
             type="submit"
@@ -110,18 +131,34 @@
     const accessForm = document.getElementById("access-form");
     const accessPassword = document.getElementById("access-password");
     const accessError = document.getElementById("access-error");
+    const togglePassword = document.getElementById("toggle-password");
+    const eyeOpen = document.getElementById("eye-open");
+    const eyeClosed = document.getElementById("eye-closed");
 
     const previewPassword = "GFSPreview2026!";
+
+    if (togglePassword && accessPassword && eyeOpen && eyeClosed) {
+      togglePassword.addEventListener("click", () => {
+        const isPasswordVisible = accessPassword.type === "text";
+
+        accessPassword.type = isPasswordVisible ? "password" : "text";
+        togglePassword.setAttribute("aria-label", isPasswordVisible ? "Show password" : "Hide password");
+
+        eyeOpen.classList.toggle("hidden", !isPasswordVisible);
+        eyeClosed.classList.toggle("hidden", isPasswordVisible);
+      });
+    }
 
     accessForm.addEventListener("submit", (event) => {
       event.preventDefault();
 
       if (accessPassword.value.trim() === previewPassword) {
         sessionStorage.setItem("gfsInstitutionalAccess", "granted");
+        sessionStorage.setItem("gfsInstitutionalLastActivity", String(Date.now()));
         window.location.href = "institutional.html";
       } else {
         accessError.classList.remove("hidden");
-        accessPassword.value = "GFSPreview2026!";
+        accessPassword.value = "";
         accessPassword.focus();
       }
     });
